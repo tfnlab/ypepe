@@ -2,7 +2,7 @@ module.exports = {
   "0": {
     "imgurl": "https://yayc.tfnlab.com/images/0.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -11,7 +11,7 @@ module.exports = {
   "1": {
     "imgurl": "https://yayc.tfnlab.com/images/1.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bloodshot",
     "hat": "Grin",
     "mouth": "Bored",
@@ -20,7 +20,7 @@ module.exports = {
   "2": {
     "imgurl": "https://yayc.tfnlab.com/images/2.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Gold Grin",
@@ -29,7 +29,7 @@ module.exports = {
   "3": {
     "imgurl": "https://yayc.tfnlab.com/images/3.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -38,7 +38,7 @@ module.exports = {
   "4": {
     "imgurl": "https://yayc.tfnlab.com/images/4.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -47,7 +47,7 @@ module.exports = {
   "5": {
     "imgurl": "https://yayc.tfnlab.com/images/5.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot",
     "hat": "Bored",
     "mouth": "Rage",
@@ -56,7 +56,7 @@ module.exports = {
   "6": {
     "imgurl": "https://yayc.tfnlab.com/images/6.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -65,7 +65,7 @@ module.exports = {
   "7": {
     "imgurl": "https://yayc.tfnlab.com/images/7.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Closed",
     "hat": "Jovial",
     "mouth": "Jovial",
@@ -74,7 +74,7 @@ module.exports = {
   "8": {
     "imgurl": "https://yayc.tfnlab.com/images/8.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -83,7 +83,7 @@ module.exports = {
   "9": {
     "imgurl": "https://yayc.tfnlab.com/images/9.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Grin",
@@ -92,7 +92,7 @@ module.exports = {
   "10": {
     "imgurl": "https://yayc.tfnlab.com/images/10.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot",
     "hat": "Jovial",
     "mouth": "Dumbfounded",
@@ -101,7 +101,7 @@ module.exports = {
   "11": {
     "imgurl": "https://yayc.tfnlab.com/images/11.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Grin",
@@ -110,7 +110,7 @@ module.exports = {
   "12": {
     "imgurl": "https://yayc.tfnlab.com/images/12.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -119,7 +119,7 @@ module.exports = {
   "13": {
     "imgurl": "https://yayc.tfnlab.com/images/13.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Bored Pizza",
@@ -128,7 +128,7 @@ module.exports = {
   "14": {
     "imgurl": "https://yayc.tfnlab.com/images/14.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -137,7 +137,7 @@ module.exports = {
   "15": {
     "imgurl": "https://yayc.tfnlab.com/images/15.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -146,7 +146,7 @@ module.exports = {
   "16": {
     "imgurl": "https://yayc.tfnlab.com/images/16.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -155,7 +155,7 @@ module.exports = {
   "17": {
     "imgurl": "https://yayc.tfnlab.com/images/17.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -164,7 +164,7 @@ module.exports = {
   "18": {
     "imgurl": "https://yayc.tfnlab.com/images/18.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -173,7 +173,7 @@ module.exports = {
   "19": {
     "imgurl": "https://yayc.tfnlab.com/images/19.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -182,7 +182,7 @@ module.exports = {
   "20": {
     "imgurl": "https://yayc.tfnlab.com/images/20.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Rage",
@@ -191,7 +191,7 @@ module.exports = {
   "21": {
     "imgurl": "https://yayc.tfnlab.com/images/21.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -200,7 +200,7 @@ module.exports = {
   "22": {
     "imgurl": "https://yayc.tfnlab.com/images/22.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -209,7 +209,7 @@ module.exports = {
   "23": {
     "imgurl": "https://yayc.tfnlab.com/images/23.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -218,7 +218,7 @@ module.exports = {
   "24": {
     "imgurl": "https://yayc.tfnlab.com/images/24.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored Yellow Lazer",
     "hat": "Jovial",
     "mouth": "Phoneme Vuh",
@@ -227,7 +227,7 @@ module.exports = {
   "25": {
     "imgurl": "https://yayc.tfnlab.com/images/25.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Bored",
@@ -236,7 +236,7 @@ module.exports = {
   "26": {
     "imgurl": "https://yayc.tfnlab.com/images/26.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Bored",
@@ -245,7 +245,7 @@ module.exports = {
   "27": {
     "imgurl": "https://yayc.tfnlab.com/images/27.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Grin",
@@ -254,7 +254,7 @@ module.exports = {
   "28": {
     "imgurl": "https://yayc.tfnlab.com/images/28.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -263,7 +263,7 @@ module.exports = {
   "29": {
     "imgurl": "https://yayc.tfnlab.com/images/29.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -272,7 +272,7 @@ module.exports = {
   "30": {
     "imgurl": "https://yayc.tfnlab.com/images/30.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -281,7 +281,7 @@ module.exports = {
   "31": {
     "imgurl": "https://yayc.tfnlab.com/images/31.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -290,7 +290,7 @@ module.exports = {
   "32": {
     "imgurl": "https://yayc.tfnlab.com/images/32.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -299,7 +299,7 @@ module.exports = {
   "33": {
     "imgurl": "https://yayc.tfnlab.com/images/33.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Jovial",
@@ -308,7 +308,7 @@ module.exports = {
   "34": {
     "imgurl": "https://yayc.tfnlab.com/images/34.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -317,7 +317,7 @@ module.exports = {
   "35": {
     "imgurl": "https://yayc.tfnlab.com/images/35.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -326,7 +326,7 @@ module.exports = {
   "36": {
     "imgurl": "https://yayc.tfnlab.com/images/36.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -335,7 +335,7 @@ module.exports = {
   "37": {
     "imgurl": "https://yayc.tfnlab.com/images/37.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Bored Pizza",
@@ -344,7 +344,7 @@ module.exports = {
   "38": {
     "imgurl": "https://yayc.tfnlab.com/images/38.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -353,7 +353,7 @@ module.exports = {
   "39": {
     "imgurl": "https://yayc.tfnlab.com/images/39.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Phoneme Vuh",
@@ -362,7 +362,7 @@ module.exports = {
   "40": {
     "imgurl": "https://yayc.tfnlab.com/images/40.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored Yellow Lazer",
     "hat": "Jovial",
     "mouth": "Rage",
@@ -371,7 +371,7 @@ module.exports = {
   "41": {
     "imgurl": "https://yayc.tfnlab.com/images/41.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -380,7 +380,7 @@ module.exports = {
   "42": {
     "imgurl": "https://yayc.tfnlab.com/images/42.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Closed",
     "hat": "Grin",
     "mouth": "Jovial",
@@ -389,7 +389,7 @@ module.exports = {
   "43": {
     "imgurl": "https://yayc.tfnlab.com/images/43.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -398,7 +398,7 @@ module.exports = {
   "44": {
     "imgurl": "https://yayc.tfnlab.com/images/44.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -407,7 +407,7 @@ module.exports = {
   "45": {
     "imgurl": "https://yayc.tfnlab.com/images/45.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Jovial",
     "mouth": "Bored",
@@ -416,7 +416,7 @@ module.exports = {
   "46": {
     "imgurl": "https://yayc.tfnlab.com/images/46.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -425,7 +425,7 @@ module.exports = {
   "47": {
     "imgurl": "https://yayc.tfnlab.com/images/47.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -434,7 +434,7 @@ module.exports = {
   "48": {
     "imgurl": "https://yayc.tfnlab.com/images/48.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Jovial",
     "mouth": "Jovial",
@@ -443,7 +443,7 @@ module.exports = {
   "49": {
     "imgurl": "https://yayc.tfnlab.com/images/49.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -452,7 +452,7 @@ module.exports = {
   "50": {
     "imgurl": "https://yayc.tfnlab.com/images/50.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -461,7 +461,7 @@ module.exports = {
   "51": {
     "imgurl": "https://yayc.tfnlab.com/images/51.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Closed",
     "hat": "Rage",
     "mouth": "Gold Grin",
@@ -470,7 +470,7 @@ module.exports = {
   "52": {
     "imgurl": "https://yayc.tfnlab.com/images/52.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Phoneme Vuh",
@@ -479,7 +479,7 @@ module.exports = {
   "53": {
     "imgurl": "https://yayc.tfnlab.com/images/53.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Rage",
@@ -488,7 +488,7 @@ module.exports = {
   "54": {
     "imgurl": "https://yayc.tfnlab.com/images/54.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Gold Grin",
@@ -497,7 +497,7 @@ module.exports = {
   "55": {
     "imgurl": "https://yayc.tfnlab.com/images/55.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -506,7 +506,7 @@ module.exports = {
   "56": {
     "imgurl": "https://yayc.tfnlab.com/images/56.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -515,7 +515,7 @@ module.exports = {
   "57": {
     "imgurl": "https://yayc.tfnlab.com/images/57.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Jovial",
@@ -524,7 +524,7 @@ module.exports = {
   "58": {
     "imgurl": "https://yayc.tfnlab.com/images/58.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Dumbfounded",
@@ -533,7 +533,7 @@ module.exports = {
   "59": {
     "imgurl": "https://yayc.tfnlab.com/images/59.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -542,7 +542,7 @@ module.exports = {
   "60": {
     "imgurl": "https://yayc.tfnlab.com/images/60.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Dumbfounded",
@@ -551,7 +551,7 @@ module.exports = {
   "61": {
     "imgurl": "https://yayc.tfnlab.com/images/61.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -560,7 +560,7 @@ module.exports = {
   "62": {
     "imgurl": "https://yayc.tfnlab.com/images/62.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -569,7 +569,7 @@ module.exports = {
   "63": {
     "imgurl": "https://yayc.tfnlab.com/images/63.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Jovial",
     "mouth": "Phoneme Vuh",
@@ -578,7 +578,7 @@ module.exports = {
   "64": {
     "imgurl": "https://yayc.tfnlab.com/images/64.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -587,7 +587,7 @@ module.exports = {
   "65": {
     "imgurl": "https://yayc.tfnlab.com/images/65.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Jovial",
     "mouth": "Gold Grin",
@@ -596,7 +596,7 @@ module.exports = {
   "66": {
     "imgurl": "https://yayc.tfnlab.com/images/66.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -605,7 +605,7 @@ module.exports = {
   "67": {
     "imgurl": "https://yayc.tfnlab.com/images/67.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -614,7 +614,7 @@ module.exports = {
   "68": {
     "imgurl": "https://yayc.tfnlab.com/images/68.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -623,7 +623,7 @@ module.exports = {
   "69": {
     "imgurl": "https://yayc.tfnlab.com/images/69.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored",
     "mouth": "Bored",
@@ -632,7 +632,7 @@ module.exports = {
   "70": {
     "imgurl": "https://yayc.tfnlab.com/images/70.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -641,7 +641,7 @@ module.exports = {
   "71": {
     "imgurl": "https://yayc.tfnlab.com/images/71.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Gold Grin",
@@ -650,7 +650,7 @@ module.exports = {
   "72": {
     "imgurl": "https://yayc.tfnlab.com/images/72.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -659,7 +659,7 @@ module.exports = {
   "73": {
     "imgurl": "https://yayc.tfnlab.com/images/73.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -668,7 +668,7 @@ module.exports = {
   "74": {
     "imgurl": "https://yayc.tfnlab.com/images/74.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -677,7 +677,7 @@ module.exports = {
   "75": {
     "imgurl": "https://yayc.tfnlab.com/images/75.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Jovial",
     "mouth": "Rage",
@@ -686,7 +686,7 @@ module.exports = {
   "76": {
     "imgurl": "https://yayc.tfnlab.com/images/76.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot",
     "hat": "Bored",
     "mouth": "Bored Pizza",
@@ -695,7 +695,7 @@ module.exports = {
   "77": {
     "imgurl": "https://yayc.tfnlab.com/images/77.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Rage",
@@ -704,7 +704,7 @@ module.exports = {
   "78": {
     "imgurl": "https://yayc.tfnlab.com/images/78.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot",
     "hat": "Jovial",
     "mouth": "Gold Grin",
@@ -713,7 +713,7 @@ module.exports = {
   "79": {
     "imgurl": "https://yayc.tfnlab.com/images/79.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Grin",
@@ -722,7 +722,7 @@ module.exports = {
   "80": {
     "imgurl": "https://yayc.tfnlab.com/images/80.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Rage",
@@ -731,7 +731,7 @@ module.exports = {
   "81": {
     "imgurl": "https://yayc.tfnlab.com/images/81.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bored",
     "hat": "Grin",
     "mouth": "Grin",
@@ -740,7 +740,7 @@ module.exports = {
   "82": {
     "imgurl": "https://yayc.tfnlab.com/images/82.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -749,7 +749,7 @@ module.exports = {
   "83": {
     "imgurl": "https://yayc.tfnlab.com/images/83.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored",
     "hat": "Gold Grin",
     "mouth": "Gold Grin",
@@ -758,7 +758,7 @@ module.exports = {
   "84": {
     "imgurl": "https://yayc.tfnlab.com/images/84.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Phoneme Vuh",
@@ -767,7 +767,7 @@ module.exports = {
   "85": {
     "imgurl": "https://yayc.tfnlab.com/images/85.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -776,7 +776,7 @@ module.exports = {
   "86": {
     "imgurl": "https://yayc.tfnlab.com/images/86.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -785,7 +785,7 @@ module.exports = {
   "87": {
     "imgurl": "https://yayc.tfnlab.com/images/87.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -794,7 +794,7 @@ module.exports = {
   "88": {
     "imgurl": "https://yayc.tfnlab.com/images/88.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Jovial",
@@ -803,7 +803,7 @@ module.exports = {
   "89": {
     "imgurl": "https://yayc.tfnlab.com/images/89.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored",
     "hat": "Jovial",
     "mouth": "Phoneme Vuh",
@@ -812,7 +812,7 @@ module.exports = {
   "90": {
     "imgurl": "https://yayc.tfnlab.com/images/90.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -821,7 +821,7 @@ module.exports = {
   "91": {
     "imgurl": "https://yayc.tfnlab.com/images/91.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -830,7 +830,7 @@ module.exports = {
   "92": {
     "imgurl": "https://yayc.tfnlab.com/images/92.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -839,7 +839,7 @@ module.exports = {
   "93": {
     "imgurl": "https://yayc.tfnlab.com/images/93.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored Blue Lazer",
     "hat": "Jovial",
     "mouth": "Bored Pizza",
@@ -848,7 +848,7 @@ module.exports = {
   "94": {
     "imgurl": "https://yayc.tfnlab.com/images/94.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -857,7 +857,7 @@ module.exports = {
   "95": {
     "imgurl": "https://yayc.tfnlab.com/images/95.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bored Yellow Lazer",
     "hat": "Grin",
     "mouth": "Bored Pizza",
@@ -866,7 +866,7 @@ module.exports = {
   "96": {
     "imgurl": "https://yayc.tfnlab.com/images/96.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Grin",
@@ -875,7 +875,7 @@ module.exports = {
   "97": {
     "imgurl": "https://yayc.tfnlab.com/images/97.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored",
     "hat": "Bored",
     "mouth": "Bored",
@@ -884,7 +884,7 @@ module.exports = {
   "98": {
     "imgurl": "https://yayc.tfnlab.com/images/98.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -893,7 +893,7 @@ module.exports = {
   "99": {
     "imgurl": "https://yayc.tfnlab.com/images/99.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Grin",
@@ -902,7 +902,7 @@ module.exports = {
   "100": {
     "imgurl": "https://yayc.tfnlab.com/images/100.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -911,7 +911,7 @@ module.exports = {
   "101": {
     "imgurl": "https://yayc.tfnlab.com/images/101.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Closed",
     "hat": "Jovial",
     "mouth": "Rage",
@@ -920,7 +920,7 @@ module.exports = {
   "102": {
     "imgurl": "https://yayc.tfnlab.com/images/102.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -929,7 +929,7 @@ module.exports = {
   "103": {
     "imgurl": "https://yayc.tfnlab.com/images/103.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Grin",
@@ -938,7 +938,7 @@ module.exports = {
   "104": {
     "imgurl": "https://yayc.tfnlab.com/images/104.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -947,7 +947,7 @@ module.exports = {
   "105": {
     "imgurl": "https://yayc.tfnlab.com/images/105.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -956,7 +956,7 @@ module.exports = {
   "106": {
     "imgurl": "https://yayc.tfnlab.com/images/106.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -965,7 +965,7 @@ module.exports = {
   "107": {
     "imgurl": "https://yayc.tfnlab.com/images/107.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -974,7 +974,7 @@ module.exports = {
   "108": {
     "imgurl": "https://yayc.tfnlab.com/images/108.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Bored",
@@ -983,7 +983,7 @@ module.exports = {
   "109": {
     "imgurl": "https://yayc.tfnlab.com/images/109.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Grin",
@@ -992,7 +992,7 @@ module.exports = {
   "110": {
     "imgurl": "https://yayc.tfnlab.com/images/110.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -1001,7 +1001,7 @@ module.exports = {
   "111": {
     "imgurl": "https://yayc.tfnlab.com/images/111.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Rage",
@@ -1010,7 +1010,7 @@ module.exports = {
   "112": {
     "imgurl": "https://yayc.tfnlab.com/images/112.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Grin",
@@ -1019,7 +1019,7 @@ module.exports = {
   "113": {
     "imgurl": "https://yayc.tfnlab.com/images/113.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -1028,7 +1028,7 @@ module.exports = {
   "114": {
     "imgurl": "https://yayc.tfnlab.com/images/114.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Dumbfounded",
@@ -1037,7 +1037,7 @@ module.exports = {
   "115": {
     "imgurl": "https://yayc.tfnlab.com/images/115.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -1046,7 +1046,7 @@ module.exports = {
   "116": {
     "imgurl": "https://yayc.tfnlab.com/images/116.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Rage",
@@ -1055,7 +1055,7 @@ module.exports = {
   "117": {
     "imgurl": "https://yayc.tfnlab.com/images/117.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -1064,7 +1064,7 @@ module.exports = {
   "118": {
     "imgurl": "https://yayc.tfnlab.com/images/118.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Jovial",
     "mouth": "Grin",
@@ -1073,7 +1073,7 @@ module.exports = {
   "119": {
     "imgurl": "https://yayc.tfnlab.com/images/119.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Grin",
@@ -1082,7 +1082,7 @@ module.exports = {
   "120": {
     "imgurl": "https://yayc.tfnlab.com/images/120.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Jovial",
@@ -1091,7 +1091,7 @@ module.exports = {
   "121": {
     "imgurl": "https://yayc.tfnlab.com/images/121.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -1100,7 +1100,7 @@ module.exports = {
   "122": {
     "imgurl": "https://yayc.tfnlab.com/images/122.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -1109,7 +1109,7 @@ module.exports = {
   "123": {
     "imgurl": "https://yayc.tfnlab.com/images/123.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Phoneme Vuh",
@@ -1118,7 +1118,7 @@ module.exports = {
   "124": {
     "imgurl": "https://yayc.tfnlab.com/images/124.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot",
     "hat": "Jovial",
     "mouth": "Phoneme Vuh",
@@ -1127,7 +1127,7 @@ module.exports = {
   "125": {
     "imgurl": "https://yayc.tfnlab.com/images/125.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -1136,7 +1136,7 @@ module.exports = {
   "126": {
     "imgurl": "https://yayc.tfnlab.com/images/126.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Phoneme Vuh",
@@ -1145,7 +1145,7 @@ module.exports = {
   "127": {
     "imgurl": "https://yayc.tfnlab.com/images/127.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Bored",
@@ -1154,7 +1154,7 @@ module.exports = {
   "128": {
     "imgurl": "https://yayc.tfnlab.com/images/128.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -1163,7 +1163,7 @@ module.exports = {
   "129": {
     "imgurl": "https://yayc.tfnlab.com/images/129.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -1172,7 +1172,7 @@ module.exports = {
   "130": {
     "imgurl": "https://yayc.tfnlab.com/images/130.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -1181,7 +1181,7 @@ module.exports = {
   "131": {
     "imgurl": "https://yayc.tfnlab.com/images/131.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -1190,7 +1190,7 @@ module.exports = {
   "132": {
     "imgurl": "https://yayc.tfnlab.com/images/132.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Closed",
     "hat": "Jovial",
     "mouth": "Gold Grin",
@@ -1199,7 +1199,7 @@ module.exports = {
   "133": {
     "imgurl": "https://yayc.tfnlab.com/images/133.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -1208,7 +1208,7 @@ module.exports = {
   "134": {
     "imgurl": "https://yayc.tfnlab.com/images/134.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Gold Grin",
@@ -1217,7 +1217,7 @@ module.exports = {
   "135": {
     "imgurl": "https://yayc.tfnlab.com/images/135.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -1226,7 +1226,7 @@ module.exports = {
   "136": {
     "imgurl": "https://yayc.tfnlab.com/images/136.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Bored",
@@ -1235,7 +1235,7 @@ module.exports = {
   "137": {
     "imgurl": "https://yayc.tfnlab.com/images/137.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -1244,7 +1244,7 @@ module.exports = {
   "138": {
     "imgurl": "https://yayc.tfnlab.com/images/138.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Jovial",
@@ -1253,7 +1253,7 @@ module.exports = {
   "139": {
     "imgurl": "https://yayc.tfnlab.com/images/139.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -1262,7 +1262,7 @@ module.exports = {
   "140": {
     "imgurl": "https://yayc.tfnlab.com/images/140.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -1271,7 +1271,7 @@ module.exports = {
   "141": {
     "imgurl": "https://yayc.tfnlab.com/images/141.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Grin",
     "mouth": "Bored",
@@ -1280,7 +1280,7 @@ module.exports = {
   "142": {
     "imgurl": "https://yayc.tfnlab.com/images/142.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -1289,7 +1289,7 @@ module.exports = {
   "143": {
     "imgurl": "https://yayc.tfnlab.com/images/143.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Jovial",
@@ -1298,7 +1298,7 @@ module.exports = {
   "144": {
     "imgurl": "https://yayc.tfnlab.com/images/144.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -1307,7 +1307,7 @@ module.exports = {
   "145": {
     "imgurl": "https://yayc.tfnlab.com/images/145.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -1316,7 +1316,7 @@ module.exports = {
   "146": {
     "imgurl": "https://yayc.tfnlab.com/images/146.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -1325,7 +1325,7 @@ module.exports = {
   "147": {
     "imgurl": "https://yayc.tfnlab.com/images/147.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -1334,7 +1334,7 @@ module.exports = {
   "148": {
     "imgurl": "https://yayc.tfnlab.com/images/148.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Jovial",
@@ -1343,7 +1343,7 @@ module.exports = {
   "149": {
     "imgurl": "https://yayc.tfnlab.com/images/149.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -1352,7 +1352,7 @@ module.exports = {
   "150": {
     "imgurl": "https://yayc.tfnlab.com/images/150.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Bored",
@@ -1361,7 +1361,7 @@ module.exports = {
   "151": {
     "imgurl": "https://yayc.tfnlab.com/images/151.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -1370,7 +1370,7 @@ module.exports = {
   "152": {
     "imgurl": "https://yayc.tfnlab.com/images/152.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored",
     "hat": "Jovial",
     "mouth": "Gold Grin",
@@ -1379,7 +1379,7 @@ module.exports = {
   "153": {
     "imgurl": "https://yayc.tfnlab.com/images/153.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -1388,7 +1388,7 @@ module.exports = {
   "154": {
     "imgurl": "https://yayc.tfnlab.com/images/154.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Phoneme Vuh",
@@ -1397,7 +1397,7 @@ module.exports = {
   "155": {
     "imgurl": "https://yayc.tfnlab.com/images/155.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Jovial",
@@ -1406,7 +1406,7 @@ module.exports = {
   "156": {
     "imgurl": "https://yayc.tfnlab.com/images/156.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -1415,7 +1415,7 @@ module.exports = {
   "157": {
     "imgurl": "https://yayc.tfnlab.com/images/157.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -1424,7 +1424,7 @@ module.exports = {
   "158": {
     "imgurl": "https://yayc.tfnlab.com/images/158.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Gold Grin",
@@ -1433,7 +1433,7 @@ module.exports = {
   "159": {
     "imgurl": "https://yayc.tfnlab.com/images/159.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Bored Pizza",
@@ -1442,7 +1442,7 @@ module.exports = {
   "160": {
     "imgurl": "https://yayc.tfnlab.com/images/160.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -1451,7 +1451,7 @@ module.exports = {
   "161": {
     "imgurl": "https://yayc.tfnlab.com/images/161.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Closed",
     "hat": "Jovial",
     "mouth": "Dumbfounded",
@@ -1460,7 +1460,7 @@ module.exports = {
   "162": {
     "imgurl": "https://yayc.tfnlab.com/images/162.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -1469,7 +1469,7 @@ module.exports = {
   "163": {
     "imgurl": "https://yayc.tfnlab.com/images/163.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -1478,7 +1478,7 @@ module.exports = {
   "164": {
     "imgurl": "https://yayc.tfnlab.com/images/164.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored",
     "hat": "Rage",
     "mouth": "Dumbfounded",
@@ -1487,7 +1487,7 @@ module.exports = {
   "165": {
     "imgurl": "https://yayc.tfnlab.com/images/165.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -1496,7 +1496,7 @@ module.exports = {
   "166": {
     "imgurl": "https://yayc.tfnlab.com/images/166.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored",
     "hat": "Rage",
     "mouth": "Bored",
@@ -1505,7 +1505,7 @@ module.exports = {
   "167": {
     "imgurl": "https://yayc.tfnlab.com/images/167.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored",
     "hat": "Bored",
     "mouth": "Bored",
@@ -1514,7 +1514,7 @@ module.exports = {
   "168": {
     "imgurl": "https://yayc.tfnlab.com/images/168.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -1523,7 +1523,7 @@ module.exports = {
   "169": {
     "imgurl": "https://yayc.tfnlab.com/images/169.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Grin",
@@ -1532,7 +1532,7 @@ module.exports = {
   "170": {
     "imgurl": "https://yayc.tfnlab.com/images/170.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -1541,7 +1541,7 @@ module.exports = {
   "171": {
     "imgurl": "https://yayc.tfnlab.com/images/171.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -1550,7 +1550,7 @@ module.exports = {
   "172": {
     "imgurl": "https://yayc.tfnlab.com/images/172.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Closed",
     "hat": "Rage",
     "mouth": "Grin",
@@ -1559,7 +1559,7 @@ module.exports = {
   "173": {
     "imgurl": "https://yayc.tfnlab.com/images/173.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -1568,7 +1568,7 @@ module.exports = {
   "174": {
     "imgurl": "https://yayc.tfnlab.com/images/174.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Jovial",
@@ -1577,7 +1577,7 @@ module.exports = {
   "175": {
     "imgurl": "https://yayc.tfnlab.com/images/175.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot",
     "hat": "Bored",
     "mouth": "Jovial",
@@ -1586,7 +1586,7 @@ module.exports = {
   "176": {
     "imgurl": "https://yayc.tfnlab.com/images/176.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -1595,7 +1595,7 @@ module.exports = {
   "177": {
     "imgurl": "https://yayc.tfnlab.com/images/177.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Bored",
@@ -1604,7 +1604,7 @@ module.exports = {
   "178": {
     "imgurl": "https://yayc.tfnlab.com/images/178.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Grin",
@@ -1613,7 +1613,7 @@ module.exports = {
   "179": {
     "imgurl": "https://yayc.tfnlab.com/images/179.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -1622,7 +1622,7 @@ module.exports = {
   "180": {
     "imgurl": "https://yayc.tfnlab.com/images/180.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored",
     "mouth": "Jovial",
@@ -1631,7 +1631,7 @@ module.exports = {
   "181": {
     "imgurl": "https://yayc.tfnlab.com/images/181.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Gold Grin",
@@ -1640,7 +1640,7 @@ module.exports = {
   "182": {
     "imgurl": "https://yayc.tfnlab.com/images/182.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Dumbfounded",
@@ -1649,7 +1649,7 @@ module.exports = {
   "183": {
     "imgurl": "https://yayc.tfnlab.com/images/183.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Jovial",
@@ -1658,7 +1658,7 @@ module.exports = {
   "184": {
     "imgurl": "https://yayc.tfnlab.com/images/184.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -1667,7 +1667,7 @@ module.exports = {
   "185": {
     "imgurl": "https://yayc.tfnlab.com/images/185.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -1676,7 +1676,7 @@ module.exports = {
   "186": {
     "imgurl": "https://yayc.tfnlab.com/images/186.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -1685,7 +1685,7 @@ module.exports = {
   "187": {
     "imgurl": "https://yayc.tfnlab.com/images/187.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Closed",
     "hat": "Rage",
     "mouth": "Grin",
@@ -1694,7 +1694,7 @@ module.exports = {
   "188": {
     "imgurl": "https://yayc.tfnlab.com/images/188.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -1703,7 +1703,7 @@ module.exports = {
   "189": {
     "imgurl": "https://yayc.tfnlab.com/images/189.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -1712,7 +1712,7 @@ module.exports = {
   "190": {
     "imgurl": "https://yayc.tfnlab.com/images/190.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Rage",
@@ -1721,7 +1721,7 @@ module.exports = {
   "191": {
     "imgurl": "https://yayc.tfnlab.com/images/191.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Phoneme Vuh",
@@ -1730,7 +1730,7 @@ module.exports = {
   "192": {
     "imgurl": "https://yayc.tfnlab.com/images/192.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -1739,7 +1739,7 @@ module.exports = {
   "193": {
     "imgurl": "https://yayc.tfnlab.com/images/193.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored",
     "mouth": "Jovial",
@@ -1748,7 +1748,7 @@ module.exports = {
   "194": {
     "imgurl": "https://yayc.tfnlab.com/images/194.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -1757,7 +1757,7 @@ module.exports = {
   "195": {
     "imgurl": "https://yayc.tfnlab.com/images/195.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored Yellow Lazer",
     "hat": "Jovial",
     "mouth": "Dumbfounded",
@@ -1766,7 +1766,7 @@ module.exports = {
   "196": {
     "imgurl": "https://yayc.tfnlab.com/images/196.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -1775,7 +1775,7 @@ module.exports = {
   "197": {
     "imgurl": "https://yayc.tfnlab.com/images/197.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Rage",
@@ -1784,7 +1784,7 @@ module.exports = {
   "198": {
     "imgurl": "https://yayc.tfnlab.com/images/198.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored",
     "mouth": "Jovial",
@@ -1793,7 +1793,7 @@ module.exports = {
   "199": {
     "imgurl": "https://yayc.tfnlab.com/images/199.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
@@ -1802,7 +1802,7 @@ module.exports = {
   "200": {
     "imgurl": "https://yayc.tfnlab.com/images/200.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Rage",
@@ -1811,7 +1811,7 @@ module.exports = {
   "201": {
     "imgurl": "https://yayc.tfnlab.com/images/201.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Grin",
@@ -1820,7 +1820,7 @@ module.exports = {
   "202": {
     "imgurl": "https://yayc.tfnlab.com/images/202.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored",
     "hat": "Rage",
     "mouth": "Bored",
@@ -1829,7 +1829,7 @@ module.exports = {
   "203": {
     "imgurl": "https://yayc.tfnlab.com/images/203.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -1838,7 +1838,7 @@ module.exports = {
   "204": {
     "imgurl": "https://yayc.tfnlab.com/images/204.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -1847,7 +1847,7 @@ module.exports = {
   "205": {
     "imgurl": "https://yayc.tfnlab.com/images/205.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored",
     "hat": "Rage",
     "mouth": "Gold Grin",
@@ -1856,7 +1856,7 @@ module.exports = {
   "206": {
     "imgurl": "https://yayc.tfnlab.com/images/206.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bored Blue Lazer",
     "hat": "Grin",
     "mouth": "Rage",
@@ -1865,7 +1865,7 @@ module.exports = {
   "207": {
     "imgurl": "https://yayc.tfnlab.com/images/207.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -1874,7 +1874,7 @@ module.exports = {
   "208": {
     "imgurl": "https://yayc.tfnlab.com/images/208.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -1883,7 +1883,7 @@ module.exports = {
   "209": {
     "imgurl": "https://yayc.tfnlab.com/images/209.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -1892,7 +1892,7 @@ module.exports = {
   "210": {
     "imgurl": "https://yayc.tfnlab.com/images/210.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -1901,7 +1901,7 @@ module.exports = {
   "211": {
     "imgurl": "https://yayc.tfnlab.com/images/211.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored",
     "hat": "Rage",
     "mouth": "Rage",
@@ -1910,7 +1910,7 @@ module.exports = {
   "212": {
     "imgurl": "https://yayc.tfnlab.com/images/212.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot",
     "hat": "Jovial",
     "mouth": "Grin",
@@ -1919,7 +1919,7 @@ module.exports = {
   "213": {
     "imgurl": "https://yayc.tfnlab.com/images/213.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Bored",
@@ -1928,7 +1928,7 @@ module.exports = {
   "214": {
     "imgurl": "https://yayc.tfnlab.com/images/214.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -1937,7 +1937,7 @@ module.exports = {
   "215": {
     "imgurl": "https://yayc.tfnlab.com/images/215.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -1946,7 +1946,7 @@ module.exports = {
   "216": {
     "imgurl": "https://yayc.tfnlab.com/images/216.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -1955,7 +1955,7 @@ module.exports = {
   "217": {
     "imgurl": "https://yayc.tfnlab.com/images/217.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored",
     "hat": "Rage",
     "mouth": "Phoneme Vuh",
@@ -1964,7 +1964,7 @@ module.exports = {
   "218": {
     "imgurl": "https://yayc.tfnlab.com/images/218.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Grin",
@@ -1973,7 +1973,7 @@ module.exports = {
   "219": {
     "imgurl": "https://yayc.tfnlab.com/images/219.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Bored",
@@ -1982,7 +1982,7 @@ module.exports = {
   "220": {
     "imgurl": "https://yayc.tfnlab.com/images/220.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored",
     "hat": "Gold Grin",
     "mouth": "Rage",
@@ -1991,7 +1991,7 @@ module.exports = {
   "221": {
     "imgurl": "https://yayc.tfnlab.com/images/221.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -2000,7 +2000,7 @@ module.exports = {
   "222": {
     "imgurl": "https://yayc.tfnlab.com/images/222.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -2009,7 +2009,7 @@ module.exports = {
   "223": {
     "imgurl": "https://yayc.tfnlab.com/images/223.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Gold Grin",
@@ -2018,7 +2018,7 @@ module.exports = {
   "224": {
     "imgurl": "https://yayc.tfnlab.com/images/224.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Dumbfounded",
@@ -2027,7 +2027,7 @@ module.exports = {
   "225": {
     "imgurl": "https://yayc.tfnlab.com/images/225.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -2036,7 +2036,7 @@ module.exports = {
   "226": {
     "imgurl": "https://yayc.tfnlab.com/images/226.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Phoneme Vuh",
@@ -2045,7 +2045,7 @@ module.exports = {
   "227": {
     "imgurl": "https://yayc.tfnlab.com/images/227.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored",
     "mouth": "Bored",
@@ -2054,7 +2054,7 @@ module.exports = {
   "228": {
     "imgurl": "https://yayc.tfnlab.com/images/228.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -2063,7 +2063,7 @@ module.exports = {
   "229": {
     "imgurl": "https://yayc.tfnlab.com/images/229.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Gold Grin",
@@ -2072,7 +2072,7 @@ module.exports = {
   "230": {
     "imgurl": "https://yayc.tfnlab.com/images/230.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Grin",
@@ -2081,7 +2081,7 @@ module.exports = {
   "231": {
     "imgurl": "https://yayc.tfnlab.com/images/231.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bored Blue Lazer",
     "hat": "Grin",
     "mouth": "Bored Pizza",
@@ -2090,7 +2090,7 @@ module.exports = {
   "232": {
     "imgurl": "https://yayc.tfnlab.com/images/232.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Grin",
@@ -2099,7 +2099,7 @@ module.exports = {
   "233": {
     "imgurl": "https://yayc.tfnlab.com/images/233.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -2108,7 +2108,7 @@ module.exports = {
   "234": {
     "imgurl": "https://yayc.tfnlab.com/images/234.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot",
     "hat": "Bored",
     "mouth": "Grin",
@@ -2117,7 +2117,7 @@ module.exports = {
   "235": {
     "imgurl": "https://yayc.tfnlab.com/images/235.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -2126,7 +2126,7 @@ module.exports = {
   "236": {
     "imgurl": "https://yayc.tfnlab.com/images/236.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -2135,7 +2135,7 @@ module.exports = {
   "237": {
     "imgurl": "https://yayc.tfnlab.com/images/237.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Jovial",
@@ -2144,7 +2144,7 @@ module.exports = {
   "238": {
     "imgurl": "https://yayc.tfnlab.com/images/238.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Bored Pizza",
@@ -2153,7 +2153,7 @@ module.exports = {
   "239": {
     "imgurl": "https://yayc.tfnlab.com/images/239.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -2162,7 +2162,7 @@ module.exports = {
   "240": {
     "imgurl": "https://yayc.tfnlab.com/images/240.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Gold Grin",
@@ -2171,7 +2171,7 @@ module.exports = {
   "241": {
     "imgurl": "https://yayc.tfnlab.com/images/241.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
@@ -2180,7 +2180,7 @@ module.exports = {
   "242": {
     "imgurl": "https://yayc.tfnlab.com/images/242.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Closed",
     "hat": "Rage",
     "mouth": "Gold Grin",
@@ -2189,7 +2189,7 @@ module.exports = {
   "243": {
     "imgurl": "https://yayc.tfnlab.com/images/243.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Gold Grin",
@@ -2198,7 +2198,7 @@ module.exports = {
   "244": {
     "imgurl": "https://yayc.tfnlab.com/images/244.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Grin",
@@ -2207,7 +2207,7 @@ module.exports = {
   "245": {
     "imgurl": "https://yayc.tfnlab.com/images/245.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Grin",
     "mouth": "Rage",
@@ -2216,7 +2216,7 @@ module.exports = {
   "246": {
     "imgurl": "https://yayc.tfnlab.com/images/246.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
@@ -2225,7 +2225,7 @@ module.exports = {
   "247": {
     "imgurl": "https://yayc.tfnlab.com/images/247.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -2234,7 +2234,7 @@ module.exports = {
   "248": {
     "imgurl": "https://yayc.tfnlab.com/images/248.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot",
     "hat": "Jovial",
     "mouth": "Phoneme Vuh",
@@ -2243,7 +2243,7 @@ module.exports = {
   "249": {
     "imgurl": "https://yayc.tfnlab.com/images/249.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Jovial",
     "mouth": "Bored",
@@ -2252,7 +2252,7 @@ module.exports = {
   "250": {
     "imgurl": "https://yayc.tfnlab.com/images/250.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -2261,7 +2261,7 @@ module.exports = {
   "251": {
     "imgurl": "https://yayc.tfnlab.com/images/251.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -2270,7 +2270,7 @@ module.exports = {
   "252": {
     "imgurl": "https://yayc.tfnlab.com/images/252.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -2279,7 +2279,7 @@ module.exports = {
   "253": {
     "imgurl": "https://yayc.tfnlab.com/images/253.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Gold Grin",
@@ -2288,7 +2288,7 @@ module.exports = {
   "254": {
     "imgurl": "https://yayc.tfnlab.com/images/254.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Gold Grin",
@@ -2297,7 +2297,7 @@ module.exports = {
   "255": {
     "imgurl": "https://yayc.tfnlab.com/images/255.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Gold Grin",
@@ -2306,7 +2306,7 @@ module.exports = {
   "256": {
     "imgurl": "https://yayc.tfnlab.com/images/256.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored Blue Lazer",
     "hat": "Rage",
     "mouth": "Jovial",
@@ -2315,7 +2315,7 @@ module.exports = {
   "257": {
     "imgurl": "https://yayc.tfnlab.com/images/257.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Phoneme Vuh",
@@ -2324,7 +2324,7 @@ module.exports = {
   "258": {
     "imgurl": "https://yayc.tfnlab.com/images/258.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -2333,7 +2333,7 @@ module.exports = {
   "259": {
     "imgurl": "https://yayc.tfnlab.com/images/259.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored",
     "hat": "Bored",
     "mouth": "Gold Grin",
@@ -2342,7 +2342,7 @@ module.exports = {
   "260": {
     "imgurl": "https://yayc.tfnlab.com/images/260.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -2351,7 +2351,7 @@ module.exports = {
   "261": {
     "imgurl": "https://yayc.tfnlab.com/images/261.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -2360,7 +2360,7 @@ module.exports = {
   "262": {
     "imgurl": "https://yayc.tfnlab.com/images/262.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -2369,7 +2369,7 @@ module.exports = {
   "263": {
     "imgurl": "https://yayc.tfnlab.com/images/263.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Bored Pizza",
@@ -2378,7 +2378,7 @@ module.exports = {
   "264": {
     "imgurl": "https://yayc.tfnlab.com/images/264.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored",
     "hat": "Gold Grin",
     "mouth": "Bored",
@@ -2387,7 +2387,7 @@ module.exports = {
   "265": {
     "imgurl": "https://yayc.tfnlab.com/images/265.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored",
     "hat": "Rage",
     "mouth": "Bored",
@@ -2396,7 +2396,7 @@ module.exports = {
   "266": {
     "imgurl": "https://yayc.tfnlab.com/images/266.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -2405,7 +2405,7 @@ module.exports = {
   "267": {
     "imgurl": "https://yayc.tfnlab.com/images/267.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Jovial",
@@ -2414,7 +2414,7 @@ module.exports = {
   "268": {
     "imgurl": "https://yayc.tfnlab.com/images/268.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Bored",
@@ -2423,7 +2423,7 @@ module.exports = {
   "269": {
     "imgurl": "https://yayc.tfnlab.com/images/269.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -2432,7 +2432,7 @@ module.exports = {
   "270": {
     "imgurl": "https://yayc.tfnlab.com/images/270.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Phoneme Vuh",
@@ -2441,7 +2441,7 @@ module.exports = {
   "271": {
     "imgurl": "https://yayc.tfnlab.com/images/271.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -2450,7 +2450,7 @@ module.exports = {
   "272": {
     "imgurl": "https://yayc.tfnlab.com/images/272.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -2459,7 +2459,7 @@ module.exports = {
   "273": {
     "imgurl": "https://yayc.tfnlab.com/images/273.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -2468,7 +2468,7 @@ module.exports = {
   "274": {
     "imgurl": "https://yayc.tfnlab.com/images/274.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -2477,7 +2477,7 @@ module.exports = {
   "275": {
     "imgurl": "https://yayc.tfnlab.com/images/275.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Dumbfounded",
@@ -2486,7 +2486,7 @@ module.exports = {
   "276": {
     "imgurl": "https://yayc.tfnlab.com/images/276.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -2495,7 +2495,7 @@ module.exports = {
   "277": {
     "imgurl": "https://yayc.tfnlab.com/images/277.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -2504,7 +2504,7 @@ module.exports = {
   "278": {
     "imgurl": "https://yayc.tfnlab.com/images/278.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
@@ -2513,7 +2513,7 @@ module.exports = {
   "279": {
     "imgurl": "https://yayc.tfnlab.com/images/279.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -2522,7 +2522,7 @@ module.exports = {
   "280": {
     "imgurl": "https://yayc.tfnlab.com/images/280.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Rage",
@@ -2531,7 +2531,7 @@ module.exports = {
   "281": {
     "imgurl": "https://yayc.tfnlab.com/images/281.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -2540,7 +2540,7 @@ module.exports = {
   "282": {
     "imgurl": "https://yayc.tfnlab.com/images/282.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored",
     "hat": "Jovial",
     "mouth": "Rage",
@@ -2549,7 +2549,7 @@ module.exports = {
   "283": {
     "imgurl": "https://yayc.tfnlab.com/images/283.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -2558,7 +2558,7 @@ module.exports = {
   "284": {
     "imgurl": "https://yayc.tfnlab.com/images/284.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -2567,7 +2567,7 @@ module.exports = {
   "285": {
     "imgurl": "https://yayc.tfnlab.com/images/285.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Bored",
@@ -2576,7 +2576,7 @@ module.exports = {
   "286": {
     "imgurl": "https://yayc.tfnlab.com/images/286.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored",
     "hat": "Bored",
     "mouth": "Rage",
@@ -2585,7 +2585,7 @@ module.exports = {
   "287": {
     "imgurl": "https://yayc.tfnlab.com/images/287.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -2594,7 +2594,7 @@ module.exports = {
   "288": {
     "imgurl": "https://yayc.tfnlab.com/images/288.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -2603,7 +2603,7 @@ module.exports = {
   "289": {
     "imgurl": "https://yayc.tfnlab.com/images/289.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored Blue Lazer",
     "hat": "Jovial",
     "mouth": "Jovial",
@@ -2612,7 +2612,7 @@ module.exports = {
   "290": {
     "imgurl": "https://yayc.tfnlab.com/images/290.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -2621,7 +2621,7 @@ module.exports = {
   "291": {
     "imgurl": "https://yayc.tfnlab.com/images/291.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Gold Grin",
@@ -2630,7 +2630,7 @@ module.exports = {
   "292": {
     "imgurl": "https://yayc.tfnlab.com/images/292.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bored",
     "hat": "Grin",
     "mouth": "Dumbfounded",
@@ -2639,7 +2639,7 @@ module.exports = {
   "293": {
     "imgurl": "https://yayc.tfnlab.com/images/293.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -2648,7 +2648,7 @@ module.exports = {
   "294": {
     "imgurl": "https://yayc.tfnlab.com/images/294.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Dumbfounded",
@@ -2657,7 +2657,7 @@ module.exports = {
   "295": {
     "imgurl": "https://yayc.tfnlab.com/images/295.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Jovial",
@@ -2666,7 +2666,7 @@ module.exports = {
   "296": {
     "imgurl": "https://yayc.tfnlab.com/images/296.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -2675,7 +2675,7 @@ module.exports = {
   "297": {
     "imgurl": "https://yayc.tfnlab.com/images/297.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -2684,7 +2684,7 @@ module.exports = {
   "298": {
     "imgurl": "https://yayc.tfnlab.com/images/298.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Gold Grin",
@@ -2693,7 +2693,7 @@ module.exports = {
   "299": {
     "imgurl": "https://yayc.tfnlab.com/images/299.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -2702,7 +2702,7 @@ module.exports = {
   "300": {
     "imgurl": "https://yayc.tfnlab.com/images/300.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -2711,7 +2711,7 @@ module.exports = {
   "301": {
     "imgurl": "https://yayc.tfnlab.com/images/301.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -2720,7 +2720,7 @@ module.exports = {
   "302": {
     "imgurl": "https://yayc.tfnlab.com/images/302.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored Blue Lazer",
     "hat": "Rage",
     "mouth": "Bored Pizza",
@@ -2729,7 +2729,7 @@ module.exports = {
   "303": {
     "imgurl": "https://yayc.tfnlab.com/images/303.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Jovial",
@@ -2738,7 +2738,7 @@ module.exports = {
   "304": {
     "imgurl": "https://yayc.tfnlab.com/images/304.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -2747,7 +2747,7 @@ module.exports = {
   "305": {
     "imgurl": "https://yayc.tfnlab.com/images/305.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Jovial",
@@ -2756,7 +2756,7 @@ module.exports = {
   "306": {
     "imgurl": "https://yayc.tfnlab.com/images/306.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -2765,7 +2765,7 @@ module.exports = {
   "307": {
     "imgurl": "https://yayc.tfnlab.com/images/307.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -2774,7 +2774,7 @@ module.exports = {
   "308": {
     "imgurl": "https://yayc.tfnlab.com/images/308.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -2783,7 +2783,7 @@ module.exports = {
   "309": {
     "imgurl": "https://yayc.tfnlab.com/images/309.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -2792,7 +2792,7 @@ module.exports = {
   "310": {
     "imgurl": "https://yayc.tfnlab.com/images/310.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Gold Grin",
@@ -2801,7 +2801,7 @@ module.exports = {
   "311": {
     "imgurl": "https://yayc.tfnlab.com/images/311.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Jovial",
@@ -2810,7 +2810,7 @@ module.exports = {
   "312": {
     "imgurl": "https://yayc.tfnlab.com/images/312.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Gold Grin",
@@ -2819,7 +2819,7 @@ module.exports = {
   "313": {
     "imgurl": "https://yayc.tfnlab.com/images/313.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -2828,7 +2828,7 @@ module.exports = {
   "314": {
     "imgurl": "https://yayc.tfnlab.com/images/314.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Bored",
@@ -2837,7 +2837,7 @@ module.exports = {
   "315": {
     "imgurl": "https://yayc.tfnlab.com/images/315.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored Yellow Lazer",
     "hat": "Rage",
     "mouth": "Jovial",
@@ -2846,7 +2846,7 @@ module.exports = {
   "316": {
     "imgurl": "https://yayc.tfnlab.com/images/316.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Rage",
@@ -2855,7 +2855,7 @@ module.exports = {
   "317": {
     "imgurl": "https://yayc.tfnlab.com/images/317.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored",
     "hat": "Jovial",
     "mouth": "Gold Grin",
@@ -2864,7 +2864,7 @@ module.exports = {
   "318": {
     "imgurl": "https://yayc.tfnlab.com/images/318.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored",
     "mouth": "Rage",
@@ -2873,7 +2873,7 @@ module.exports = {
   "319": {
     "imgurl": "https://yayc.tfnlab.com/images/319.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Bored Pizza",
@@ -2882,7 +2882,7 @@ module.exports = {
   "320": {
     "imgurl": "https://yayc.tfnlab.com/images/320.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Grin",
     "mouth": "Dumbfounded",
@@ -2891,7 +2891,7 @@ module.exports = {
   "321": {
     "imgurl": "https://yayc.tfnlab.com/images/321.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored",
     "hat": "Jovial",
     "mouth": "Rage",
@@ -2900,7 +2900,7 @@ module.exports = {
   "322": {
     "imgurl": "https://yayc.tfnlab.com/images/322.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -2909,7 +2909,7 @@ module.exports = {
   "323": {
     "imgurl": "https://yayc.tfnlab.com/images/323.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -2918,7 +2918,7 @@ module.exports = {
   "324": {
     "imgurl": "https://yayc.tfnlab.com/images/324.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
@@ -2927,7 +2927,7 @@ module.exports = {
   "325": {
     "imgurl": "https://yayc.tfnlab.com/images/325.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored Blue Lazer",
     "hat": "Rage",
     "mouth": "Jovial",
@@ -2936,7 +2936,7 @@ module.exports = {
   "326": {
     "imgurl": "https://yayc.tfnlab.com/images/326.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Gold Grin",
@@ -2945,7 +2945,7 @@ module.exports = {
   "327": {
     "imgurl": "https://yayc.tfnlab.com/images/327.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Jovial",
@@ -2954,7 +2954,7 @@ module.exports = {
   "328": {
     "imgurl": "https://yayc.tfnlab.com/images/328.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored Yellow Lazer",
     "hat": "Rage",
     "mouth": "Bored",
@@ -2963,7 +2963,7 @@ module.exports = {
   "329": {
     "imgurl": "https://yayc.tfnlab.com/images/329.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Jovial",
@@ -2972,7 +2972,7 @@ module.exports = {
   "330": {
     "imgurl": "https://yayc.tfnlab.com/images/330.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Bored Pizza",
@@ -2981,7 +2981,7 @@ module.exports = {
   "331": {
     "imgurl": "https://yayc.tfnlab.com/images/331.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Rage",
@@ -2990,7 +2990,7 @@ module.exports = {
   "332": {
     "imgurl": "https://yayc.tfnlab.com/images/332.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Rage",
@@ -2999,7 +2999,7 @@ module.exports = {
   "333": {
     "imgurl": "https://yayc.tfnlab.com/images/333.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bored Blue Lazer",
     "hat": "Grin",
     "mouth": "Phoneme Vuh",
@@ -3008,7 +3008,7 @@ module.exports = {
   "334": {
     "imgurl": "https://yayc.tfnlab.com/images/334.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -3017,7 +3017,7 @@ module.exports = {
   "335": {
     "imgurl": "https://yayc.tfnlab.com/images/335.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Grin",
     "mouth": "Bored Pizza",
@@ -3026,7 +3026,7 @@ module.exports = {
   "336": {
     "imgurl": "https://yayc.tfnlab.com/images/336.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -3035,7 +3035,7 @@ module.exports = {
   "337": {
     "imgurl": "https://yayc.tfnlab.com/images/337.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -3044,7 +3044,7 @@ module.exports = {
   "338": {
     "imgurl": "https://yayc.tfnlab.com/images/338.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -3053,7 +3053,7 @@ module.exports = {
   "339": {
     "imgurl": "https://yayc.tfnlab.com/images/339.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -3062,7 +3062,7 @@ module.exports = {
   "340": {
     "imgurl": "https://yayc.tfnlab.com/images/340.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Gold Grin",
@@ -3071,7 +3071,7 @@ module.exports = {
   "341": {
     "imgurl": "https://yayc.tfnlab.com/images/341.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Closed",
     "hat": "Jovial",
     "mouth": "Bored Pizza",
@@ -3080,7 +3080,7 @@ module.exports = {
   "342": {
     "imgurl": "https://yayc.tfnlab.com/images/342.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -3089,7 +3089,7 @@ module.exports = {
   "343": {
     "imgurl": "https://yayc.tfnlab.com/images/343.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Bored Pizza",
@@ -3098,7 +3098,7 @@ module.exports = {
   "344": {
     "imgurl": "https://yayc.tfnlab.com/images/344.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -3107,7 +3107,7 @@ module.exports = {
   "345": {
     "imgurl": "https://yayc.tfnlab.com/images/345.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Closed",
     "hat": "Jovial",
     "mouth": "Grin",
@@ -3116,7 +3116,7 @@ module.exports = {
   "346": {
     "imgurl": "https://yayc.tfnlab.com/images/346.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -3125,7 +3125,7 @@ module.exports = {
   "347": {
     "imgurl": "https://yayc.tfnlab.com/images/347.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -3134,7 +3134,7 @@ module.exports = {
   "348": {
     "imgurl": "https://yayc.tfnlab.com/images/348.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Rage",
@@ -3143,7 +3143,7 @@ module.exports = {
   "349": {
     "imgurl": "https://yayc.tfnlab.com/images/349.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Rage",
@@ -3152,7 +3152,7 @@ module.exports = {
   "350": {
     "imgurl": "https://yayc.tfnlab.com/images/350.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored",
     "mouth": "Jovial",
@@ -3161,7 +3161,7 @@ module.exports = {
   "351": {
     "imgurl": "https://yayc.tfnlab.com/images/351.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Grin",
@@ -3170,7 +3170,7 @@ module.exports = {
   "352": {
     "imgurl": "https://yayc.tfnlab.com/images/352.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Bored Pizza",
@@ -3179,7 +3179,7 @@ module.exports = {
   "353": {
     "imgurl": "https://yayc.tfnlab.com/images/353.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -3188,7 +3188,7 @@ module.exports = {
   "354": {
     "imgurl": "https://yayc.tfnlab.com/images/354.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Closed",
     "hat": "Grin",
     "mouth": "Bored Pizza",
@@ -3197,7 +3197,7 @@ module.exports = {
   "355": {
     "imgurl": "https://yayc.tfnlab.com/images/355.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored",
     "mouth": "Gold Grin",
@@ -3206,7 +3206,7 @@ module.exports = {
   "356": {
     "imgurl": "https://yayc.tfnlab.com/images/356.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Jovial",
     "mouth": "Grin",
@@ -3215,7 +3215,7 @@ module.exports = {
   "357": {
     "imgurl": "https://yayc.tfnlab.com/images/357.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -3224,7 +3224,7 @@ module.exports = {
   "358": {
     "imgurl": "https://yayc.tfnlab.com/images/358.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Dumbfounded",
@@ -3233,7 +3233,7 @@ module.exports = {
   "359": {
     "imgurl": "https://yayc.tfnlab.com/images/359.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored Yellow Lazer",
     "hat": "Jovial",
     "mouth": "Gold Grin",
@@ -3242,7 +3242,7 @@ module.exports = {
   "360": {
     "imgurl": "https://yayc.tfnlab.com/images/360.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Gold Grin",
@@ -3251,7 +3251,7 @@ module.exports = {
   "361": {
     "imgurl": "https://yayc.tfnlab.com/images/361.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -3260,7 +3260,7 @@ module.exports = {
   "362": {
     "imgurl": "https://yayc.tfnlab.com/images/362.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Dumbfounded",
@@ -3269,7 +3269,7 @@ module.exports = {
   "363": {
     "imgurl": "https://yayc.tfnlab.com/images/363.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -3278,7 +3278,7 @@ module.exports = {
   "364": {
     "imgurl": "https://yayc.tfnlab.com/images/364.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Gold Grin",
@@ -3287,7 +3287,7 @@ module.exports = {
   "365": {
     "imgurl": "https://yayc.tfnlab.com/images/365.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -3296,7 +3296,7 @@ module.exports = {
   "366": {
     "imgurl": "https://yayc.tfnlab.com/images/366.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -3305,7 +3305,7 @@ module.exports = {
   "367": {
     "imgurl": "https://yayc.tfnlab.com/images/367.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -3314,7 +3314,7 @@ module.exports = {
   "368": {
     "imgurl": "https://yayc.tfnlab.com/images/368.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -3323,7 +3323,7 @@ module.exports = {
   "369": {
     "imgurl": "https://yayc.tfnlab.com/images/369.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -3332,7 +3332,7 @@ module.exports = {
   "370": {
     "imgurl": "https://yayc.tfnlab.com/images/370.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored Yellow Lazer",
     "hat": "Rage",
     "mouth": "Bored",
@@ -3341,7 +3341,7 @@ module.exports = {
   "371": {
     "imgurl": "https://yayc.tfnlab.com/images/371.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -3350,7 +3350,7 @@ module.exports = {
   "372": {
     "imgurl": "https://yayc.tfnlab.com/images/372.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Rage",
@@ -3359,7 +3359,7 @@ module.exports = {
   "373": {
     "imgurl": "https://yayc.tfnlab.com/images/373.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -3368,7 +3368,7 @@ module.exports = {
   "374": {
     "imgurl": "https://yayc.tfnlab.com/images/374.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -3377,7 +3377,7 @@ module.exports = {
   "375": {
     "imgurl": "https://yayc.tfnlab.com/images/375.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -3386,7 +3386,7 @@ module.exports = {
   "376": {
     "imgurl": "https://yayc.tfnlab.com/images/376.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -3395,7 +3395,7 @@ module.exports = {
   "377": {
     "imgurl": "https://yayc.tfnlab.com/images/377.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -3404,7 +3404,7 @@ module.exports = {
   "378": {
     "imgurl": "https://yayc.tfnlab.com/images/378.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -3413,7 +3413,7 @@ module.exports = {
   "379": {
     "imgurl": "https://yayc.tfnlab.com/images/379.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored Yellow Lazer",
     "hat": "Rage",
     "mouth": "Jovial",
@@ -3422,7 +3422,7 @@ module.exports = {
   "380": {
     "imgurl": "https://yayc.tfnlab.com/images/380.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored",
     "mouth": "Bored",
@@ -3431,7 +3431,7 @@ module.exports = {
   "381": {
     "imgurl": "https://yayc.tfnlab.com/images/381.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -3440,7 +3440,7 @@ module.exports = {
   "382": {
     "imgurl": "https://yayc.tfnlab.com/images/382.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bored",
     "hat": "Grin",
     "mouth": "Phoneme Vuh",
@@ -3449,7 +3449,7 @@ module.exports = {
   "383": {
     "imgurl": "https://yayc.tfnlab.com/images/383.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -3458,7 +3458,7 @@ module.exports = {
   "384": {
     "imgurl": "https://yayc.tfnlab.com/images/384.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Bored Pizza",
@@ -3467,7 +3467,7 @@ module.exports = {
   "385": {
     "imgurl": "https://yayc.tfnlab.com/images/385.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -3476,7 +3476,7 @@ module.exports = {
   "386": {
     "imgurl": "https://yayc.tfnlab.com/images/386.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot",
     "hat": "Jovial",
     "mouth": "Grin",
@@ -3485,7 +3485,7 @@ module.exports = {
   "387": {
     "imgurl": "https://yayc.tfnlab.com/images/387.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -3494,7 +3494,7 @@ module.exports = {
   "388": {
     "imgurl": "https://yayc.tfnlab.com/images/388.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -3503,7 +3503,7 @@ module.exports = {
   "389": {
     "imgurl": "https://yayc.tfnlab.com/images/389.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Grin",
@@ -3512,7 +3512,7 @@ module.exports = {
   "390": {
     "imgurl": "https://yayc.tfnlab.com/images/390.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
@@ -3521,7 +3521,7 @@ module.exports = {
   "391": {
     "imgurl": "https://yayc.tfnlab.com/images/391.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -3530,7 +3530,7 @@ module.exports = {
   "392": {
     "imgurl": "https://yayc.tfnlab.com/images/392.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -3539,7 +3539,7 @@ module.exports = {
   "393": {
     "imgurl": "https://yayc.tfnlab.com/images/393.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -3548,7 +3548,7 @@ module.exports = {
   "394": {
     "imgurl": "https://yayc.tfnlab.com/images/394.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Grin",
     "mouth": "Dumbfounded",
@@ -3557,7 +3557,7 @@ module.exports = {
   "395": {
     "imgurl": "https://yayc.tfnlab.com/images/395.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Phoneme Vuh",
@@ -3566,7 +3566,7 @@ module.exports = {
   "396": {
     "imgurl": "https://yayc.tfnlab.com/images/396.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -3575,7 +3575,7 @@ module.exports = {
   "397": {
     "imgurl": "https://yayc.tfnlab.com/images/397.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -3584,7 +3584,7 @@ module.exports = {
   "398": {
     "imgurl": "https://yayc.tfnlab.com/images/398.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Rage",
@@ -3593,7 +3593,7 @@ module.exports = {
   "399": {
     "imgurl": "https://yayc.tfnlab.com/images/399.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored",
     "hat": "Gold Grin",
     "mouth": "Jovial",
@@ -3602,7 +3602,7 @@ module.exports = {
   "400": {
     "imgurl": "https://yayc.tfnlab.com/images/400.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot",
     "hat": "Bored",
     "mouth": "Bored",
@@ -3611,7 +3611,7 @@ module.exports = {
   "401": {
     "imgurl": "https://yayc.tfnlab.com/images/401.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Gold Grin",
@@ -3620,7 +3620,7 @@ module.exports = {
   "402": {
     "imgurl": "https://yayc.tfnlab.com/images/402.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Closed",
     "hat": "Jovial",
     "mouth": "Bored Pizza",
@@ -3629,7 +3629,7 @@ module.exports = {
   "403": {
     "imgurl": "https://yayc.tfnlab.com/images/403.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored",
     "mouth": "Jovial",
@@ -3638,7 +3638,7 @@ module.exports = {
   "404": {
     "imgurl": "https://yayc.tfnlab.com/images/404.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bloodshot",
     "hat": "Grin",
     "mouth": "Grin",
@@ -3647,7 +3647,7 @@ module.exports = {
   "405": {
     "imgurl": "https://yayc.tfnlab.com/images/405.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Rage",
@@ -3656,7 +3656,7 @@ module.exports = {
   "406": {
     "imgurl": "https://yayc.tfnlab.com/images/406.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Rage",
@@ -3665,7 +3665,7 @@ module.exports = {
   "407": {
     "imgurl": "https://yayc.tfnlab.com/images/407.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored Yellow Lazer",
     "hat": "Jovial",
     "mouth": "Rage",
@@ -3674,7 +3674,7 @@ module.exports = {
   "408": {
     "imgurl": "https://yayc.tfnlab.com/images/408.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Jovial",
@@ -3683,7 +3683,7 @@ module.exports = {
   "409": {
     "imgurl": "https://yayc.tfnlab.com/images/409.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -3692,7 +3692,7 @@ module.exports = {
   "410": {
     "imgurl": "https://yayc.tfnlab.com/images/410.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored Yellow Lazer",
     "hat": "Jovial",
     "mouth": "Rage",
@@ -3701,7 +3701,7 @@ module.exports = {
   "411": {
     "imgurl": "https://yayc.tfnlab.com/images/411.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored Blue Lazer",
     "hat": "Jovial",
     "mouth": "Rage",
@@ -3710,7 +3710,7 @@ module.exports = {
   "412": {
     "imgurl": "https://yayc.tfnlab.com/images/412.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
@@ -3719,7 +3719,7 @@ module.exports = {
   "413": {
     "imgurl": "https://yayc.tfnlab.com/images/413.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -3728,7 +3728,7 @@ module.exports = {
   "414": {
     "imgurl": "https://yayc.tfnlab.com/images/414.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Bored Pizza",
@@ -3737,7 +3737,7 @@ module.exports = {
   "415": {
     "imgurl": "https://yayc.tfnlab.com/images/415.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Closed",
     "hat": "Jovial",
     "mouth": "Jovial",
@@ -3746,7 +3746,7 @@ module.exports = {
   "416": {
     "imgurl": "https://yayc.tfnlab.com/images/416.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Jovial",
@@ -3755,7 +3755,7 @@ module.exports = {
   "417": {
     "imgurl": "https://yayc.tfnlab.com/images/417.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Closed",
     "hat": "Jovial",
     "mouth": "Bored",
@@ -3764,7 +3764,7 @@ module.exports = {
   "418": {
     "imgurl": "https://yayc.tfnlab.com/images/418.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored Blue Lazer",
     "hat": "Jovial",
     "mouth": "Jovial",
@@ -3773,7 +3773,7 @@ module.exports = {
   "419": {
     "imgurl": "https://yayc.tfnlab.com/images/419.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -3782,7 +3782,7 @@ module.exports = {
   "420": {
     "imgurl": "https://yayc.tfnlab.com/images/420.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored",
     "hat": "Gold Grin",
     "mouth": "Rage",
@@ -3791,7 +3791,7 @@ module.exports = {
   "421": {
     "imgurl": "https://yayc.tfnlab.com/images/421.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Gold Grin",
@@ -3800,7 +3800,7 @@ module.exports = {
   "422": {
     "imgurl": "https://yayc.tfnlab.com/images/422.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Jovial",
@@ -3809,7 +3809,7 @@ module.exports = {
   "423": {
     "imgurl": "https://yayc.tfnlab.com/images/423.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -3818,7 +3818,7 @@ module.exports = {
   "424": {
     "imgurl": "https://yayc.tfnlab.com/images/424.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -3827,7 +3827,7 @@ module.exports = {
   "425": {
     "imgurl": "https://yayc.tfnlab.com/images/425.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored Yellow Lazer",
     "hat": "Rage",
     "mouth": "Dumbfounded",
@@ -3836,7 +3836,7 @@ module.exports = {
   "426": {
     "imgurl": "https://yayc.tfnlab.com/images/426.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Dumbfounded",
@@ -3845,7 +3845,7 @@ module.exports = {
   "427": {
     "imgurl": "https://yayc.tfnlab.com/images/427.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -3854,7 +3854,7 @@ module.exports = {
   "428": {
     "imgurl": "https://yayc.tfnlab.com/images/428.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Bored",
@@ -3863,7 +3863,7 @@ module.exports = {
   "429": {
     "imgurl": "https://yayc.tfnlab.com/images/429.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Rage",
@@ -3872,7 +3872,7 @@ module.exports = {
   "430": {
     "imgurl": "https://yayc.tfnlab.com/images/430.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -3881,7 +3881,7 @@ module.exports = {
   "431": {
     "imgurl": "https://yayc.tfnlab.com/images/431.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Jovial",
     "mouth": "Phoneme Vuh",
@@ -3890,7 +3890,7 @@ module.exports = {
   "432": {
     "imgurl": "https://yayc.tfnlab.com/images/432.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bored Yellow Lazer",
     "hat": "Grin",
     "mouth": "Jovial",
@@ -3899,7 +3899,7 @@ module.exports = {
   "433": {
     "imgurl": "https://yayc.tfnlab.com/images/433.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -3908,7 +3908,7 @@ module.exports = {
   "434": {
     "imgurl": "https://yayc.tfnlab.com/images/434.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -3917,7 +3917,7 @@ module.exports = {
   "435": {
     "imgurl": "https://yayc.tfnlab.com/images/435.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Bored Pizza",
@@ -3926,7 +3926,7 @@ module.exports = {
   "436": {
     "imgurl": "https://yayc.tfnlab.com/images/436.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Phoneme Vuh",
@@ -3935,7 +3935,7 @@ module.exports = {
   "437": {
     "imgurl": "https://yayc.tfnlab.com/images/437.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Gold Grin",
@@ -3944,7 +3944,7 @@ module.exports = {
   "438": {
     "imgurl": "https://yayc.tfnlab.com/images/438.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Bored Pizza",
@@ -3953,7 +3953,7 @@ module.exports = {
   "439": {
     "imgurl": "https://yayc.tfnlab.com/images/439.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored Yellow Lazer",
     "hat": "Jovial",
     "mouth": "Bored",
@@ -3962,7 +3962,7 @@ module.exports = {
   "440": {
     "imgurl": "https://yayc.tfnlab.com/images/440.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored",
     "hat": "Jovial",
     "mouth": "Bored Pizza",
@@ -3971,7 +3971,7 @@ module.exports = {
   "441": {
     "imgurl": "https://yayc.tfnlab.com/images/441.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Dumbfounded",
@@ -3980,7 +3980,7 @@ module.exports = {
   "442": {
     "imgurl": "https://yayc.tfnlab.com/images/442.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored Blue Lazer",
     "hat": "Rage",
     "mouth": "Rage",
@@ -3989,7 +3989,7 @@ module.exports = {
   "443": {
     "imgurl": "https://yayc.tfnlab.com/images/443.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -3998,7 +3998,7 @@ module.exports = {
   "444": {
     "imgurl": "https://yayc.tfnlab.com/images/444.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -4007,7 +4007,7 @@ module.exports = {
   "445": {
     "imgurl": "https://yayc.tfnlab.com/images/445.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Rage",
@@ -4016,7 +4016,7 @@ module.exports = {
   "446": {
     "imgurl": "https://yayc.tfnlab.com/images/446.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Dumbfounded",
@@ -4025,7 +4025,7 @@ module.exports = {
   "447": {
     "imgurl": "https://yayc.tfnlab.com/images/447.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bored Blue Lazer",
     "hat": "Grin",
     "mouth": "Gold Grin",
@@ -4034,7 +4034,7 @@ module.exports = {
   "448": {
     "imgurl": "https://yayc.tfnlab.com/images/448.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot",
     "hat": "Jovial",
     "mouth": "Bored",
@@ -4043,7 +4043,7 @@ module.exports = {
   "449": {
     "imgurl": "https://yayc.tfnlab.com/images/449.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -4052,7 +4052,7 @@ module.exports = {
   "450": {
     "imgurl": "https://yayc.tfnlab.com/images/450.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Grin",
@@ -4061,7 +4061,7 @@ module.exports = {
   "451": {
     "imgurl": "https://yayc.tfnlab.com/images/451.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Jovial",
@@ -4070,7 +4070,7 @@ module.exports = {
   "452": {
     "imgurl": "https://yayc.tfnlab.com/images/452.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -4079,7 +4079,7 @@ module.exports = {
   "453": {
     "imgurl": "https://yayc.tfnlab.com/images/453.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored",
     "hat": "Gold Grin",
     "mouth": "Dumbfounded",
@@ -4088,7 +4088,7 @@ module.exports = {
   "454": {
     "imgurl": "https://yayc.tfnlab.com/images/454.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -4097,7 +4097,7 @@ module.exports = {
   "455": {
     "imgurl": "https://yayc.tfnlab.com/images/455.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -4106,7 +4106,7 @@ module.exports = {
   "456": {
     "imgurl": "https://yayc.tfnlab.com/images/456.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Closed",
     "hat": "Jovial",
     "mouth": "Rage",
@@ -4115,7 +4115,7 @@ module.exports = {
   "457": {
     "imgurl": "https://yayc.tfnlab.com/images/457.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Bored",
@@ -4124,7 +4124,7 @@ module.exports = {
   "458": {
     "imgurl": "https://yayc.tfnlab.com/images/458.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Gold Grin",
@@ -4133,7 +4133,7 @@ module.exports = {
   "459": {
     "imgurl": "https://yayc.tfnlab.com/images/459.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored",
     "mouth": "Dumbfounded",
@@ -4142,7 +4142,7 @@ module.exports = {
   "460": {
     "imgurl": "https://yayc.tfnlab.com/images/460.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -4151,7 +4151,7 @@ module.exports = {
   "461": {
     "imgurl": "https://yayc.tfnlab.com/images/461.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Rage",
@@ -4160,7 +4160,7 @@ module.exports = {
   "462": {
     "imgurl": "https://yayc.tfnlab.com/images/462.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Gold Grin",
@@ -4169,7 +4169,7 @@ module.exports = {
   "463": {
     "imgurl": "https://yayc.tfnlab.com/images/463.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored",
     "mouth": "Bored Pizza",
@@ -4178,7 +4178,7 @@ module.exports = {
   "464": {
     "imgurl": "https://yayc.tfnlab.com/images/464.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -4187,7 +4187,7 @@ module.exports = {
   "465": {
     "imgurl": "https://yayc.tfnlab.com/images/465.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -4196,7 +4196,7 @@ module.exports = {
   "466": {
     "imgurl": "https://yayc.tfnlab.com/images/466.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -4205,7 +4205,7 @@ module.exports = {
   "467": {
     "imgurl": "https://yayc.tfnlab.com/images/467.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Grin",
@@ -4214,7 +4214,7 @@ module.exports = {
   "468": {
     "imgurl": "https://yayc.tfnlab.com/images/468.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Bored",
@@ -4223,7 +4223,7 @@ module.exports = {
   "469": {
     "imgurl": "https://yayc.tfnlab.com/images/469.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bloodshot",
     "hat": "Grin",
     "mouth": "Bored",
@@ -4232,7 +4232,7 @@ module.exports = {
   "470": {
     "imgurl": "https://yayc.tfnlab.com/images/470.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Closed",
     "hat": "Grin",
     "mouth": "Rage",
@@ -4241,7 +4241,7 @@ module.exports = {
   "471": {
     "imgurl": "https://yayc.tfnlab.com/images/471.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Phoneme Vuh",
@@ -4250,7 +4250,7 @@ module.exports = {
   "472": {
     "imgurl": "https://yayc.tfnlab.com/images/472.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored",
     "mouth": "Gold Grin",
@@ -4259,7 +4259,7 @@ module.exports = {
   "473": {
     "imgurl": "https://yayc.tfnlab.com/images/473.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Phoneme Vuh",
@@ -4268,7 +4268,7 @@ module.exports = {
   "474": {
     "imgurl": "https://yayc.tfnlab.com/images/474.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Closed",
     "hat": "Jovial",
     "mouth": "Dumbfounded",
@@ -4277,7 +4277,7 @@ module.exports = {
   "475": {
     "imgurl": "https://yayc.tfnlab.com/images/475.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Bored Pizza",
@@ -4286,7 +4286,7 @@ module.exports = {
   "476": {
     "imgurl": "https://yayc.tfnlab.com/images/476.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bored Blue Lazer",
     "hat": "Grin",
     "mouth": "Rage",
@@ -4295,7 +4295,7 @@ module.exports = {
   "477": {
     "imgurl": "https://yayc.tfnlab.com/images/477.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Bored",
@@ -4304,7 +4304,7 @@ module.exports = {
   "478": {
     "imgurl": "https://yayc.tfnlab.com/images/478.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot",
     "hat": "Jovial",
     "mouth": "Phoneme Vuh",
@@ -4313,7 +4313,7 @@ module.exports = {
   "479": {
     "imgurl": "https://yayc.tfnlab.com/images/479.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored Yellow Lazer",
     "hat": "Rage",
     "mouth": "Rage",
@@ -4322,7 +4322,7 @@ module.exports = {
   "480": {
     "imgurl": "https://yayc.tfnlab.com/images/480.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Grin",
@@ -4331,7 +4331,7 @@ module.exports = {
   "481": {
     "imgurl": "https://yayc.tfnlab.com/images/481.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored Blue Lazer",
     "hat": "Jovial",
     "mouth": "Bored Pizza",
@@ -4340,7 +4340,7 @@ module.exports = {
   "482": {
     "imgurl": "https://yayc.tfnlab.com/images/482.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
@@ -4349,7 +4349,7 @@ module.exports = {
   "483": {
     "imgurl": "https://yayc.tfnlab.com/images/483.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -4358,7 +4358,7 @@ module.exports = {
   "484": {
     "imgurl": "https://yayc.tfnlab.com/images/484.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Bored Pizza",
@@ -4367,7 +4367,7 @@ module.exports = {
   "485": {
     "imgurl": "https://yayc.tfnlab.com/images/485.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
@@ -4376,7 +4376,7 @@ module.exports = {
   "486": {
     "imgurl": "https://yayc.tfnlab.com/images/486.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -4385,7 +4385,7 @@ module.exports = {
   "487": {
     "imgurl": "https://yayc.tfnlab.com/images/487.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Bored",
@@ -4394,7 +4394,7 @@ module.exports = {
   "488": {
     "imgurl": "https://yayc.tfnlab.com/images/488.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -4403,7 +4403,7 @@ module.exports = {
   "489": {
     "imgurl": "https://yayc.tfnlab.com/images/489.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Jovial",
@@ -4412,7 +4412,7 @@ module.exports = {
   "490": {
     "imgurl": "https://yayc.tfnlab.com/images/490.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored",
     "mouth": "Bored",
@@ -4421,7 +4421,7 @@ module.exports = {
   "491": {
     "imgurl": "https://yayc.tfnlab.com/images/491.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -4430,7 +4430,7 @@ module.exports = {
   "492": {
     "imgurl": "https://yayc.tfnlab.com/images/492.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored Yellow Lazer",
     "hat": "Jovial",
     "mouth": "Gold Grin",
@@ -4439,7 +4439,7 @@ module.exports = {
   "493": {
     "imgurl": "https://yayc.tfnlab.com/images/493.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Rage",
@@ -4448,7 +4448,7 @@ module.exports = {
   "494": {
     "imgurl": "https://yayc.tfnlab.com/images/494.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored Blue Lazer",
     "hat": "Jovial",
     "mouth": "Gold Grin",
@@ -4457,7 +4457,7 @@ module.exports = {
   "495": {
     "imgurl": "https://yayc.tfnlab.com/images/495.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -4466,7 +4466,7 @@ module.exports = {
   "496": {
     "imgurl": "https://yayc.tfnlab.com/images/496.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -4475,7 +4475,7 @@ module.exports = {
   "497": {
     "imgurl": "https://yayc.tfnlab.com/images/497.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored Yellow Lazer",
     "hat": "Rage",
     "mouth": "Grin",
@@ -4484,7 +4484,7 @@ module.exports = {
   "498": {
     "imgurl": "https://yayc.tfnlab.com/images/498.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -4493,7 +4493,7 @@ module.exports = {
   "499": {
     "imgurl": "https://yayc.tfnlab.com/images/499.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot",
     "hat": "Bored",
     "mouth": "Phoneme Vuh",
@@ -4502,7 +4502,7 @@ module.exports = {
   "500": {
     "imgurl": "https://yayc.tfnlab.com/images/500.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Gold Grin",
@@ -4511,7 +4511,7 @@ module.exports = {
   "501": {
     "imgurl": "https://yayc.tfnlab.com/images/501.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -4520,7 +4520,7 @@ module.exports = {
   "502": {
     "imgurl": "https://yayc.tfnlab.com/images/502.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Grin",
     "mouth": "Jovial",
@@ -4529,7 +4529,7 @@ module.exports = {
   "503": {
     "imgurl": "https://yayc.tfnlab.com/images/503.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Closed",
     "hat": "Grin",
     "mouth": "Rage",
@@ -4538,7 +4538,7 @@ module.exports = {
   "504": {
     "imgurl": "https://yayc.tfnlab.com/images/504.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -4547,7 +4547,7 @@ module.exports = {
   "505": {
     "imgurl": "https://yayc.tfnlab.com/images/505.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Grin",
@@ -4556,7 +4556,7 @@ module.exports = {
   "506": {
     "imgurl": "https://yayc.tfnlab.com/images/506.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -4565,7 +4565,7 @@ module.exports = {
   "507": {
     "imgurl": "https://yayc.tfnlab.com/images/507.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Phoneme Vuh",
@@ -4574,7 +4574,7 @@ module.exports = {
   "508": {
     "imgurl": "https://yayc.tfnlab.com/images/508.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -4583,7 +4583,7 @@ module.exports = {
   "509": {
     "imgurl": "https://yayc.tfnlab.com/images/509.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -4592,7 +4592,7 @@ module.exports = {
   "510": {
     "imgurl": "https://yayc.tfnlab.com/images/510.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Bored Pizza",
@@ -4601,7 +4601,7 @@ module.exports = {
   "511": {
     "imgurl": "https://yayc.tfnlab.com/images/511.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -4610,7 +4610,7 @@ module.exports = {
   "512": {
     "imgurl": "https://yayc.tfnlab.com/images/512.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -4619,7 +4619,7 @@ module.exports = {
   "513": {
     "imgurl": "https://yayc.tfnlab.com/images/513.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Jovial",
@@ -4628,7 +4628,7 @@ module.exports = {
   "514": {
     "imgurl": "https://yayc.tfnlab.com/images/514.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -4637,7 +4637,7 @@ module.exports = {
   "515": {
     "imgurl": "https://yayc.tfnlab.com/images/515.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -4646,7 +4646,7 @@ module.exports = {
   "516": {
     "imgurl": "https://yayc.tfnlab.com/images/516.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored",
     "mouth": "Dumbfounded",
@@ -4655,7 +4655,7 @@ module.exports = {
   "517": {
     "imgurl": "https://yayc.tfnlab.com/images/517.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -4664,7 +4664,7 @@ module.exports = {
   "518": {
     "imgurl": "https://yayc.tfnlab.com/images/518.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -4673,7 +4673,7 @@ module.exports = {
   "519": {
     "imgurl": "https://yayc.tfnlab.com/images/519.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -4682,7 +4682,7 @@ module.exports = {
   "520": {
     "imgurl": "https://yayc.tfnlab.com/images/520.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -4691,7 +4691,7 @@ module.exports = {
   "521": {
     "imgurl": "https://yayc.tfnlab.com/images/521.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored",
     "hat": "Rage",
     "mouth": "Dumbfounded",
@@ -4700,7 +4700,7 @@ module.exports = {
   "522": {
     "imgurl": "https://yayc.tfnlab.com/images/522.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Bored Pizza",
@@ -4709,7 +4709,7 @@ module.exports = {
   "523": {
     "imgurl": "https://yayc.tfnlab.com/images/523.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -4718,7 +4718,7 @@ module.exports = {
   "524": {
     "imgurl": "https://yayc.tfnlab.com/images/524.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -4727,7 +4727,7 @@ module.exports = {
   "525": {
     "imgurl": "https://yayc.tfnlab.com/images/525.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -4736,7 +4736,7 @@ module.exports = {
   "526": {
     "imgurl": "https://yayc.tfnlab.com/images/526.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Grin",
@@ -4745,7 +4745,7 @@ module.exports = {
   "527": {
     "imgurl": "https://yayc.tfnlab.com/images/527.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Rage",
@@ -4754,7 +4754,7 @@ module.exports = {
   "528": {
     "imgurl": "https://yayc.tfnlab.com/images/528.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -4763,7 +4763,7 @@ module.exports = {
   "529": {
     "imgurl": "https://yayc.tfnlab.com/images/529.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -4772,7 +4772,7 @@ module.exports = {
   "530": {
     "imgurl": "https://yayc.tfnlab.com/images/530.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Rage",
@@ -4781,7 +4781,7 @@ module.exports = {
   "531": {
     "imgurl": "https://yayc.tfnlab.com/images/531.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -4790,7 +4790,7 @@ module.exports = {
   "532": {
     "imgurl": "https://yayc.tfnlab.com/images/532.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -4799,7 +4799,7 @@ module.exports = {
   "533": {
     "imgurl": "https://yayc.tfnlab.com/images/533.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Gold Grin",
@@ -4808,7 +4808,7 @@ module.exports = {
   "534": {
     "imgurl": "https://yayc.tfnlab.com/images/534.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Grin",
@@ -4817,7 +4817,7 @@ module.exports = {
   "535": {
     "imgurl": "https://yayc.tfnlab.com/images/535.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Rage",
@@ -4826,7 +4826,7 @@ module.exports = {
   "536": {
     "imgurl": "https://yayc.tfnlab.com/images/536.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -4835,7 +4835,7 @@ module.exports = {
   "537": {
     "imgurl": "https://yayc.tfnlab.com/images/537.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Bored",
@@ -4844,7 +4844,7 @@ module.exports = {
   "538": {
     "imgurl": "https://yayc.tfnlab.com/images/538.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -4853,7 +4853,7 @@ module.exports = {
   "539": {
     "imgurl": "https://yayc.tfnlab.com/images/539.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Grin",
@@ -4862,7 +4862,7 @@ module.exports = {
   "540": {
     "imgurl": "https://yayc.tfnlab.com/images/540.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Phoneme Vuh",
@@ -4871,7 +4871,7 @@ module.exports = {
   "541": {
     "imgurl": "https://yayc.tfnlab.com/images/541.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot",
     "hat": "Bored",
     "mouth": "Dumbfounded",
@@ -4880,7 +4880,7 @@ module.exports = {
   "542": {
     "imgurl": "https://yayc.tfnlab.com/images/542.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -4889,7 +4889,7 @@ module.exports = {
   "543": {
     "imgurl": "https://yayc.tfnlab.com/images/543.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -4898,7 +4898,7 @@ module.exports = {
   "544": {
     "imgurl": "https://yayc.tfnlab.com/images/544.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Jovial",
     "mouth": "Jovial",
@@ -4907,7 +4907,7 @@ module.exports = {
   "545": {
     "imgurl": "https://yayc.tfnlab.com/images/545.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Closed",
     "hat": "Rage",
     "mouth": "Grin",
@@ -4916,7 +4916,7 @@ module.exports = {
   "546": {
     "imgurl": "https://yayc.tfnlab.com/images/546.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Bored Pizza",
@@ -4925,7 +4925,7 @@ module.exports = {
   "547": {
     "imgurl": "https://yayc.tfnlab.com/images/547.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Dumbfounded",
@@ -4934,7 +4934,7 @@ module.exports = {
   "548": {
     "imgurl": "https://yayc.tfnlab.com/images/548.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -4943,7 +4943,7 @@ module.exports = {
   "549": {
     "imgurl": "https://yayc.tfnlab.com/images/549.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
@@ -4952,7 +4952,7 @@ module.exports = {
   "550": {
     "imgurl": "https://yayc.tfnlab.com/images/550.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Rage",
@@ -4961,7 +4961,7 @@ module.exports = {
   "551": {
     "imgurl": "https://yayc.tfnlab.com/images/551.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -4970,7 +4970,7 @@ module.exports = {
   "552": {
     "imgurl": "https://yayc.tfnlab.com/images/552.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -4979,7 +4979,7 @@ module.exports = {
   "553": {
     "imgurl": "https://yayc.tfnlab.com/images/553.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored",
     "hat": "Rage",
     "mouth": "Bored Pizza",
@@ -4988,7 +4988,7 @@ module.exports = {
   "554": {
     "imgurl": "https://yayc.tfnlab.com/images/554.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -4997,7 +4997,7 @@ module.exports = {
   "555": {
     "imgurl": "https://yayc.tfnlab.com/images/555.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Phoneme Vuh",
@@ -5006,7 +5006,7 @@ module.exports = {
   "556": {
     "imgurl": "https://yayc.tfnlab.com/images/556.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
@@ -5015,7 +5015,7 @@ module.exports = {
   "557": {
     "imgurl": "https://yayc.tfnlab.com/images/557.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -5024,7 +5024,7 @@ module.exports = {
   "558": {
     "imgurl": "https://yayc.tfnlab.com/images/558.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored",
     "hat": "Rage",
     "mouth": "Jovial",
@@ -5033,7 +5033,7 @@ module.exports = {
   "559": {
     "imgurl": "https://yayc.tfnlab.com/images/559.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Bored Pizza",
@@ -5042,7 +5042,7 @@ module.exports = {
   "560": {
     "imgurl": "https://yayc.tfnlab.com/images/560.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Grin",
     "mouth": "Gold Grin",
@@ -5051,7 +5051,7 @@ module.exports = {
   "561": {
     "imgurl": "https://yayc.tfnlab.com/images/561.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -5060,7 +5060,7 @@ module.exports = {
   "562": {
     "imgurl": "https://yayc.tfnlab.com/images/562.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -5069,7 +5069,7 @@ module.exports = {
   "563": {
     "imgurl": "https://yayc.tfnlab.com/images/563.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -5078,7 +5078,7 @@ module.exports = {
   "564": {
     "imgurl": "https://yayc.tfnlab.com/images/564.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -5087,7 +5087,7 @@ module.exports = {
   "565": {
     "imgurl": "https://yayc.tfnlab.com/images/565.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Bored",
@@ -5096,7 +5096,7 @@ module.exports = {
   "566": {
     "imgurl": "https://yayc.tfnlab.com/images/566.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Rage",
@@ -5105,7 +5105,7 @@ module.exports = {
   "567": {
     "imgurl": "https://yayc.tfnlab.com/images/567.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Bored",
@@ -5114,7 +5114,7 @@ module.exports = {
   "568": {
     "imgurl": "https://yayc.tfnlab.com/images/568.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -5123,7 +5123,7 @@ module.exports = {
   "569": {
     "imgurl": "https://yayc.tfnlab.com/images/569.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Rage",
@@ -5132,7 +5132,7 @@ module.exports = {
   "570": {
     "imgurl": "https://yayc.tfnlab.com/images/570.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -5141,7 +5141,7 @@ module.exports = {
   "571": {
     "imgurl": "https://yayc.tfnlab.com/images/571.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Phoneme Vuh",
@@ -5150,7 +5150,7 @@ module.exports = {
   "572": {
     "imgurl": "https://yayc.tfnlab.com/images/572.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Closed",
     "hat": "Grin",
     "mouth": "Bored Pizza",
@@ -5159,7 +5159,7 @@ module.exports = {
   "573": {
     "imgurl": "https://yayc.tfnlab.com/images/573.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Grin",
@@ -5168,7 +5168,7 @@ module.exports = {
   "574": {
     "imgurl": "https://yayc.tfnlab.com/images/574.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Closed",
     "hat": "Rage",
     "mouth": "Jovial",
@@ -5177,7 +5177,7 @@ module.exports = {
   "575": {
     "imgurl": "https://yayc.tfnlab.com/images/575.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored",
     "hat": "Gold Grin",
     "mouth": "Jovial",
@@ -5186,7 +5186,7 @@ module.exports = {
   "576": {
     "imgurl": "https://yayc.tfnlab.com/images/576.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -5195,7 +5195,7 @@ module.exports = {
   "577": {
     "imgurl": "https://yayc.tfnlab.com/images/577.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bored",
     "hat": "Grin",
     "mouth": "Gold Grin",
@@ -5204,7 +5204,7 @@ module.exports = {
   "578": {
     "imgurl": "https://yayc.tfnlab.com/images/578.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored",
     "mouth": "Jovial",
@@ -5213,7 +5213,7 @@ module.exports = {
   "579": {
     "imgurl": "https://yayc.tfnlab.com/images/579.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Gold Grin",
@@ -5222,7 +5222,7 @@ module.exports = {
   "580": {
     "imgurl": "https://yayc.tfnlab.com/images/580.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Jovial",
     "mouth": "Phoneme Vuh",
@@ -5231,7 +5231,7 @@ module.exports = {
   "581": {
     "imgurl": "https://yayc.tfnlab.com/images/581.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -5240,7 +5240,7 @@ module.exports = {
   "582": {
     "imgurl": "https://yayc.tfnlab.com/images/582.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored",
     "hat": "Jovial",
     "mouth": "Phoneme Vuh",
@@ -5249,7 +5249,7 @@ module.exports = {
   "583": {
     "imgurl": "https://yayc.tfnlab.com/images/583.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -5258,7 +5258,7 @@ module.exports = {
   "584": {
     "imgurl": "https://yayc.tfnlab.com/images/584.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored",
     "mouth": "Dumbfounded",
@@ -5267,7 +5267,7 @@ module.exports = {
   "585": {
     "imgurl": "https://yayc.tfnlab.com/images/585.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Grin",
@@ -5276,7 +5276,7 @@ module.exports = {
   "586": {
     "imgurl": "https://yayc.tfnlab.com/images/586.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Bored Pizza",
@@ -5285,7 +5285,7 @@ module.exports = {
   "587": {
     "imgurl": "https://yayc.tfnlab.com/images/587.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -5294,7 +5294,7 @@ module.exports = {
   "588": {
     "imgurl": "https://yayc.tfnlab.com/images/588.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -5303,7 +5303,7 @@ module.exports = {
   "589": {
     "imgurl": "https://yayc.tfnlab.com/images/589.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Grin",
@@ -5312,7 +5312,7 @@ module.exports = {
   "590": {
     "imgurl": "https://yayc.tfnlab.com/images/590.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -5321,7 +5321,7 @@ module.exports = {
   "591": {
     "imgurl": "https://yayc.tfnlab.com/images/591.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Jovial",
     "mouth": "Bored Pizza",
@@ -5330,7 +5330,7 @@ module.exports = {
   "592": {
     "imgurl": "https://yayc.tfnlab.com/images/592.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Closed",
     "hat": "Bored",
     "mouth": "Rage",
@@ -5339,7 +5339,7 @@ module.exports = {
   "593": {
     "imgurl": "https://yayc.tfnlab.com/images/593.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -5348,7 +5348,7 @@ module.exports = {
   "594": {
     "imgurl": "https://yayc.tfnlab.com/images/594.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -5357,7 +5357,7 @@ module.exports = {
   "595": {
     "imgurl": "https://yayc.tfnlab.com/images/595.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Rage",
@@ -5366,7 +5366,7 @@ module.exports = {
   "596": {
     "imgurl": "https://yayc.tfnlab.com/images/596.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Bored Pizza",
@@ -5375,7 +5375,7 @@ module.exports = {
   "597": {
     "imgurl": "https://yayc.tfnlab.com/images/597.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Dumbfounded",
@@ -5384,7 +5384,7 @@ module.exports = {
   "598": {
     "imgurl": "https://yayc.tfnlab.com/images/598.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Grin",
@@ -5393,7 +5393,7 @@ module.exports = {
   "599": {
     "imgurl": "https://yayc.tfnlab.com/images/599.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Phoneme Vuh",
@@ -5402,7 +5402,7 @@ module.exports = {
   "600": {
     "imgurl": "https://yayc.tfnlab.com/images/600.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Bored",
@@ -5411,7 +5411,7 @@ module.exports = {
   "601": {
     "imgurl": "https://yayc.tfnlab.com/images/601.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -5420,7 +5420,7 @@ module.exports = {
   "602": {
     "imgurl": "https://yayc.tfnlab.com/images/602.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -5429,7 +5429,7 @@ module.exports = {
   "603": {
     "imgurl": "https://yayc.tfnlab.com/images/603.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
@@ -5438,7 +5438,7 @@ module.exports = {
   "604": {
     "imgurl": "https://yayc.tfnlab.com/images/604.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -5447,7 +5447,7 @@ module.exports = {
   "605": {
     "imgurl": "https://yayc.tfnlab.com/images/605.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Gold Grin",
@@ -5456,7 +5456,7 @@ module.exports = {
   "606": {
     "imgurl": "https://yayc.tfnlab.com/images/606.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -5465,7 +5465,7 @@ module.exports = {
   "607": {
     "imgurl": "https://yayc.tfnlab.com/images/607.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Jovial",
     "mouth": "Phoneme Vuh",
@@ -5474,7 +5474,7 @@ module.exports = {
   "608": {
     "imgurl": "https://yayc.tfnlab.com/images/608.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Gold Grin",
@@ -5483,7 +5483,7 @@ module.exports = {
   "609": {
     "imgurl": "https://yayc.tfnlab.com/images/609.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bored",
     "hat": "Grin",
     "mouth": "Bored Pizza",
@@ -5492,7 +5492,7 @@ module.exports = {
   "610": {
     "imgurl": "https://yayc.tfnlab.com/images/610.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Rage",
@@ -5501,7 +5501,7 @@ module.exports = {
   "611": {
     "imgurl": "https://yayc.tfnlab.com/images/611.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored Yellow Lazer",
     "hat": "Rage",
     "mouth": "Grin",
@@ -5510,7 +5510,7 @@ module.exports = {
   "612": {
     "imgurl": "https://yayc.tfnlab.com/images/612.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Bored Pizza",
@@ -5519,7 +5519,7 @@ module.exports = {
   "613": {
     "imgurl": "https://yayc.tfnlab.com/images/613.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Bored",
@@ -5528,7 +5528,7 @@ module.exports = {
   "614": {
     "imgurl": "https://yayc.tfnlab.com/images/614.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Jovial",
@@ -5537,7 +5537,7 @@ module.exports = {
   "615": {
     "imgurl": "https://yayc.tfnlab.com/images/615.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -5546,7 +5546,7 @@ module.exports = {
   "616": {
     "imgurl": "https://yayc.tfnlab.com/images/616.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -5555,7 +5555,7 @@ module.exports = {
   "617": {
     "imgurl": "https://yayc.tfnlab.com/images/617.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored",
     "mouth": "Dumbfounded",
@@ -5564,7 +5564,7 @@ module.exports = {
   "618": {
     "imgurl": "https://yayc.tfnlab.com/images/618.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored Yellow Lazer",
     "hat": "Rage",
     "mouth": "Bored",
@@ -5573,7 +5573,7 @@ module.exports = {
   "619": {
     "imgurl": "https://yayc.tfnlab.com/images/619.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -5582,7 +5582,7 @@ module.exports = {
   "620": {
     "imgurl": "https://yayc.tfnlab.com/images/620.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Bored Pizza",
@@ -5591,7 +5591,7 @@ module.exports = {
   "621": {
     "imgurl": "https://yayc.tfnlab.com/images/621.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -5600,7 +5600,7 @@ module.exports = {
   "622": {
     "imgurl": "https://yayc.tfnlab.com/images/622.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Grin",
@@ -5609,7 +5609,7 @@ module.exports = {
   "623": {
     "imgurl": "https://yayc.tfnlab.com/images/623.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Rage",
@@ -5618,7 +5618,7 @@ module.exports = {
   "624": {
     "imgurl": "https://yayc.tfnlab.com/images/624.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Closed",
     "hat": "Grin",
     "mouth": "Rage",
@@ -5627,7 +5627,7 @@ module.exports = {
   "625": {
     "imgurl": "https://yayc.tfnlab.com/images/625.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -5636,7 +5636,7 @@ module.exports = {
   "626": {
     "imgurl": "https://yayc.tfnlab.com/images/626.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -5645,7 +5645,7 @@ module.exports = {
   "627": {
     "imgurl": "https://yayc.tfnlab.com/images/627.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -5654,7 +5654,7 @@ module.exports = {
   "628": {
     "imgurl": "https://yayc.tfnlab.com/images/628.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Closed",
     "hat": "Bored",
     "mouth": "Gold Grin",
@@ -5663,7 +5663,7 @@ module.exports = {
   "629": {
     "imgurl": "https://yayc.tfnlab.com/images/629.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -5672,7 +5672,7 @@ module.exports = {
   "630": {
     "imgurl": "https://yayc.tfnlab.com/images/630.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Rage",
@@ -5681,7 +5681,7 @@ module.exports = {
   "631": {
     "imgurl": "https://yayc.tfnlab.com/images/631.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -5690,7 +5690,7 @@ module.exports = {
   "632": {
     "imgurl": "https://yayc.tfnlab.com/images/632.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Phoneme Vuh",
@@ -5699,7 +5699,7 @@ module.exports = {
   "633": {
     "imgurl": "https://yayc.tfnlab.com/images/633.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -5708,7 +5708,7 @@ module.exports = {
   "634": {
     "imgurl": "https://yayc.tfnlab.com/images/634.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Gold Grin",
@@ -5717,7 +5717,7 @@ module.exports = {
   "635": {
     "imgurl": "https://yayc.tfnlab.com/images/635.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -5726,7 +5726,7 @@ module.exports = {
   "636": {
     "imgurl": "https://yayc.tfnlab.com/images/636.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored",
     "hat": "Rage",
     "mouth": "Bored Pizza",
@@ -5735,7 +5735,7 @@ module.exports = {
   "637": {
     "imgurl": "https://yayc.tfnlab.com/images/637.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -5744,7 +5744,7 @@ module.exports = {
   "638": {
     "imgurl": "https://yayc.tfnlab.com/images/638.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -5753,7 +5753,7 @@ module.exports = {
   "639": {
     "imgurl": "https://yayc.tfnlab.com/images/639.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot",
     "hat": "Bored",
     "mouth": "Phoneme Vuh",
@@ -5762,7 +5762,7 @@ module.exports = {
   "640": {
     "imgurl": "https://yayc.tfnlab.com/images/640.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -5771,7 +5771,7 @@ module.exports = {
   "641": {
     "imgurl": "https://yayc.tfnlab.com/images/641.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -5780,7 +5780,7 @@ module.exports = {
   "642": {
     "imgurl": "https://yayc.tfnlab.com/images/642.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -5789,7 +5789,7 @@ module.exports = {
   "643": {
     "imgurl": "https://yayc.tfnlab.com/images/643.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -5798,7 +5798,7 @@ module.exports = {
   "644": {
     "imgurl": "https://yayc.tfnlab.com/images/644.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -5807,7 +5807,7 @@ module.exports = {
   "645": {
     "imgurl": "https://yayc.tfnlab.com/images/645.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -5816,7 +5816,7 @@ module.exports = {
   "646": {
     "imgurl": "https://yayc.tfnlab.com/images/646.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -5825,7 +5825,7 @@ module.exports = {
   "647": {
     "imgurl": "https://yayc.tfnlab.com/images/647.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Phoneme Vuh",
@@ -5834,7 +5834,7 @@ module.exports = {
   "648": {
     "imgurl": "https://yayc.tfnlab.com/images/648.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Bored",
@@ -5843,7 +5843,7 @@ module.exports = {
   "649": {
     "imgurl": "https://yayc.tfnlab.com/images/649.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -5852,7 +5852,7 @@ module.exports = {
   "650": {
     "imgurl": "https://yayc.tfnlab.com/images/650.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bored",
     "hat": "Grin",
     "mouth": "Dumbfounded",
@@ -5861,7 +5861,7 @@ module.exports = {
   "651": {
     "imgurl": "https://yayc.tfnlab.com/images/651.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -5870,7 +5870,7 @@ module.exports = {
   "652": {
     "imgurl": "https://yayc.tfnlab.com/images/652.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Jovial",
     "mouth": "Bored",
@@ -5879,7 +5879,7 @@ module.exports = {
   "653": {
     "imgurl": "https://yayc.tfnlab.com/images/653.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored",
     "mouth": "Bored Pizza",
@@ -5888,7 +5888,7 @@ module.exports = {
   "654": {
     "imgurl": "https://yayc.tfnlab.com/images/654.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Gold Grin",
@@ -5897,7 +5897,7 @@ module.exports = {
   "655": {
     "imgurl": "https://yayc.tfnlab.com/images/655.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Bored",
@@ -5906,7 +5906,7 @@ module.exports = {
   "656": {
     "imgurl": "https://yayc.tfnlab.com/images/656.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Grin",
@@ -5915,7 +5915,7 @@ module.exports = {
   "657": {
     "imgurl": "https://yayc.tfnlab.com/images/657.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -5924,7 +5924,7 @@ module.exports = {
   "658": {
     "imgurl": "https://yayc.tfnlab.com/images/658.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -5933,7 +5933,7 @@ module.exports = {
   "659": {
     "imgurl": "https://yayc.tfnlab.com/images/659.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -5942,7 +5942,7 @@ module.exports = {
   "660": {
     "imgurl": "https://yayc.tfnlab.com/images/660.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -5951,7 +5951,7 @@ module.exports = {
   "661": {
     "imgurl": "https://yayc.tfnlab.com/images/661.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -5960,7 +5960,7 @@ module.exports = {
   "662": {
     "imgurl": "https://yayc.tfnlab.com/images/662.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Bored",
@@ -5969,7 +5969,7 @@ module.exports = {
   "663": {
     "imgurl": "https://yayc.tfnlab.com/images/663.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -5978,7 +5978,7 @@ module.exports = {
   "664": {
     "imgurl": "https://yayc.tfnlab.com/images/664.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Grin",
@@ -5987,7 +5987,7 @@ module.exports = {
   "665": {
     "imgurl": "https://yayc.tfnlab.com/images/665.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored",
     "hat": "Rage",
     "mouth": "Rage",
@@ -5996,7 +5996,7 @@ module.exports = {
   "666": {
     "imgurl": "https://yayc.tfnlab.com/images/666.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Dumbfounded",
@@ -6005,7 +6005,7 @@ module.exports = {
   "667": {
     "imgurl": "https://yayc.tfnlab.com/images/667.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Jovial",
@@ -6014,7 +6014,7 @@ module.exports = {
   "668": {
     "imgurl": "https://yayc.tfnlab.com/images/668.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Rage",
@@ -6023,7 +6023,7 @@ module.exports = {
   "669": {
     "imgurl": "https://yayc.tfnlab.com/images/669.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Rage",
@@ -6032,7 +6032,7 @@ module.exports = {
   "670": {
     "imgurl": "https://yayc.tfnlab.com/images/670.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Phoneme Vuh",
@@ -6041,7 +6041,7 @@ module.exports = {
   "671": {
     "imgurl": "https://yayc.tfnlab.com/images/671.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Bored",
@@ -6050,7 +6050,7 @@ module.exports = {
   "672": {
     "imgurl": "https://yayc.tfnlab.com/images/672.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Grin",
     "mouth": "Rage",
@@ -6059,7 +6059,7 @@ module.exports = {
   "673": {
     "imgurl": "https://yayc.tfnlab.com/images/673.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Rage",
@@ -6068,7 +6068,7 @@ module.exports = {
   "674": {
     "imgurl": "https://yayc.tfnlab.com/images/674.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
@@ -6077,7 +6077,7 @@ module.exports = {
   "675": {
     "imgurl": "https://yayc.tfnlab.com/images/675.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -6086,7 +6086,7 @@ module.exports = {
   "676": {
     "imgurl": "https://yayc.tfnlab.com/images/676.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Jovial",
     "mouth": "Gold Grin",
@@ -6095,7 +6095,7 @@ module.exports = {
   "677": {
     "imgurl": "https://yayc.tfnlab.com/images/677.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Grin",
@@ -6104,7 +6104,7 @@ module.exports = {
   "678": {
     "imgurl": "https://yayc.tfnlab.com/images/678.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Gold Grin",
@@ -6113,7 +6113,7 @@ module.exports = {
   "679": {
     "imgurl": "https://yayc.tfnlab.com/images/679.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -6122,7 +6122,7 @@ module.exports = {
   "680": {
     "imgurl": "https://yayc.tfnlab.com/images/680.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored",
     "hat": "Bored",
     "mouth": "Jovial",
@@ -6131,7 +6131,7 @@ module.exports = {
   "681": {
     "imgurl": "https://yayc.tfnlab.com/images/681.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -6140,7 +6140,7 @@ module.exports = {
   "682": {
     "imgurl": "https://yayc.tfnlab.com/images/682.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored",
     "hat": "Rage",
     "mouth": "Gold Grin",
@@ -6149,7 +6149,7 @@ module.exports = {
   "683": {
     "imgurl": "https://yayc.tfnlab.com/images/683.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -6158,7 +6158,7 @@ module.exports = {
   "684": {
     "imgurl": "https://yayc.tfnlab.com/images/684.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Jovial",
@@ -6167,7 +6167,7 @@ module.exports = {
   "685": {
     "imgurl": "https://yayc.tfnlab.com/images/685.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Jovial",
@@ -6176,7 +6176,7 @@ module.exports = {
   "686": {
     "imgurl": "https://yayc.tfnlab.com/images/686.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Phoneme Vuh",
@@ -6185,7 +6185,7 @@ module.exports = {
   "687": {
     "imgurl": "https://yayc.tfnlab.com/images/687.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Gold Grin",
@@ -6194,7 +6194,7 @@ module.exports = {
   "688": {
     "imgurl": "https://yayc.tfnlab.com/images/688.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bored Yellow Lazer",
     "hat": "Grin",
     "mouth": "Jovial",
@@ -6203,7 +6203,7 @@ module.exports = {
   "689": {
     "imgurl": "https://yayc.tfnlab.com/images/689.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bloodshot",
     "hat": "Grin",
     "mouth": "Phoneme Vuh",
@@ -6212,7 +6212,7 @@ module.exports = {
   "690": {
     "imgurl": "https://yayc.tfnlab.com/images/690.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -6221,7 +6221,7 @@ module.exports = {
   "691": {
     "imgurl": "https://yayc.tfnlab.com/images/691.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -6230,7 +6230,7 @@ module.exports = {
   "692": {
     "imgurl": "https://yayc.tfnlab.com/images/692.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -6239,7 +6239,7 @@ module.exports = {
   "693": {
     "imgurl": "https://yayc.tfnlab.com/images/693.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -6248,7 +6248,7 @@ module.exports = {
   "694": {
     "imgurl": "https://yayc.tfnlab.com/images/694.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -6257,7 +6257,7 @@ module.exports = {
   "695": {
     "imgurl": "https://yayc.tfnlab.com/images/695.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Grin",
@@ -6266,7 +6266,7 @@ module.exports = {
   "696": {
     "imgurl": "https://yayc.tfnlab.com/images/696.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Bored",
@@ -6275,7 +6275,7 @@ module.exports = {
   "697": {
     "imgurl": "https://yayc.tfnlab.com/images/697.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Rage",
@@ -6284,7 +6284,7 @@ module.exports = {
   "698": {
     "imgurl": "https://yayc.tfnlab.com/images/698.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Closed",
     "hat": "Bored",
     "mouth": "Bored Pizza",
@@ -6293,7 +6293,7 @@ module.exports = {
   "699": {
     "imgurl": "https://yayc.tfnlab.com/images/699.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Phoneme Vuh",
@@ -6302,7 +6302,7 @@ module.exports = {
   "700": {
     "imgurl": "https://yayc.tfnlab.com/images/700.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Grin",
@@ -6311,7 +6311,7 @@ module.exports = {
   "701": {
     "imgurl": "https://yayc.tfnlab.com/images/701.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -6320,7 +6320,7 @@ module.exports = {
   "702": {
     "imgurl": "https://yayc.tfnlab.com/images/702.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -6329,7 +6329,7 @@ module.exports = {
   "703": {
     "imgurl": "https://yayc.tfnlab.com/images/703.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Gold Grin",
@@ -6338,7 +6338,7 @@ module.exports = {
   "704": {
     "imgurl": "https://yayc.tfnlab.com/images/704.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -6347,7 +6347,7 @@ module.exports = {
   "705": {
     "imgurl": "https://yayc.tfnlab.com/images/705.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -6356,7 +6356,7 @@ module.exports = {
   "706": {
     "imgurl": "https://yayc.tfnlab.com/images/706.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored",
     "hat": "Jovial",
     "mouth": "Bored",
@@ -6365,7 +6365,7 @@ module.exports = {
   "707": {
     "imgurl": "https://yayc.tfnlab.com/images/707.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -6374,7 +6374,7 @@ module.exports = {
   "708": {
     "imgurl": "https://yayc.tfnlab.com/images/708.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bloodshot",
     "hat": "Grin",
     "mouth": "Dumbfounded",
@@ -6383,7 +6383,7 @@ module.exports = {
   "709": {
     "imgurl": "https://yayc.tfnlab.com/images/709.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Closed",
     "hat": "Gold Grin",
     "mouth": "Bored Pizza",
@@ -6392,7 +6392,7 @@ module.exports = {
   "710": {
     "imgurl": "https://yayc.tfnlab.com/images/710.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored Yellow Lazer",
     "hat": "Rage",
     "mouth": "Bored",
@@ -6401,7 +6401,7 @@ module.exports = {
   "711": {
     "imgurl": "https://yayc.tfnlab.com/images/711.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -6410,7 +6410,7 @@ module.exports = {
   "712": {
     "imgurl": "https://yayc.tfnlab.com/images/712.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Jovial",
     "mouth": "Rage",
@@ -6419,7 +6419,7 @@ module.exports = {
   "713": {
     "imgurl": "https://yayc.tfnlab.com/images/713.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Bored Pizza",
@@ -6428,7 +6428,7 @@ module.exports = {
   "714": {
     "imgurl": "https://yayc.tfnlab.com/images/714.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Jovial",
@@ -6437,7 +6437,7 @@ module.exports = {
   "715": {
     "imgurl": "https://yayc.tfnlab.com/images/715.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -6446,7 +6446,7 @@ module.exports = {
   "716": {
     "imgurl": "https://yayc.tfnlab.com/images/716.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -6455,7 +6455,7 @@ module.exports = {
   "717": {
     "imgurl": "https://yayc.tfnlab.com/images/717.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored Blue Lazer",
     "hat": "Rage",
     "mouth": "Jovial",
@@ -6464,7 +6464,7 @@ module.exports = {
   "718": {
     "imgurl": "https://yayc.tfnlab.com/images/718.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Jovial",
@@ -6473,7 +6473,7 @@ module.exports = {
   "719": {
     "imgurl": "https://yayc.tfnlab.com/images/719.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -6482,7 +6482,7 @@ module.exports = {
   "720": {
     "imgurl": "https://yayc.tfnlab.com/images/720.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -6491,7 +6491,7 @@ module.exports = {
   "721": {
     "imgurl": "https://yayc.tfnlab.com/images/721.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Bored",
@@ -6500,7 +6500,7 @@ module.exports = {
   "722": {
     "imgurl": "https://yayc.tfnlab.com/images/722.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -6509,7 +6509,7 @@ module.exports = {
   "723": {
     "imgurl": "https://yayc.tfnlab.com/images/723.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
@@ -6518,7 +6518,7 @@ module.exports = {
   "724": {
     "imgurl": "https://yayc.tfnlab.com/images/724.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Grin",
@@ -6527,7 +6527,7 @@ module.exports = {
   "725": {
     "imgurl": "https://yayc.tfnlab.com/images/725.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Closed",
     "hat": "Grin",
     "mouth": "Rage",
@@ -6536,7 +6536,7 @@ module.exports = {
   "726": {
     "imgurl": "https://yayc.tfnlab.com/images/726.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Rage",
@@ -6545,7 +6545,7 @@ module.exports = {
   "727": {
     "imgurl": "https://yayc.tfnlab.com/images/727.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -6554,7 +6554,7 @@ module.exports = {
   "728": {
     "imgurl": "https://yayc.tfnlab.com/images/728.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Grin",
@@ -6563,7 +6563,7 @@ module.exports = {
   "729": {
     "imgurl": "https://yayc.tfnlab.com/images/729.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -6572,7 +6572,7 @@ module.exports = {
   "730": {
     "imgurl": "https://yayc.tfnlab.com/images/730.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -6581,7 +6581,7 @@ module.exports = {
   "731": {
     "imgurl": "https://yayc.tfnlab.com/images/731.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Bored",
@@ -6590,7 +6590,7 @@ module.exports = {
   "732": {
     "imgurl": "https://yayc.tfnlab.com/images/732.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -6599,7 +6599,7 @@ module.exports = {
   "733": {
     "imgurl": "https://yayc.tfnlab.com/images/733.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -6608,7 +6608,7 @@ module.exports = {
   "734": {
     "imgurl": "https://yayc.tfnlab.com/images/734.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored",
     "hat": "Bored",
     "mouth": "Bored Pizza",
@@ -6617,7 +6617,7 @@ module.exports = {
   "735": {
     "imgurl": "https://yayc.tfnlab.com/images/735.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Rage",
@@ -6626,7 +6626,7 @@ module.exports = {
   "736": {
     "imgurl": "https://yayc.tfnlab.com/images/736.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -6635,7 +6635,7 @@ module.exports = {
   "737": {
     "imgurl": "https://yayc.tfnlab.com/images/737.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored Blue Lazer",
     "hat": "Jovial",
     "mouth": "Bored Pizza",
@@ -6644,7 +6644,7 @@ module.exports = {
   "738": {
     "imgurl": "https://yayc.tfnlab.com/images/738.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Jovial",
@@ -6653,7 +6653,7 @@ module.exports = {
   "739": {
     "imgurl": "https://yayc.tfnlab.com/images/739.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Bored",
@@ -6662,7 +6662,7 @@ module.exports = {
   "740": {
     "imgurl": "https://yayc.tfnlab.com/images/740.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -6671,7 +6671,7 @@ module.exports = {
   "741": {
     "imgurl": "https://yayc.tfnlab.com/images/741.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -6680,7 +6680,7 @@ module.exports = {
   "742": {
     "imgurl": "https://yayc.tfnlab.com/images/742.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -6689,7 +6689,7 @@ module.exports = {
   "743": {
     "imgurl": "https://yayc.tfnlab.com/images/743.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -6698,7 +6698,7 @@ module.exports = {
   "744": {
     "imgurl": "https://yayc.tfnlab.com/images/744.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored",
     "hat": "Rage",
     "mouth": "Rage",
@@ -6707,7 +6707,7 @@ module.exports = {
   "745": {
     "imgurl": "https://yayc.tfnlab.com/images/745.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -6716,7 +6716,7 @@ module.exports = {
   "746": {
     "imgurl": "https://yayc.tfnlab.com/images/746.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored",
     "mouth": "Jovial",
@@ -6725,7 +6725,7 @@ module.exports = {
   "747": {
     "imgurl": "https://yayc.tfnlab.com/images/747.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Jovial",
@@ -6734,7 +6734,7 @@ module.exports = {
   "748": {
     "imgurl": "https://yayc.tfnlab.com/images/748.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -6743,7 +6743,7 @@ module.exports = {
   "749": {
     "imgurl": "https://yayc.tfnlab.com/images/749.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -6752,7 +6752,7 @@ module.exports = {
   "750": {
     "imgurl": "https://yayc.tfnlab.com/images/750.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -6761,7 +6761,7 @@ module.exports = {
   "751": {
     "imgurl": "https://yayc.tfnlab.com/images/751.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -6770,7 +6770,7 @@ module.exports = {
   "752": {
     "imgurl": "https://yayc.tfnlab.com/images/752.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Jovial",
     "mouth": "Bored Pizza",
@@ -6779,7 +6779,7 @@ module.exports = {
   "753": {
     "imgurl": "https://yayc.tfnlab.com/images/753.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Rage",
@@ -6788,7 +6788,7 @@ module.exports = {
   "754": {
     "imgurl": "https://yayc.tfnlab.com/images/754.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored",
     "hat": "Rage",
     "mouth": "Gold Grin",
@@ -6797,7 +6797,7 @@ module.exports = {
   "755": {
     "imgurl": "https://yayc.tfnlab.com/images/755.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -6806,7 +6806,7 @@ module.exports = {
   "756": {
     "imgurl": "https://yayc.tfnlab.com/images/756.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Grin",
@@ -6815,7 +6815,7 @@ module.exports = {
   "757": {
     "imgurl": "https://yayc.tfnlab.com/images/757.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Rage",
@@ -6824,7 +6824,7 @@ module.exports = {
   "758": {
     "imgurl": "https://yayc.tfnlab.com/images/758.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -6833,7 +6833,7 @@ module.exports = {
   "759": {
     "imgurl": "https://yayc.tfnlab.com/images/759.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Bored Pizza",
@@ -6842,7 +6842,7 @@ module.exports = {
   "760": {
     "imgurl": "https://yayc.tfnlab.com/images/760.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Rage",
@@ -6851,7 +6851,7 @@ module.exports = {
   "761": {
     "imgurl": "https://yayc.tfnlab.com/images/761.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -6860,7 +6860,7 @@ module.exports = {
   "762": {
     "imgurl": "https://yayc.tfnlab.com/images/762.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Dumbfounded",
@@ -6869,7 +6869,7 @@ module.exports = {
   "763": {
     "imgurl": "https://yayc.tfnlab.com/images/763.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -6878,7 +6878,7 @@ module.exports = {
   "764": {
     "imgurl": "https://yayc.tfnlab.com/images/764.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Phoneme Vuh",
@@ -6887,7 +6887,7 @@ module.exports = {
   "765": {
     "imgurl": "https://yayc.tfnlab.com/images/765.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Dumbfounded",
@@ -6896,7 +6896,7 @@ module.exports = {
   "766": {
     "imgurl": "https://yayc.tfnlab.com/images/766.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -6905,7 +6905,7 @@ module.exports = {
   "767": {
     "imgurl": "https://yayc.tfnlab.com/images/767.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Phoneme Vuh",
@@ -6914,7 +6914,7 @@ module.exports = {
   "768": {
     "imgurl": "https://yayc.tfnlab.com/images/768.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -6923,7 +6923,7 @@ module.exports = {
   "769": {
     "imgurl": "https://yayc.tfnlab.com/images/769.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -6932,7 +6932,7 @@ module.exports = {
   "770": {
     "imgurl": "https://yayc.tfnlab.com/images/770.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Jovial",
@@ -6941,7 +6941,7 @@ module.exports = {
   "771": {
     "imgurl": "https://yayc.tfnlab.com/images/771.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Phoneme Vuh",
@@ -6950,7 +6950,7 @@ module.exports = {
   "772": {
     "imgurl": "https://yayc.tfnlab.com/images/772.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -6959,7 +6959,7 @@ module.exports = {
   "773": {
     "imgurl": "https://yayc.tfnlab.com/images/773.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored Blue Lazer",
     "hat": "Jovial",
     "mouth": "Rage",
@@ -6968,7 +6968,7 @@ module.exports = {
   "774": {
     "imgurl": "https://yayc.tfnlab.com/images/774.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored",
     "mouth": "Dumbfounded",
@@ -6977,7 +6977,7 @@ module.exports = {
   "775": {
     "imgurl": "https://yayc.tfnlab.com/images/775.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -6986,7 +6986,7 @@ module.exports = {
   "776": {
     "imgurl": "https://yayc.tfnlab.com/images/776.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Grin",
     "mouth": "Bored Pizza",
@@ -6995,7 +6995,7 @@ module.exports = {
   "777": {
     "imgurl": "https://yayc.tfnlab.com/images/777.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -7004,7 +7004,7 @@ module.exports = {
   "778": {
     "imgurl": "https://yayc.tfnlab.com/images/778.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -7013,7 +7013,7 @@ module.exports = {
   "779": {
     "imgurl": "https://yayc.tfnlab.com/images/779.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored",
     "hat": "Gold Grin",
     "mouth": "Gold Grin",
@@ -7022,7 +7022,7 @@ module.exports = {
   "780": {
     "imgurl": "https://yayc.tfnlab.com/images/780.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Bored Pizza",
@@ -7031,7 +7031,7 @@ module.exports = {
   "781": {
     "imgurl": "https://yayc.tfnlab.com/images/781.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -7040,7 +7040,7 @@ module.exports = {
   "782": {
     "imgurl": "https://yayc.tfnlab.com/images/782.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Bored Pizza",
@@ -7049,7 +7049,7 @@ module.exports = {
   "783": {
     "imgurl": "https://yayc.tfnlab.com/images/783.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -7058,7 +7058,7 @@ module.exports = {
   "784": {
     "imgurl": "https://yayc.tfnlab.com/images/784.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Bored Pizza",
@@ -7067,7 +7067,7 @@ module.exports = {
   "785": {
     "imgurl": "https://yayc.tfnlab.com/images/785.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -7076,7 +7076,7 @@ module.exports = {
   "786": {
     "imgurl": "https://yayc.tfnlab.com/images/786.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -7085,7 +7085,7 @@ module.exports = {
   "787": {
     "imgurl": "https://yayc.tfnlab.com/images/787.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Jovial",
@@ -7094,7 +7094,7 @@ module.exports = {
   "788": {
     "imgurl": "https://yayc.tfnlab.com/images/788.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Rage",
@@ -7103,7 +7103,7 @@ module.exports = {
   "789": {
     "imgurl": "https://yayc.tfnlab.com/images/789.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored Yellow Lazer",
     "hat": "Rage",
     "mouth": "Grin",
@@ -7112,7 +7112,7 @@ module.exports = {
   "790": {
     "imgurl": "https://yayc.tfnlab.com/images/790.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -7121,7 +7121,7 @@ module.exports = {
   "791": {
     "imgurl": "https://yayc.tfnlab.com/images/791.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -7130,7 +7130,7 @@ module.exports = {
   "792": {
     "imgurl": "https://yayc.tfnlab.com/images/792.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -7139,7 +7139,7 @@ module.exports = {
   "793": {
     "imgurl": "https://yayc.tfnlab.com/images/793.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored",
     "mouth": "Jovial",
@@ -7148,7 +7148,7 @@ module.exports = {
   "794": {
     "imgurl": "https://yayc.tfnlab.com/images/794.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Bored Pizza",
@@ -7157,7 +7157,7 @@ module.exports = {
   "795": {
     "imgurl": "https://yayc.tfnlab.com/images/795.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Grin",
@@ -7166,7 +7166,7 @@ module.exports = {
   "796": {
     "imgurl": "https://yayc.tfnlab.com/images/796.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored",
     "hat": "Rage",
     "mouth": "Rage",
@@ -7175,7 +7175,7 @@ module.exports = {
   "797": {
     "imgurl": "https://yayc.tfnlab.com/images/797.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -7184,7 +7184,7 @@ module.exports = {
   "798": {
     "imgurl": "https://yayc.tfnlab.com/images/798.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored",
     "hat": "Jovial",
     "mouth": "Bored Pizza",
@@ -7193,7 +7193,7 @@ module.exports = {
   "799": {
     "imgurl": "https://yayc.tfnlab.com/images/799.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Phoneme Vuh",
@@ -7202,7 +7202,7 @@ module.exports = {
   "800": {
     "imgurl": "https://yayc.tfnlab.com/images/800.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Bored",
@@ -7211,7 +7211,7 @@ module.exports = {
   "801": {
     "imgurl": "https://yayc.tfnlab.com/images/801.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored",
     "mouth": "Dumbfounded",
@@ -7220,7 +7220,7 @@ module.exports = {
   "802": {
     "imgurl": "https://yayc.tfnlab.com/images/802.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Bored Pizza",
@@ -7229,7 +7229,7 @@ module.exports = {
   "803": {
     "imgurl": "https://yayc.tfnlab.com/images/803.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -7238,7 +7238,7 @@ module.exports = {
   "804": {
     "imgurl": "https://yayc.tfnlab.com/images/804.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -7247,7 +7247,7 @@ module.exports = {
   "805": {
     "imgurl": "https://yayc.tfnlab.com/images/805.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -7256,7 +7256,7 @@ module.exports = {
   "806": {
     "imgurl": "https://yayc.tfnlab.com/images/806.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bored",
     "hat": "Grin",
     "mouth": "Phoneme Vuh",
@@ -7265,7 +7265,7 @@ module.exports = {
   "807": {
     "imgurl": "https://yayc.tfnlab.com/images/807.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -7274,7 +7274,7 @@ module.exports = {
   "808": {
     "imgurl": "https://yayc.tfnlab.com/images/808.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored",
     "hat": "Bored",
     "mouth": "Grin",
@@ -7283,7 +7283,7 @@ module.exports = {
   "809": {
     "imgurl": "https://yayc.tfnlab.com/images/809.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bored",
     "hat": "Jovial",
     "mouth": "Jovial",
@@ -7292,7 +7292,7 @@ module.exports = {
   "810": {
     "imgurl": "https://yayc.tfnlab.com/images/810.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -7301,7 +7301,7 @@ module.exports = {
   "811": {
     "imgurl": "https://yayc.tfnlab.com/images/811.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored Yellow Lazer",
     "hat": "Rage",
     "mouth": "Bored",
@@ -7310,7 +7310,7 @@ module.exports = {
   "812": {
     "imgurl": "https://yayc.tfnlab.com/images/812.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -7319,7 +7319,7 @@ module.exports = {
   "813": {
     "imgurl": "https://yayc.tfnlab.com/images/813.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored",
     "hat": "Bored",
     "mouth": "Rage",
@@ -7328,7 +7328,7 @@ module.exports = {
   "814": {
     "imgurl": "https://yayc.tfnlab.com/images/814.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Phoneme Vuh",
@@ -7337,7 +7337,7 @@ module.exports = {
   "815": {
     "imgurl": "https://yayc.tfnlab.com/images/815.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored",
     "hat": "Rage",
     "mouth": "Gold Grin",
@@ -7346,7 +7346,7 @@ module.exports = {
   "816": {
     "imgurl": "https://yayc.tfnlab.com/images/816.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Rage",
@@ -7355,7 +7355,7 @@ module.exports = {
   "817": {
     "imgurl": "https://yayc.tfnlab.com/images/817.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Bored Pizza",
@@ -7364,7 +7364,7 @@ module.exports = {
   "818": {
     "imgurl": "https://yayc.tfnlab.com/images/818.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Gold Grin",
@@ -7373,7 +7373,7 @@ module.exports = {
   "819": {
     "imgurl": "https://yayc.tfnlab.com/images/819.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -7382,7 +7382,7 @@ module.exports = {
   "820": {
     "imgurl": "https://yayc.tfnlab.com/images/820.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Bored Pizza",
@@ -7391,7 +7391,7 @@ module.exports = {
   "821": {
     "imgurl": "https://yayc.tfnlab.com/images/821.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Jovial",
@@ -7400,7 +7400,7 @@ module.exports = {
   "822": {
     "imgurl": "https://yayc.tfnlab.com/images/822.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -7409,7 +7409,7 @@ module.exports = {
   "823": {
     "imgurl": "https://yayc.tfnlab.com/images/823.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Bored Pizza",
@@ -7418,7 +7418,7 @@ module.exports = {
   "824": {
     "imgurl": "https://yayc.tfnlab.com/images/824.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored",
     "mouth": "Gold Grin",
@@ -7427,7 +7427,7 @@ module.exports = {
   "825": {
     "imgurl": "https://yayc.tfnlab.com/images/825.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Blue Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Rage",
@@ -7436,7 +7436,7 @@ module.exports = {
   "826": {
     "imgurl": "https://yayc.tfnlab.com/images/826.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Grin",
@@ -7445,7 +7445,7 @@ module.exports = {
   "827": {
     "imgurl": "https://yayc.tfnlab.com/images/827.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Rage",
@@ -7454,7 +7454,7 @@ module.exports = {
   "828": {
     "imgurl": "https://yayc.tfnlab.com/images/828.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Bored Pizza",
@@ -7463,7 +7463,7 @@ module.exports = {
   "829": {
     "imgurl": "https://yayc.tfnlab.com/images/829.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Rage",
@@ -7472,7 +7472,7 @@ module.exports = {
   "830": {
     "imgurl": "https://yayc.tfnlab.com/images/830.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -7481,7 +7481,7 @@ module.exports = {
   "831": {
     "imgurl": "https://yayc.tfnlab.com/images/831.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
@@ -7490,7 +7490,7 @@ module.exports = {
   "832": {
     "imgurl": "https://yayc.tfnlab.com/images/832.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Grin",
     "mouth": "Bored Pizza",
@@ -7499,7 +7499,7 @@ module.exports = {
   "833": {
     "imgurl": "https://yayc.tfnlab.com/images/833.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Grin",
     "mouth": "Gold Grin",
@@ -7508,7 +7508,7 @@ module.exports = {
   "834": {
     "imgurl": "https://yayc.tfnlab.com/images/834.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bored Yellow Lazer",
     "hat": "Rage",
     "mouth": "Dumbfounded",
@@ -7517,7 +7517,7 @@ module.exports = {
   "835": {
     "imgurl": "https://yayc.tfnlab.com/images/835.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bored Yellow Lazer",
     "hat": "Grin",
     "mouth": "Jovial",
@@ -7526,7 +7526,7 @@ module.exports = {
   "836": {
     "imgurl": "https://yayc.tfnlab.com/images/836.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Grin",
@@ -7535,7 +7535,7 @@ module.exports = {
   "837": {
     "imgurl": "https://yayc.tfnlab.com/images/837.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
@@ -7544,7 +7544,7 @@ module.exports = {
   "838": {
     "imgurl": "https://yayc.tfnlab.com/images/838.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bloodshot",
     "hat": "Grin",
     "mouth": "Gold Grin",
@@ -7553,7 +7553,7 @@ module.exports = {
   "839": {
     "imgurl": "https://yayc.tfnlab.com/images/839.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Yellow Lazer",
     "hat": "Gold Grin",
     "mouth": "Grin",
@@ -7562,7 +7562,7 @@ module.exports = {
   "840": {
     "imgurl": "https://yayc.tfnlab.com/images/840.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored",
     "mouth": "Dumbfounded",
@@ -7571,7 +7571,7 @@ module.exports = {
   "841": {
     "imgurl": "https://yayc.tfnlab.com/images/841.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored",
     "hat": "Gold Grin",
     "mouth": "Bored",
@@ -7580,7 +7580,7 @@ module.exports = {
   "842": {
     "imgurl": "https://yayc.tfnlab.com/images/842.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -7589,7 +7589,7 @@ module.exports = {
   "843": {
     "imgurl": "https://yayc.tfnlab.com/images/843.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Jovial",
@@ -7598,7 +7598,7 @@ module.exports = {
   "844": {
     "imgurl": "https://yayc.tfnlab.com/images/844.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Gold Grin",
@@ -7607,7 +7607,7 @@ module.exports = {
   "845": {
     "imgurl": "https://yayc.tfnlab.com/images/845.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -7616,7 +7616,7 @@ module.exports = {
   "846": {
     "imgurl": "https://yayc.tfnlab.com/images/846.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Prison Jumpsuit",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Jovial",
     "mouth": "Gold Grin",
@@ -7625,7 +7625,7 @@ module.exports = {
   "847": {
     "imgurl": "https://yayc.tfnlab.com/images/847.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
@@ -7634,7 +7634,7 @@ module.exports = {
   "848": {
     "imgurl": "https://yayc.tfnlab.com/images/848.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Rage",
@@ -7643,7 +7643,7 @@ module.exports = {
   "849": {
     "imgurl": "https://yayc.tfnlab.com/images/849.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -7652,7 +7652,7 @@ module.exports = {
   "850": {
     "imgurl": "https://yayc.tfnlab.com/images/850.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot",
     "hat": "Dumbfounded",
     "mouth": "Dumbfounded",
@@ -7661,7 +7661,7 @@ module.exports = {
   "851": {
     "imgurl": "https://yayc.tfnlab.com/images/851.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot",
     "hat": "Phoneme Vuh",
     "mouth": "Dumbfounded",
@@ -7670,7 +7670,7 @@ module.exports = {
   "852": {
     "imgurl": "https://yayc.tfnlab.com/images/852.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot",
     "hat": "Gold Grin",
     "mouth": "Rage",
@@ -7679,7 +7679,7 @@ module.exports = {
   "853": {
     "imgurl": "https://yayc.tfnlab.com/images/853.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -7688,7 +7688,7 @@ module.exports = {
   "854": {
     "imgurl": "https://yayc.tfnlab.com/images/854.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Closed",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -7697,7 +7697,7 @@ module.exports = {
   "855": {
     "imgurl": "https://yayc.tfnlab.com/images/855.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Bored Yellow Lazer",
     "hat": "Grin",
     "mouth": "Rage",
@@ -7706,7 +7706,7 @@ module.exports = {
   "856": {
     "imgurl": "https://yayc.tfnlab.com/images/856.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Tie Dye",
     "eyes": "Closed",
     "hat": "Grin",
     "mouth": "Grin",
@@ -7715,7 +7715,7 @@ module.exports = {
   "857": {
     "imgurl": "https://yayc.tfnlab.com/images/857.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Rage",
     "mouth": "Bored Pizza",
@@ -7724,7 +7724,7 @@ module.exports = {
   "858": {
     "imgurl": "https://yayc.tfnlab.com/images/858.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Closed",
     "hat": "Bored Pizza",
     "mouth": "Bored",
@@ -7733,7 +7733,7 @@ module.exports = {
   "859": {
     "imgurl": "https://yayc.tfnlab.com/images/859.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bored",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
@@ -7742,7 +7742,7 @@ module.exports = {
   "860": {
     "imgurl": "https://yayc.tfnlab.com/images/860.png",
     "fur": "Gold",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored",
     "hat": "Dumbfounded",
     "mouth": "Rage",
@@ -7751,7 +7751,7 @@ module.exports = {
   "861": {
     "imgurl": "https://yayc.tfnlab.com/images/861.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Phoneme Vuh",
     "mouth": "Rage",
@@ -7760,7 +7760,7 @@ module.exports = {
   "862": {
     "imgurl": "https://yayc.tfnlab.com/images/862.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored Pizza",
@@ -7769,7 +7769,7 @@ module.exports = {
   "863": {
     "imgurl": "https://yayc.tfnlab.com/images/863.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -7778,7 +7778,7 @@ module.exports = {
   "864": {
     "imgurl": "https://yayc.tfnlab.com/images/864.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot Yellow Lazer",
     "hat": "Rage",
     "mouth": "Bored Pizza",
@@ -7787,7 +7787,7 @@ module.exports = {
   "865": {
     "imgurl": "https://yayc.tfnlab.com/images/865.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "None",
     "eyes": "Bloodshot",
     "hat": "Bored",
     "mouth": "Gold Grin",
@@ -7796,7 +7796,7 @@ module.exports = {
   "866": {
     "imgurl": "https://yayc.tfnlab.com/images/866.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored Blue Lazer",
     "hat": "Bored Pizza",
     "mouth": "Jovial",
@@ -7805,7 +7805,7 @@ module.exports = {
   "867": {
     "imgurl": "https://yayc.tfnlab.com/images/867.png",
     "fur": "Blue",
-    "clothes": "null",
+    "clothes": "Hawaiian",
     "eyes": "Bored",
     "hat": "Bored Pizza",
     "mouth": "Dumbfounded",
@@ -7814,7 +7814,7 @@ module.exports = {
   "868": {
     "imgurl": "https://yayc.tfnlab.com/images/868.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Gold Grin",
@@ -7823,7 +7823,7 @@ module.exports = {
   "869": {
     "imgurl": "https://yayc.tfnlab.com/images/869.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Lab coat",
     "eyes": "Bored Blue Lazer",
     "hat": "Dumbfounded",
     "mouth": "Bored",
@@ -7832,7 +7832,7 @@ module.exports = {
   "870": {
     "imgurl": "https://yayc.tfnlab.com/images/870.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Bored",
     "hat": "Phoneme Vuh",
     "mouth": "Phoneme Vuh",
@@ -7841,7 +7841,7 @@ module.exports = {
   "871": {
     "imgurl": "https://yayc.tfnlab.com/images/871.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Wool_Turtleneck",
     "eyes": "Bloodshot",
     "hat": "Rage",
     "mouth": "Bored Pizza",
@@ -7850,7 +7850,7 @@ module.exports = {
   "872": {
     "imgurl": "https://yayc.tfnlab.com/images/872.png",
     "fur": "Brown",
-    "clothes": "null",
+    "clothes": "Navy Striped Tee",
     "eyes": "Closed",
     "hat": "Phoneme Vuh",
     "mouth": "Bored Pizza",
@@ -7859,7 +7859,7 @@ module.exports = {
   "873": {
     "imgurl": "https://yayc.tfnlab.com/images/873.png",
     "fur": "Zombie",
-    "clothes": "null",
+    "clothes": "Sailor Shirt",
     "eyes": "Bloodshot Blue Lazer",
     "hat": "Gold Grin",
     "mouth": "Phoneme Vuh",
