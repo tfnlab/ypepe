@@ -3094,5 +3094,37985 @@ module.exports = {
     "hat": "Commie Hat",
     "mouth": "Phoneme Vuh",
     "earring": "None"
+  },
+  "344": {
+    "imgurl": "https://yayc.tfnlab.com/images/344.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "345": {
+    "imgurl": "https://yayc.tfnlab.com/images/345.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "346": {
+    "imgurl": "https://yayc.tfnlab.com/images/346.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "347": {
+    "imgurl": "https://yayc.tfnlab.com/images/347.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "348": {
+    "imgurl": "https://yayc.tfnlab.com/images/348.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "349": {
+    "imgurl": "https://yayc.tfnlab.com/images/349.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "350": {
+    "imgurl": "https://yayc.tfnlab.com/images/350.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "351": {
+    "imgurl": "https://yayc.tfnlab.com/images/351.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "352": {
+    "imgurl": "https://yayc.tfnlab.com/images/352.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "353": {
+    "imgurl": "https://yayc.tfnlab.com/images/353.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "354": {
+    "imgurl": "https://yayc.tfnlab.com/images/354.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "355": {
+    "imgurl": "https://yayc.tfnlab.com/images/355.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "356": {
+    "imgurl": "https://yayc.tfnlab.com/images/356.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "357": {
+    "imgurl": "https://yayc.tfnlab.com/images/357.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "358": {
+    "imgurl": "https://yayc.tfnlab.com/images/358.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "359": {
+    "imgurl": "https://yayc.tfnlab.com/images/359.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "360": {
+    "imgurl": "https://yayc.tfnlab.com/images/360.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "361": {
+    "imgurl": "https://yayc.tfnlab.com/images/361.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "362": {
+    "imgurl": "https://yayc.tfnlab.com/images/362.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "363": {
+    "imgurl": "https://yayc.tfnlab.com/images/363.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "364": {
+    "imgurl": "https://yayc.tfnlab.com/images/364.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "365": {
+    "imgurl": "https://yayc.tfnlab.com/images/365.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "366": {
+    "imgurl": "https://yayc.tfnlab.com/images/366.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "367": {
+    "imgurl": "https://yayc.tfnlab.com/images/367.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "368": {
+    "imgurl": "https://yayc.tfnlab.com/images/368.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "369": {
+    "imgurl": "https://yayc.tfnlab.com/images/369.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "370": {
+    "imgurl": "https://yayc.tfnlab.com/images/370.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "371": {
+    "imgurl": "https://yayc.tfnlab.com/images/371.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "372": {
+    "imgurl": "https://yayc.tfnlab.com/images/372.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "373": {
+    "imgurl": "https://yayc.tfnlab.com/images/373.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "374": {
+    "imgurl": "https://yayc.tfnlab.com/images/374.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "375": {
+    "imgurl": "https://yayc.tfnlab.com/images/375.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "376": {
+    "imgurl": "https://yayc.tfnlab.com/images/376.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "377": {
+    "imgurl": "https://yayc.tfnlab.com/images/377.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "378": {
+    "imgurl": "https://yayc.tfnlab.com/images/378.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "379": {
+    "imgurl": "https://yayc.tfnlab.com/images/379.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "380": {
+    "imgurl": "https://yayc.tfnlab.com/images/380.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "381": {
+    "imgurl": "https://yayc.tfnlab.com/images/381.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "382": {
+    "imgurl": "https://yayc.tfnlab.com/images/382.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "383": {
+    "imgurl": "https://yayc.tfnlab.com/images/383.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "384": {
+    "imgurl": "https://yayc.tfnlab.com/images/384.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "385": {
+    "imgurl": "https://yayc.tfnlab.com/images/385.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "386": {
+    "imgurl": "https://yayc.tfnlab.com/images/386.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "387": {
+    "imgurl": "https://yayc.tfnlab.com/images/387.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "388": {
+    "imgurl": "https://yayc.tfnlab.com/images/388.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "389": {
+    "imgurl": "https://yayc.tfnlab.com/images/389.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "390": {
+    "imgurl": "https://yayc.tfnlab.com/images/390.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "391": {
+    "imgurl": "https://yayc.tfnlab.com/images/391.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "392": {
+    "imgurl": "https://yayc.tfnlab.com/images/392.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "393": {
+    "imgurl": "https://yayc.tfnlab.com/images/393.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "394": {
+    "imgurl": "https://yayc.tfnlab.com/images/394.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "395": {
+    "imgurl": "https://yayc.tfnlab.com/images/395.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "396": {
+    "imgurl": "https://yayc.tfnlab.com/images/396.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "397": {
+    "imgurl": "https://yayc.tfnlab.com/images/397.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "398": {
+    "imgurl": "https://yayc.tfnlab.com/images/398.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "399": {
+    "imgurl": "https://yayc.tfnlab.com/images/399.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "400": {
+    "imgurl": "https://yayc.tfnlab.com/images/400.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "401": {
+    "imgurl": "https://yayc.tfnlab.com/images/401.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "402": {
+    "imgurl": "https://yayc.tfnlab.com/images/402.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "403": {
+    "imgurl": "https://yayc.tfnlab.com/images/403.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "404": {
+    "imgurl": "https://yayc.tfnlab.com/images/404.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "405": {
+    "imgurl": "https://yayc.tfnlab.com/images/405.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "406": {
+    "imgurl": "https://yayc.tfnlab.com/images/406.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "407": {
+    "imgurl": "https://yayc.tfnlab.com/images/407.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "408": {
+    "imgurl": "https://yayc.tfnlab.com/images/408.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "409": {
+    "imgurl": "https://yayc.tfnlab.com/images/409.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "410": {
+    "imgurl": "https://yayc.tfnlab.com/images/410.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "411": {
+    "imgurl": "https://yayc.tfnlab.com/images/411.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "412": {
+    "imgurl": "https://yayc.tfnlab.com/images/412.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "413": {
+    "imgurl": "https://yayc.tfnlab.com/images/413.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "414": {
+    "imgurl": "https://yayc.tfnlab.com/images/414.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "415": {
+    "imgurl": "https://yayc.tfnlab.com/images/415.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "416": {
+    "imgurl": "https://yayc.tfnlab.com/images/416.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "417": {
+    "imgurl": "https://yayc.tfnlab.com/images/417.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "418": {
+    "imgurl": "https://yayc.tfnlab.com/images/418.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "419": {
+    "imgurl": "https://yayc.tfnlab.com/images/419.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "420": {
+    "imgurl": "https://yayc.tfnlab.com/images/420.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "421": {
+    "imgurl": "https://yayc.tfnlab.com/images/421.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "422": {
+    "imgurl": "https://yayc.tfnlab.com/images/422.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "423": {
+    "imgurl": "https://yayc.tfnlab.com/images/423.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "424": {
+    "imgurl": "https://yayc.tfnlab.com/images/424.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "425": {
+    "imgurl": "https://yayc.tfnlab.com/images/425.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "426": {
+    "imgurl": "https://yayc.tfnlab.com/images/426.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "427": {
+    "imgurl": "https://yayc.tfnlab.com/images/427.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "428": {
+    "imgurl": "https://yayc.tfnlab.com/images/428.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "429": {
+    "imgurl": "https://yayc.tfnlab.com/images/429.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "430": {
+    "imgurl": "https://yayc.tfnlab.com/images/430.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "431": {
+    "imgurl": "https://yayc.tfnlab.com/images/431.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "432": {
+    "imgurl": "https://yayc.tfnlab.com/images/432.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "433": {
+    "imgurl": "https://yayc.tfnlab.com/images/433.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "434": {
+    "imgurl": "https://yayc.tfnlab.com/images/434.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "435": {
+    "imgurl": "https://yayc.tfnlab.com/images/435.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "436": {
+    "imgurl": "https://yayc.tfnlab.com/images/436.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "437": {
+    "imgurl": "https://yayc.tfnlab.com/images/437.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "438": {
+    "imgurl": "https://yayc.tfnlab.com/images/438.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "439": {
+    "imgurl": "https://yayc.tfnlab.com/images/439.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "440": {
+    "imgurl": "https://yayc.tfnlab.com/images/440.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "441": {
+    "imgurl": "https://yayc.tfnlab.com/images/441.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "442": {
+    "imgurl": "https://yayc.tfnlab.com/images/442.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "443": {
+    "imgurl": "https://yayc.tfnlab.com/images/443.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "444": {
+    "imgurl": "https://yayc.tfnlab.com/images/444.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "445": {
+    "imgurl": "https://yayc.tfnlab.com/images/445.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "446": {
+    "imgurl": "https://yayc.tfnlab.com/images/446.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "447": {
+    "imgurl": "https://yayc.tfnlab.com/images/447.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "448": {
+    "imgurl": "https://yayc.tfnlab.com/images/448.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "449": {
+    "imgurl": "https://yayc.tfnlab.com/images/449.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "450": {
+    "imgurl": "https://yayc.tfnlab.com/images/450.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "451": {
+    "imgurl": "https://yayc.tfnlab.com/images/451.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "452": {
+    "imgurl": "https://yayc.tfnlab.com/images/452.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "453": {
+    "imgurl": "https://yayc.tfnlab.com/images/453.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "454": {
+    "imgurl": "https://yayc.tfnlab.com/images/454.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "455": {
+    "imgurl": "https://yayc.tfnlab.com/images/455.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "456": {
+    "imgurl": "https://yayc.tfnlab.com/images/456.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "457": {
+    "imgurl": "https://yayc.tfnlab.com/images/457.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "458": {
+    "imgurl": "https://yayc.tfnlab.com/images/458.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "459": {
+    "imgurl": "https://yayc.tfnlab.com/images/459.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "460": {
+    "imgurl": "https://yayc.tfnlab.com/images/460.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "461": {
+    "imgurl": "https://yayc.tfnlab.com/images/461.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "462": {
+    "imgurl": "https://yayc.tfnlab.com/images/462.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "463": {
+    "imgurl": "https://yayc.tfnlab.com/images/463.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "464": {
+    "imgurl": "https://yayc.tfnlab.com/images/464.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "465": {
+    "imgurl": "https://yayc.tfnlab.com/images/465.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "466": {
+    "imgurl": "https://yayc.tfnlab.com/images/466.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "467": {
+    "imgurl": "https://yayc.tfnlab.com/images/467.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "468": {
+    "imgurl": "https://yayc.tfnlab.com/images/468.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "469": {
+    "imgurl": "https://yayc.tfnlab.com/images/469.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "470": {
+    "imgurl": "https://yayc.tfnlab.com/images/470.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "471": {
+    "imgurl": "https://yayc.tfnlab.com/images/471.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "472": {
+    "imgurl": "https://yayc.tfnlab.com/images/472.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "473": {
+    "imgurl": "https://yayc.tfnlab.com/images/473.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "474": {
+    "imgurl": "https://yayc.tfnlab.com/images/474.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "475": {
+    "imgurl": "https://yayc.tfnlab.com/images/475.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "476": {
+    "imgurl": "https://yayc.tfnlab.com/images/476.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "477": {
+    "imgurl": "https://yayc.tfnlab.com/images/477.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "478": {
+    "imgurl": "https://yayc.tfnlab.com/images/478.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "479": {
+    "imgurl": "https://yayc.tfnlab.com/images/479.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "480": {
+    "imgurl": "https://yayc.tfnlab.com/images/480.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "481": {
+    "imgurl": "https://yayc.tfnlab.com/images/481.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "482": {
+    "imgurl": "https://yayc.tfnlab.com/images/482.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "483": {
+    "imgurl": "https://yayc.tfnlab.com/images/483.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "484": {
+    "imgurl": "https://yayc.tfnlab.com/images/484.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "485": {
+    "imgurl": "https://yayc.tfnlab.com/images/485.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "486": {
+    "imgurl": "https://yayc.tfnlab.com/images/486.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "487": {
+    "imgurl": "https://yayc.tfnlab.com/images/487.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "488": {
+    "imgurl": "https://yayc.tfnlab.com/images/488.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "489": {
+    "imgurl": "https://yayc.tfnlab.com/images/489.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "490": {
+    "imgurl": "https://yayc.tfnlab.com/images/490.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "491": {
+    "imgurl": "https://yayc.tfnlab.com/images/491.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "492": {
+    "imgurl": "https://yayc.tfnlab.com/images/492.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "493": {
+    "imgurl": "https://yayc.tfnlab.com/images/493.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "494": {
+    "imgurl": "https://yayc.tfnlab.com/images/494.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "495": {
+    "imgurl": "https://yayc.tfnlab.com/images/495.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "496": {
+    "imgurl": "https://yayc.tfnlab.com/images/496.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "497": {
+    "imgurl": "https://yayc.tfnlab.com/images/497.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "498": {
+    "imgurl": "https://yayc.tfnlab.com/images/498.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "499": {
+    "imgurl": "https://yayc.tfnlab.com/images/499.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "500": {
+    "imgurl": "https://yayc.tfnlab.com/images/500.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "501": {
+    "imgurl": "https://yayc.tfnlab.com/images/501.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "502": {
+    "imgurl": "https://yayc.tfnlab.com/images/502.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "503": {
+    "imgurl": "https://yayc.tfnlab.com/images/503.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "504": {
+    "imgurl": "https://yayc.tfnlab.com/images/504.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "505": {
+    "imgurl": "https://yayc.tfnlab.com/images/505.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "506": {
+    "imgurl": "https://yayc.tfnlab.com/images/506.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "507": {
+    "imgurl": "https://yayc.tfnlab.com/images/507.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "508": {
+    "imgurl": "https://yayc.tfnlab.com/images/508.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "509": {
+    "imgurl": "https://yayc.tfnlab.com/images/509.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "510": {
+    "imgurl": "https://yayc.tfnlab.com/images/510.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "511": {
+    "imgurl": "https://yayc.tfnlab.com/images/511.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "512": {
+    "imgurl": "https://yayc.tfnlab.com/images/512.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "513": {
+    "imgurl": "https://yayc.tfnlab.com/images/513.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "514": {
+    "imgurl": "https://yayc.tfnlab.com/images/514.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "515": {
+    "imgurl": "https://yayc.tfnlab.com/images/515.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "516": {
+    "imgurl": "https://yayc.tfnlab.com/images/516.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "517": {
+    "imgurl": "https://yayc.tfnlab.com/images/517.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "518": {
+    "imgurl": "https://yayc.tfnlab.com/images/518.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "519": {
+    "imgurl": "https://yayc.tfnlab.com/images/519.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "520": {
+    "imgurl": "https://yayc.tfnlab.com/images/520.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "521": {
+    "imgurl": "https://yayc.tfnlab.com/images/521.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "522": {
+    "imgurl": "https://yayc.tfnlab.com/images/522.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "523": {
+    "imgurl": "https://yayc.tfnlab.com/images/523.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "524": {
+    "imgurl": "https://yayc.tfnlab.com/images/524.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "525": {
+    "imgurl": "https://yayc.tfnlab.com/images/525.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "526": {
+    "imgurl": "https://yayc.tfnlab.com/images/526.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "527": {
+    "imgurl": "https://yayc.tfnlab.com/images/527.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "528": {
+    "imgurl": "https://yayc.tfnlab.com/images/528.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "529": {
+    "imgurl": "https://yayc.tfnlab.com/images/529.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "530": {
+    "imgurl": "https://yayc.tfnlab.com/images/530.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "531": {
+    "imgurl": "https://yayc.tfnlab.com/images/531.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "532": {
+    "imgurl": "https://yayc.tfnlab.com/images/532.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "533": {
+    "imgurl": "https://yayc.tfnlab.com/images/533.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "534": {
+    "imgurl": "https://yayc.tfnlab.com/images/534.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "535": {
+    "imgurl": "https://yayc.tfnlab.com/images/535.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "536": {
+    "imgurl": "https://yayc.tfnlab.com/images/536.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "537": {
+    "imgurl": "https://yayc.tfnlab.com/images/537.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "538": {
+    "imgurl": "https://yayc.tfnlab.com/images/538.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "539": {
+    "imgurl": "https://yayc.tfnlab.com/images/539.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "540": {
+    "imgurl": "https://yayc.tfnlab.com/images/540.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "541": {
+    "imgurl": "https://yayc.tfnlab.com/images/541.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "542": {
+    "imgurl": "https://yayc.tfnlab.com/images/542.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "543": {
+    "imgurl": "https://yayc.tfnlab.com/images/543.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "544": {
+    "imgurl": "https://yayc.tfnlab.com/images/544.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "545": {
+    "imgurl": "https://yayc.tfnlab.com/images/545.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "546": {
+    "imgurl": "https://yayc.tfnlab.com/images/546.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "547": {
+    "imgurl": "https://yayc.tfnlab.com/images/547.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "548": {
+    "imgurl": "https://yayc.tfnlab.com/images/548.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "549": {
+    "imgurl": "https://yayc.tfnlab.com/images/549.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "550": {
+    "imgurl": "https://yayc.tfnlab.com/images/550.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "551": {
+    "imgurl": "https://yayc.tfnlab.com/images/551.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "552": {
+    "imgurl": "https://yayc.tfnlab.com/images/552.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "553": {
+    "imgurl": "https://yayc.tfnlab.com/images/553.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "554": {
+    "imgurl": "https://yayc.tfnlab.com/images/554.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "555": {
+    "imgurl": "https://yayc.tfnlab.com/images/555.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "556": {
+    "imgurl": "https://yayc.tfnlab.com/images/556.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "557": {
+    "imgurl": "https://yayc.tfnlab.com/images/557.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "558": {
+    "imgurl": "https://yayc.tfnlab.com/images/558.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "559": {
+    "imgurl": "https://yayc.tfnlab.com/images/559.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "560": {
+    "imgurl": "https://yayc.tfnlab.com/images/560.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "561": {
+    "imgurl": "https://yayc.tfnlab.com/images/561.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "562": {
+    "imgurl": "https://yayc.tfnlab.com/images/562.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "563": {
+    "imgurl": "https://yayc.tfnlab.com/images/563.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "564": {
+    "imgurl": "https://yayc.tfnlab.com/images/564.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "565": {
+    "imgurl": "https://yayc.tfnlab.com/images/565.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "566": {
+    "imgurl": "https://yayc.tfnlab.com/images/566.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "567": {
+    "imgurl": "https://yayc.tfnlab.com/images/567.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "568": {
+    "imgurl": "https://yayc.tfnlab.com/images/568.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "569": {
+    "imgurl": "https://yayc.tfnlab.com/images/569.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "570": {
+    "imgurl": "https://yayc.tfnlab.com/images/570.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "571": {
+    "imgurl": "https://yayc.tfnlab.com/images/571.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "572": {
+    "imgurl": "https://yayc.tfnlab.com/images/572.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "573": {
+    "imgurl": "https://yayc.tfnlab.com/images/573.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "574": {
+    "imgurl": "https://yayc.tfnlab.com/images/574.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "575": {
+    "imgurl": "https://yayc.tfnlab.com/images/575.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "576": {
+    "imgurl": "https://yayc.tfnlab.com/images/576.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "577": {
+    "imgurl": "https://yayc.tfnlab.com/images/577.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "578": {
+    "imgurl": "https://yayc.tfnlab.com/images/578.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "579": {
+    "imgurl": "https://yayc.tfnlab.com/images/579.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "580": {
+    "imgurl": "https://yayc.tfnlab.com/images/580.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "581": {
+    "imgurl": "https://yayc.tfnlab.com/images/581.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "582": {
+    "imgurl": "https://yayc.tfnlab.com/images/582.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "583": {
+    "imgurl": "https://yayc.tfnlab.com/images/583.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "584": {
+    "imgurl": "https://yayc.tfnlab.com/images/584.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "585": {
+    "imgurl": "https://yayc.tfnlab.com/images/585.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "586": {
+    "imgurl": "https://yayc.tfnlab.com/images/586.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "587": {
+    "imgurl": "https://yayc.tfnlab.com/images/587.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "588": {
+    "imgurl": "https://yayc.tfnlab.com/images/588.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "589": {
+    "imgurl": "https://yayc.tfnlab.com/images/589.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "590": {
+    "imgurl": "https://yayc.tfnlab.com/images/590.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "591": {
+    "imgurl": "https://yayc.tfnlab.com/images/591.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "592": {
+    "imgurl": "https://yayc.tfnlab.com/images/592.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "593": {
+    "imgurl": "https://yayc.tfnlab.com/images/593.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "594": {
+    "imgurl": "https://yayc.tfnlab.com/images/594.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "595": {
+    "imgurl": "https://yayc.tfnlab.com/images/595.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "596": {
+    "imgurl": "https://yayc.tfnlab.com/images/596.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "597": {
+    "imgurl": "https://yayc.tfnlab.com/images/597.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "598": {
+    "imgurl": "https://yayc.tfnlab.com/images/598.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "599": {
+    "imgurl": "https://yayc.tfnlab.com/images/599.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "600": {
+    "imgurl": "https://yayc.tfnlab.com/images/600.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "601": {
+    "imgurl": "https://yayc.tfnlab.com/images/601.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "602": {
+    "imgurl": "https://yayc.tfnlab.com/images/602.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "603": {
+    "imgurl": "https://yayc.tfnlab.com/images/603.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "604": {
+    "imgurl": "https://yayc.tfnlab.com/images/604.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "605": {
+    "imgurl": "https://yayc.tfnlab.com/images/605.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "606": {
+    "imgurl": "https://yayc.tfnlab.com/images/606.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "607": {
+    "imgurl": "https://yayc.tfnlab.com/images/607.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "608": {
+    "imgurl": "https://yayc.tfnlab.com/images/608.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "609": {
+    "imgurl": "https://yayc.tfnlab.com/images/609.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "610": {
+    "imgurl": "https://yayc.tfnlab.com/images/610.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "611": {
+    "imgurl": "https://yayc.tfnlab.com/images/611.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "612": {
+    "imgurl": "https://yayc.tfnlab.com/images/612.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "613": {
+    "imgurl": "https://yayc.tfnlab.com/images/613.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "614": {
+    "imgurl": "https://yayc.tfnlab.com/images/614.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "615": {
+    "imgurl": "https://yayc.tfnlab.com/images/615.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "616": {
+    "imgurl": "https://yayc.tfnlab.com/images/616.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "617": {
+    "imgurl": "https://yayc.tfnlab.com/images/617.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "618": {
+    "imgurl": "https://yayc.tfnlab.com/images/618.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "619": {
+    "imgurl": "https://yayc.tfnlab.com/images/619.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "620": {
+    "imgurl": "https://yayc.tfnlab.com/images/620.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "621": {
+    "imgurl": "https://yayc.tfnlab.com/images/621.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "622": {
+    "imgurl": "https://yayc.tfnlab.com/images/622.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "623": {
+    "imgurl": "https://yayc.tfnlab.com/images/623.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "624": {
+    "imgurl": "https://yayc.tfnlab.com/images/624.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "625": {
+    "imgurl": "https://yayc.tfnlab.com/images/625.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "626": {
+    "imgurl": "https://yayc.tfnlab.com/images/626.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "627": {
+    "imgurl": "https://yayc.tfnlab.com/images/627.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "628": {
+    "imgurl": "https://yayc.tfnlab.com/images/628.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "629": {
+    "imgurl": "https://yayc.tfnlab.com/images/629.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "630": {
+    "imgurl": "https://yayc.tfnlab.com/images/630.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "631": {
+    "imgurl": "https://yayc.tfnlab.com/images/631.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "632": {
+    "imgurl": "https://yayc.tfnlab.com/images/632.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "633": {
+    "imgurl": "https://yayc.tfnlab.com/images/633.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "634": {
+    "imgurl": "https://yayc.tfnlab.com/images/634.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "635": {
+    "imgurl": "https://yayc.tfnlab.com/images/635.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "636": {
+    "imgurl": "https://yayc.tfnlab.com/images/636.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "637": {
+    "imgurl": "https://yayc.tfnlab.com/images/637.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "638": {
+    "imgurl": "https://yayc.tfnlab.com/images/638.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "639": {
+    "imgurl": "https://yayc.tfnlab.com/images/639.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "640": {
+    "imgurl": "https://yayc.tfnlab.com/images/640.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "641": {
+    "imgurl": "https://yayc.tfnlab.com/images/641.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "642": {
+    "imgurl": "https://yayc.tfnlab.com/images/642.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "643": {
+    "imgurl": "https://yayc.tfnlab.com/images/643.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "644": {
+    "imgurl": "https://yayc.tfnlab.com/images/644.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "645": {
+    "imgurl": "https://yayc.tfnlab.com/images/645.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "646": {
+    "imgurl": "https://yayc.tfnlab.com/images/646.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "647": {
+    "imgurl": "https://yayc.tfnlab.com/images/647.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "648": {
+    "imgurl": "https://yayc.tfnlab.com/images/648.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "649": {
+    "imgurl": "https://yayc.tfnlab.com/images/649.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "650": {
+    "imgurl": "https://yayc.tfnlab.com/images/650.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "651": {
+    "imgurl": "https://yayc.tfnlab.com/images/651.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "652": {
+    "imgurl": "https://yayc.tfnlab.com/images/652.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "653": {
+    "imgurl": "https://yayc.tfnlab.com/images/653.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "654": {
+    "imgurl": "https://yayc.tfnlab.com/images/654.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "655": {
+    "imgurl": "https://yayc.tfnlab.com/images/655.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "656": {
+    "imgurl": "https://yayc.tfnlab.com/images/656.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "657": {
+    "imgurl": "https://yayc.tfnlab.com/images/657.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "658": {
+    "imgurl": "https://yayc.tfnlab.com/images/658.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "659": {
+    "imgurl": "https://yayc.tfnlab.com/images/659.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "660": {
+    "imgurl": "https://yayc.tfnlab.com/images/660.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "661": {
+    "imgurl": "https://yayc.tfnlab.com/images/661.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "662": {
+    "imgurl": "https://yayc.tfnlab.com/images/662.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "663": {
+    "imgurl": "https://yayc.tfnlab.com/images/663.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "664": {
+    "imgurl": "https://yayc.tfnlab.com/images/664.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "665": {
+    "imgurl": "https://yayc.tfnlab.com/images/665.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "666": {
+    "imgurl": "https://yayc.tfnlab.com/images/666.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "667": {
+    "imgurl": "https://yayc.tfnlab.com/images/667.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "668": {
+    "imgurl": "https://yayc.tfnlab.com/images/668.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "669": {
+    "imgurl": "https://yayc.tfnlab.com/images/669.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "670": {
+    "imgurl": "https://yayc.tfnlab.com/images/670.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "671": {
+    "imgurl": "https://yayc.tfnlab.com/images/671.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "672": {
+    "imgurl": "https://yayc.tfnlab.com/images/672.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "673": {
+    "imgurl": "https://yayc.tfnlab.com/images/673.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "674": {
+    "imgurl": "https://yayc.tfnlab.com/images/674.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "675": {
+    "imgurl": "https://yayc.tfnlab.com/images/675.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "676": {
+    "imgurl": "https://yayc.tfnlab.com/images/676.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "677": {
+    "imgurl": "https://yayc.tfnlab.com/images/677.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "678": {
+    "imgurl": "https://yayc.tfnlab.com/images/678.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "679": {
+    "imgurl": "https://yayc.tfnlab.com/images/679.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "680": {
+    "imgurl": "https://yayc.tfnlab.com/images/680.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "681": {
+    "imgurl": "https://yayc.tfnlab.com/images/681.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "682": {
+    "imgurl": "https://yayc.tfnlab.com/images/682.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "683": {
+    "imgurl": "https://yayc.tfnlab.com/images/683.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "684": {
+    "imgurl": "https://yayc.tfnlab.com/images/684.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "685": {
+    "imgurl": "https://yayc.tfnlab.com/images/685.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "686": {
+    "imgurl": "https://yayc.tfnlab.com/images/686.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "687": {
+    "imgurl": "https://yayc.tfnlab.com/images/687.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "688": {
+    "imgurl": "https://yayc.tfnlab.com/images/688.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "689": {
+    "imgurl": "https://yayc.tfnlab.com/images/689.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "690": {
+    "imgurl": "https://yayc.tfnlab.com/images/690.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "691": {
+    "imgurl": "https://yayc.tfnlab.com/images/691.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "692": {
+    "imgurl": "https://yayc.tfnlab.com/images/692.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "693": {
+    "imgurl": "https://yayc.tfnlab.com/images/693.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "694": {
+    "imgurl": "https://yayc.tfnlab.com/images/694.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "695": {
+    "imgurl": "https://yayc.tfnlab.com/images/695.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "696": {
+    "imgurl": "https://yayc.tfnlab.com/images/696.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "697": {
+    "imgurl": "https://yayc.tfnlab.com/images/697.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "698": {
+    "imgurl": "https://yayc.tfnlab.com/images/698.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "699": {
+    "imgurl": "https://yayc.tfnlab.com/images/699.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "700": {
+    "imgurl": "https://yayc.tfnlab.com/images/700.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "701": {
+    "imgurl": "https://yayc.tfnlab.com/images/701.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "702": {
+    "imgurl": "https://yayc.tfnlab.com/images/702.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "703": {
+    "imgurl": "https://yayc.tfnlab.com/images/703.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "704": {
+    "imgurl": "https://yayc.tfnlab.com/images/704.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "705": {
+    "imgurl": "https://yayc.tfnlab.com/images/705.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "706": {
+    "imgurl": "https://yayc.tfnlab.com/images/706.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "707": {
+    "imgurl": "https://yayc.tfnlab.com/images/707.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "708": {
+    "imgurl": "https://yayc.tfnlab.com/images/708.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "709": {
+    "imgurl": "https://yayc.tfnlab.com/images/709.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "710": {
+    "imgurl": "https://yayc.tfnlab.com/images/710.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "711": {
+    "imgurl": "https://yayc.tfnlab.com/images/711.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "712": {
+    "imgurl": "https://yayc.tfnlab.com/images/712.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "713": {
+    "imgurl": "https://yayc.tfnlab.com/images/713.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "714": {
+    "imgurl": "https://yayc.tfnlab.com/images/714.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "715": {
+    "imgurl": "https://yayc.tfnlab.com/images/715.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "716": {
+    "imgurl": "https://yayc.tfnlab.com/images/716.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "717": {
+    "imgurl": "https://yayc.tfnlab.com/images/717.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "718": {
+    "imgurl": "https://yayc.tfnlab.com/images/718.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "719": {
+    "imgurl": "https://yayc.tfnlab.com/images/719.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "720": {
+    "imgurl": "https://yayc.tfnlab.com/images/720.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "721": {
+    "imgurl": "https://yayc.tfnlab.com/images/721.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "722": {
+    "imgurl": "https://yayc.tfnlab.com/images/722.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "723": {
+    "imgurl": "https://yayc.tfnlab.com/images/723.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "724": {
+    "imgurl": "https://yayc.tfnlab.com/images/724.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "725": {
+    "imgurl": "https://yayc.tfnlab.com/images/725.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "726": {
+    "imgurl": "https://yayc.tfnlab.com/images/726.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "727": {
+    "imgurl": "https://yayc.tfnlab.com/images/727.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "728": {
+    "imgurl": "https://yayc.tfnlab.com/images/728.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "729": {
+    "imgurl": "https://yayc.tfnlab.com/images/729.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "730": {
+    "imgurl": "https://yayc.tfnlab.com/images/730.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "731": {
+    "imgurl": "https://yayc.tfnlab.com/images/731.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "732": {
+    "imgurl": "https://yayc.tfnlab.com/images/732.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "733": {
+    "imgurl": "https://yayc.tfnlab.com/images/733.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "734": {
+    "imgurl": "https://yayc.tfnlab.com/images/734.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "735": {
+    "imgurl": "https://yayc.tfnlab.com/images/735.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "736": {
+    "imgurl": "https://yayc.tfnlab.com/images/736.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "737": {
+    "imgurl": "https://yayc.tfnlab.com/images/737.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "738": {
+    "imgurl": "https://yayc.tfnlab.com/images/738.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "739": {
+    "imgurl": "https://yayc.tfnlab.com/images/739.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "740": {
+    "imgurl": "https://yayc.tfnlab.com/images/740.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "741": {
+    "imgurl": "https://yayc.tfnlab.com/images/741.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "742": {
+    "imgurl": "https://yayc.tfnlab.com/images/742.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "743": {
+    "imgurl": "https://yayc.tfnlab.com/images/743.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "744": {
+    "imgurl": "https://yayc.tfnlab.com/images/744.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "745": {
+    "imgurl": "https://yayc.tfnlab.com/images/745.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "746": {
+    "imgurl": "https://yayc.tfnlab.com/images/746.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "747": {
+    "imgurl": "https://yayc.tfnlab.com/images/747.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "748": {
+    "imgurl": "https://yayc.tfnlab.com/images/748.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "749": {
+    "imgurl": "https://yayc.tfnlab.com/images/749.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "750": {
+    "imgurl": "https://yayc.tfnlab.com/images/750.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "751": {
+    "imgurl": "https://yayc.tfnlab.com/images/751.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "752": {
+    "imgurl": "https://yayc.tfnlab.com/images/752.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "753": {
+    "imgurl": "https://yayc.tfnlab.com/images/753.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "754": {
+    "imgurl": "https://yayc.tfnlab.com/images/754.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "755": {
+    "imgurl": "https://yayc.tfnlab.com/images/755.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "756": {
+    "imgurl": "https://yayc.tfnlab.com/images/756.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "757": {
+    "imgurl": "https://yayc.tfnlab.com/images/757.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "758": {
+    "imgurl": "https://yayc.tfnlab.com/images/758.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "759": {
+    "imgurl": "https://yayc.tfnlab.com/images/759.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "760": {
+    "imgurl": "https://yayc.tfnlab.com/images/760.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "761": {
+    "imgurl": "https://yayc.tfnlab.com/images/761.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "762": {
+    "imgurl": "https://yayc.tfnlab.com/images/762.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "763": {
+    "imgurl": "https://yayc.tfnlab.com/images/763.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "764": {
+    "imgurl": "https://yayc.tfnlab.com/images/764.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "765": {
+    "imgurl": "https://yayc.tfnlab.com/images/765.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "766": {
+    "imgurl": "https://yayc.tfnlab.com/images/766.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "767": {
+    "imgurl": "https://yayc.tfnlab.com/images/767.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "768": {
+    "imgurl": "https://yayc.tfnlab.com/images/768.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "769": {
+    "imgurl": "https://yayc.tfnlab.com/images/769.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "770": {
+    "imgurl": "https://yayc.tfnlab.com/images/770.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "771": {
+    "imgurl": "https://yayc.tfnlab.com/images/771.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "772": {
+    "imgurl": "https://yayc.tfnlab.com/images/772.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "773": {
+    "imgurl": "https://yayc.tfnlab.com/images/773.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "774": {
+    "imgurl": "https://yayc.tfnlab.com/images/774.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "775": {
+    "imgurl": "https://yayc.tfnlab.com/images/775.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "776": {
+    "imgurl": "https://yayc.tfnlab.com/images/776.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "777": {
+    "imgurl": "https://yayc.tfnlab.com/images/777.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "778": {
+    "imgurl": "https://yayc.tfnlab.com/images/778.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "779": {
+    "imgurl": "https://yayc.tfnlab.com/images/779.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "780": {
+    "imgurl": "https://yayc.tfnlab.com/images/780.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "781": {
+    "imgurl": "https://yayc.tfnlab.com/images/781.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "782": {
+    "imgurl": "https://yayc.tfnlab.com/images/782.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "783": {
+    "imgurl": "https://yayc.tfnlab.com/images/783.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "784": {
+    "imgurl": "https://yayc.tfnlab.com/images/784.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "785": {
+    "imgurl": "https://yayc.tfnlab.com/images/785.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "786": {
+    "imgurl": "https://yayc.tfnlab.com/images/786.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "787": {
+    "imgurl": "https://yayc.tfnlab.com/images/787.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "788": {
+    "imgurl": "https://yayc.tfnlab.com/images/788.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "789": {
+    "imgurl": "https://yayc.tfnlab.com/images/789.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "790": {
+    "imgurl": "https://yayc.tfnlab.com/images/790.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "791": {
+    "imgurl": "https://yayc.tfnlab.com/images/791.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "792": {
+    "imgurl": "https://yayc.tfnlab.com/images/792.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "793": {
+    "imgurl": "https://yayc.tfnlab.com/images/793.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "794": {
+    "imgurl": "https://yayc.tfnlab.com/images/794.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "795": {
+    "imgurl": "https://yayc.tfnlab.com/images/795.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "796": {
+    "imgurl": "https://yayc.tfnlab.com/images/796.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "797": {
+    "imgurl": "https://yayc.tfnlab.com/images/797.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "798": {
+    "imgurl": "https://yayc.tfnlab.com/images/798.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "799": {
+    "imgurl": "https://yayc.tfnlab.com/images/799.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "800": {
+    "imgurl": "https://yayc.tfnlab.com/images/800.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "801": {
+    "imgurl": "https://yayc.tfnlab.com/images/801.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "802": {
+    "imgurl": "https://yayc.tfnlab.com/images/802.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "803": {
+    "imgurl": "https://yayc.tfnlab.com/images/803.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "804": {
+    "imgurl": "https://yayc.tfnlab.com/images/804.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "805": {
+    "imgurl": "https://yayc.tfnlab.com/images/805.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "806": {
+    "imgurl": "https://yayc.tfnlab.com/images/806.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "807": {
+    "imgurl": "https://yayc.tfnlab.com/images/807.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "808": {
+    "imgurl": "https://yayc.tfnlab.com/images/808.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "809": {
+    "imgurl": "https://yayc.tfnlab.com/images/809.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "810": {
+    "imgurl": "https://yayc.tfnlab.com/images/810.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "811": {
+    "imgurl": "https://yayc.tfnlab.com/images/811.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "812": {
+    "imgurl": "https://yayc.tfnlab.com/images/812.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "813": {
+    "imgurl": "https://yayc.tfnlab.com/images/813.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "814": {
+    "imgurl": "https://yayc.tfnlab.com/images/814.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "815": {
+    "imgurl": "https://yayc.tfnlab.com/images/815.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "816": {
+    "imgurl": "https://yayc.tfnlab.com/images/816.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "817": {
+    "imgurl": "https://yayc.tfnlab.com/images/817.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "818": {
+    "imgurl": "https://yayc.tfnlab.com/images/818.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "819": {
+    "imgurl": "https://yayc.tfnlab.com/images/819.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "820": {
+    "imgurl": "https://yayc.tfnlab.com/images/820.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "821": {
+    "imgurl": "https://yayc.tfnlab.com/images/821.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "822": {
+    "imgurl": "https://yayc.tfnlab.com/images/822.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "823": {
+    "imgurl": "https://yayc.tfnlab.com/images/823.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "824": {
+    "imgurl": "https://yayc.tfnlab.com/images/824.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "825": {
+    "imgurl": "https://yayc.tfnlab.com/images/825.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "826": {
+    "imgurl": "https://yayc.tfnlab.com/images/826.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "827": {
+    "imgurl": "https://yayc.tfnlab.com/images/827.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "828": {
+    "imgurl": "https://yayc.tfnlab.com/images/828.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "829": {
+    "imgurl": "https://yayc.tfnlab.com/images/829.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "830": {
+    "imgurl": "https://yayc.tfnlab.com/images/830.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "831": {
+    "imgurl": "https://yayc.tfnlab.com/images/831.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "832": {
+    "imgurl": "https://yayc.tfnlab.com/images/832.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "833": {
+    "imgurl": "https://yayc.tfnlab.com/images/833.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "834": {
+    "imgurl": "https://yayc.tfnlab.com/images/834.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "835": {
+    "imgurl": "https://yayc.tfnlab.com/images/835.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "836": {
+    "imgurl": "https://yayc.tfnlab.com/images/836.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "837": {
+    "imgurl": "https://yayc.tfnlab.com/images/837.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "838": {
+    "imgurl": "https://yayc.tfnlab.com/images/838.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "839": {
+    "imgurl": "https://yayc.tfnlab.com/images/839.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "840": {
+    "imgurl": "https://yayc.tfnlab.com/images/840.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "841": {
+    "imgurl": "https://yayc.tfnlab.com/images/841.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "842": {
+    "imgurl": "https://yayc.tfnlab.com/images/842.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "843": {
+    "imgurl": "https://yayc.tfnlab.com/images/843.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "844": {
+    "imgurl": "https://yayc.tfnlab.com/images/844.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "845": {
+    "imgurl": "https://yayc.tfnlab.com/images/845.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "846": {
+    "imgurl": "https://yayc.tfnlab.com/images/846.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "847": {
+    "imgurl": "https://yayc.tfnlab.com/images/847.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "848": {
+    "imgurl": "https://yayc.tfnlab.com/images/848.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "849": {
+    "imgurl": "https://yayc.tfnlab.com/images/849.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "850": {
+    "imgurl": "https://yayc.tfnlab.com/images/850.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "851": {
+    "imgurl": "https://yayc.tfnlab.com/images/851.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "852": {
+    "imgurl": "https://yayc.tfnlab.com/images/852.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "853": {
+    "imgurl": "https://yayc.tfnlab.com/images/853.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "854": {
+    "imgurl": "https://yayc.tfnlab.com/images/854.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "855": {
+    "imgurl": "https://yayc.tfnlab.com/images/855.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "856": {
+    "imgurl": "https://yayc.tfnlab.com/images/856.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "857": {
+    "imgurl": "https://yayc.tfnlab.com/images/857.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "858": {
+    "imgurl": "https://yayc.tfnlab.com/images/858.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "859": {
+    "imgurl": "https://yayc.tfnlab.com/images/859.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "860": {
+    "imgurl": "https://yayc.tfnlab.com/images/860.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "861": {
+    "imgurl": "https://yayc.tfnlab.com/images/861.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "862": {
+    "imgurl": "https://yayc.tfnlab.com/images/862.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "863": {
+    "imgurl": "https://yayc.tfnlab.com/images/863.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "864": {
+    "imgurl": "https://yayc.tfnlab.com/images/864.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "865": {
+    "imgurl": "https://yayc.tfnlab.com/images/865.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "866": {
+    "imgurl": "https://yayc.tfnlab.com/images/866.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "867": {
+    "imgurl": "https://yayc.tfnlab.com/images/867.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "868": {
+    "imgurl": "https://yayc.tfnlab.com/images/868.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "869": {
+    "imgurl": "https://yayc.tfnlab.com/images/869.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "870": {
+    "imgurl": "https://yayc.tfnlab.com/images/870.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "871": {
+    "imgurl": "https://yayc.tfnlab.com/images/871.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "872": {
+    "imgurl": "https://yayc.tfnlab.com/images/872.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "873": {
+    "imgurl": "https://yayc.tfnlab.com/images/873.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "874": {
+    "imgurl": "https://yayc.tfnlab.com/images/874.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "875": {
+    "imgurl": "https://yayc.tfnlab.com/images/875.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "876": {
+    "imgurl": "https://yayc.tfnlab.com/images/876.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "877": {
+    "imgurl": "https://yayc.tfnlab.com/images/877.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "878": {
+    "imgurl": "https://yayc.tfnlab.com/images/878.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "879": {
+    "imgurl": "https://yayc.tfnlab.com/images/879.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "880": {
+    "imgurl": "https://yayc.tfnlab.com/images/880.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "881": {
+    "imgurl": "https://yayc.tfnlab.com/images/881.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "882": {
+    "imgurl": "https://yayc.tfnlab.com/images/882.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "883": {
+    "imgurl": "https://yayc.tfnlab.com/images/883.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "884": {
+    "imgurl": "https://yayc.tfnlab.com/images/884.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "885": {
+    "imgurl": "https://yayc.tfnlab.com/images/885.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "886": {
+    "imgurl": "https://yayc.tfnlab.com/images/886.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "887": {
+    "imgurl": "https://yayc.tfnlab.com/images/887.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "888": {
+    "imgurl": "https://yayc.tfnlab.com/images/888.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "889": {
+    "imgurl": "https://yayc.tfnlab.com/images/889.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "890": {
+    "imgurl": "https://yayc.tfnlab.com/images/890.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "891": {
+    "imgurl": "https://yayc.tfnlab.com/images/891.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "892": {
+    "imgurl": "https://yayc.tfnlab.com/images/892.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "893": {
+    "imgurl": "https://yayc.tfnlab.com/images/893.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "894": {
+    "imgurl": "https://yayc.tfnlab.com/images/894.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "895": {
+    "imgurl": "https://yayc.tfnlab.com/images/895.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "896": {
+    "imgurl": "https://yayc.tfnlab.com/images/896.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "897": {
+    "imgurl": "https://yayc.tfnlab.com/images/897.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "898": {
+    "imgurl": "https://yayc.tfnlab.com/images/898.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "899": {
+    "imgurl": "https://yayc.tfnlab.com/images/899.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "900": {
+    "imgurl": "https://yayc.tfnlab.com/images/900.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "901": {
+    "imgurl": "https://yayc.tfnlab.com/images/901.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "902": {
+    "imgurl": "https://yayc.tfnlab.com/images/902.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "903": {
+    "imgurl": "https://yayc.tfnlab.com/images/903.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "904": {
+    "imgurl": "https://yayc.tfnlab.com/images/904.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "905": {
+    "imgurl": "https://yayc.tfnlab.com/images/905.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "906": {
+    "imgurl": "https://yayc.tfnlab.com/images/906.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "907": {
+    "imgurl": "https://yayc.tfnlab.com/images/907.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "908": {
+    "imgurl": "https://yayc.tfnlab.com/images/908.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "909": {
+    "imgurl": "https://yayc.tfnlab.com/images/909.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "910": {
+    "imgurl": "https://yayc.tfnlab.com/images/910.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "911": {
+    "imgurl": "https://yayc.tfnlab.com/images/911.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "912": {
+    "imgurl": "https://yayc.tfnlab.com/images/912.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "913": {
+    "imgurl": "https://yayc.tfnlab.com/images/913.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "914": {
+    "imgurl": "https://yayc.tfnlab.com/images/914.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "915": {
+    "imgurl": "https://yayc.tfnlab.com/images/915.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "916": {
+    "imgurl": "https://yayc.tfnlab.com/images/916.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "917": {
+    "imgurl": "https://yayc.tfnlab.com/images/917.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "918": {
+    "imgurl": "https://yayc.tfnlab.com/images/918.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "919": {
+    "imgurl": "https://yayc.tfnlab.com/images/919.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "920": {
+    "imgurl": "https://yayc.tfnlab.com/images/920.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "921": {
+    "imgurl": "https://yayc.tfnlab.com/images/921.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "922": {
+    "imgurl": "https://yayc.tfnlab.com/images/922.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "923": {
+    "imgurl": "https://yayc.tfnlab.com/images/923.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "924": {
+    "imgurl": "https://yayc.tfnlab.com/images/924.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "925": {
+    "imgurl": "https://yayc.tfnlab.com/images/925.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "926": {
+    "imgurl": "https://yayc.tfnlab.com/images/926.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "927": {
+    "imgurl": "https://yayc.tfnlab.com/images/927.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "928": {
+    "imgurl": "https://yayc.tfnlab.com/images/928.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "929": {
+    "imgurl": "https://yayc.tfnlab.com/images/929.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "930": {
+    "imgurl": "https://yayc.tfnlab.com/images/930.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "931": {
+    "imgurl": "https://yayc.tfnlab.com/images/931.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "932": {
+    "imgurl": "https://yayc.tfnlab.com/images/932.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "933": {
+    "imgurl": "https://yayc.tfnlab.com/images/933.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "934": {
+    "imgurl": "https://yayc.tfnlab.com/images/934.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "935": {
+    "imgurl": "https://yayc.tfnlab.com/images/935.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "936": {
+    "imgurl": "https://yayc.tfnlab.com/images/936.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "937": {
+    "imgurl": "https://yayc.tfnlab.com/images/937.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "938": {
+    "imgurl": "https://yayc.tfnlab.com/images/938.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "939": {
+    "imgurl": "https://yayc.tfnlab.com/images/939.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "940": {
+    "imgurl": "https://yayc.tfnlab.com/images/940.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "941": {
+    "imgurl": "https://yayc.tfnlab.com/images/941.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "942": {
+    "imgurl": "https://yayc.tfnlab.com/images/942.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "943": {
+    "imgurl": "https://yayc.tfnlab.com/images/943.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "944": {
+    "imgurl": "https://yayc.tfnlab.com/images/944.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "945": {
+    "imgurl": "https://yayc.tfnlab.com/images/945.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "946": {
+    "imgurl": "https://yayc.tfnlab.com/images/946.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "947": {
+    "imgurl": "https://yayc.tfnlab.com/images/947.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "948": {
+    "imgurl": "https://yayc.tfnlab.com/images/948.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "949": {
+    "imgurl": "https://yayc.tfnlab.com/images/949.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "950": {
+    "imgurl": "https://yayc.tfnlab.com/images/950.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "951": {
+    "imgurl": "https://yayc.tfnlab.com/images/951.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "952": {
+    "imgurl": "https://yayc.tfnlab.com/images/952.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "953": {
+    "imgurl": "https://yayc.tfnlab.com/images/953.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "954": {
+    "imgurl": "https://yayc.tfnlab.com/images/954.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "955": {
+    "imgurl": "https://yayc.tfnlab.com/images/955.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "956": {
+    "imgurl": "https://yayc.tfnlab.com/images/956.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "957": {
+    "imgurl": "https://yayc.tfnlab.com/images/957.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "958": {
+    "imgurl": "https://yayc.tfnlab.com/images/958.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "959": {
+    "imgurl": "https://yayc.tfnlab.com/images/959.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "960": {
+    "imgurl": "https://yayc.tfnlab.com/images/960.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "961": {
+    "imgurl": "https://yayc.tfnlab.com/images/961.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "962": {
+    "imgurl": "https://yayc.tfnlab.com/images/962.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "963": {
+    "imgurl": "https://yayc.tfnlab.com/images/963.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "964": {
+    "imgurl": "https://yayc.tfnlab.com/images/964.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "965": {
+    "imgurl": "https://yayc.tfnlab.com/images/965.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "966": {
+    "imgurl": "https://yayc.tfnlab.com/images/966.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "967": {
+    "imgurl": "https://yayc.tfnlab.com/images/967.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "968": {
+    "imgurl": "https://yayc.tfnlab.com/images/968.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "969": {
+    "imgurl": "https://yayc.tfnlab.com/images/969.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "970": {
+    "imgurl": "https://yayc.tfnlab.com/images/970.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "971": {
+    "imgurl": "https://yayc.tfnlab.com/images/971.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "972": {
+    "imgurl": "https://yayc.tfnlab.com/images/972.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "973": {
+    "imgurl": "https://yayc.tfnlab.com/images/973.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "974": {
+    "imgurl": "https://yayc.tfnlab.com/images/974.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "975": {
+    "imgurl": "https://yayc.tfnlab.com/images/975.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "976": {
+    "imgurl": "https://yayc.tfnlab.com/images/976.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "977": {
+    "imgurl": "https://yayc.tfnlab.com/images/977.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "978": {
+    "imgurl": "https://yayc.tfnlab.com/images/978.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "979": {
+    "imgurl": "https://yayc.tfnlab.com/images/979.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "980": {
+    "imgurl": "https://yayc.tfnlab.com/images/980.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "981": {
+    "imgurl": "https://yayc.tfnlab.com/images/981.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "982": {
+    "imgurl": "https://yayc.tfnlab.com/images/982.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "983": {
+    "imgurl": "https://yayc.tfnlab.com/images/983.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "984": {
+    "imgurl": "https://yayc.tfnlab.com/images/984.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "985": {
+    "imgurl": "https://yayc.tfnlab.com/images/985.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "986": {
+    "imgurl": "https://yayc.tfnlab.com/images/986.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "987": {
+    "imgurl": "https://yayc.tfnlab.com/images/987.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "988": {
+    "imgurl": "https://yayc.tfnlab.com/images/988.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "989": {
+    "imgurl": "https://yayc.tfnlab.com/images/989.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "990": {
+    "imgurl": "https://yayc.tfnlab.com/images/990.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "991": {
+    "imgurl": "https://yayc.tfnlab.com/images/991.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "992": {
+    "imgurl": "https://yayc.tfnlab.com/images/992.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "993": {
+    "imgurl": "https://yayc.tfnlab.com/images/993.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "994": {
+    "imgurl": "https://yayc.tfnlab.com/images/994.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "995": {
+    "imgurl": "https://yayc.tfnlab.com/images/995.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "996": {
+    "imgurl": "https://yayc.tfnlab.com/images/996.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "997": {
+    "imgurl": "https://yayc.tfnlab.com/images/997.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "998": {
+    "imgurl": "https://yayc.tfnlab.com/images/998.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "999": {
+    "imgurl": "https://yayc.tfnlab.com/images/999.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1000": {
+    "imgurl": "https://yayc.tfnlab.com/images/1000.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1001": {
+    "imgurl": "https://yayc.tfnlab.com/images/1001.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1002": {
+    "imgurl": "https://yayc.tfnlab.com/images/1002.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1003": {
+    "imgurl": "https://yayc.tfnlab.com/images/1003.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1004": {
+    "imgurl": "https://yayc.tfnlab.com/images/1004.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1005": {
+    "imgurl": "https://yayc.tfnlab.com/images/1005.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1006": {
+    "imgurl": "https://yayc.tfnlab.com/images/1006.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1007": {
+    "imgurl": "https://yayc.tfnlab.com/images/1007.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1008": {
+    "imgurl": "https://yayc.tfnlab.com/images/1008.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1009": {
+    "imgurl": "https://yayc.tfnlab.com/images/1009.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1010": {
+    "imgurl": "https://yayc.tfnlab.com/images/1010.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1011": {
+    "imgurl": "https://yayc.tfnlab.com/images/1011.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1012": {
+    "imgurl": "https://yayc.tfnlab.com/images/1012.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1013": {
+    "imgurl": "https://yayc.tfnlab.com/images/1013.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1014": {
+    "imgurl": "https://yayc.tfnlab.com/images/1014.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1015": {
+    "imgurl": "https://yayc.tfnlab.com/images/1015.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1016": {
+    "imgurl": "https://yayc.tfnlab.com/images/1016.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1017": {
+    "imgurl": "https://yayc.tfnlab.com/images/1017.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1018": {
+    "imgurl": "https://yayc.tfnlab.com/images/1018.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1019": {
+    "imgurl": "https://yayc.tfnlab.com/images/1019.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1020": {
+    "imgurl": "https://yayc.tfnlab.com/images/1020.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1021": {
+    "imgurl": "https://yayc.tfnlab.com/images/1021.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1022": {
+    "imgurl": "https://yayc.tfnlab.com/images/1022.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1023": {
+    "imgurl": "https://yayc.tfnlab.com/images/1023.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1024": {
+    "imgurl": "https://yayc.tfnlab.com/images/1024.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1025": {
+    "imgurl": "https://yayc.tfnlab.com/images/1025.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1026": {
+    "imgurl": "https://yayc.tfnlab.com/images/1026.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1027": {
+    "imgurl": "https://yayc.tfnlab.com/images/1027.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1028": {
+    "imgurl": "https://yayc.tfnlab.com/images/1028.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1029": {
+    "imgurl": "https://yayc.tfnlab.com/images/1029.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1030": {
+    "imgurl": "https://yayc.tfnlab.com/images/1030.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1031": {
+    "imgurl": "https://yayc.tfnlab.com/images/1031.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1032": {
+    "imgurl": "https://yayc.tfnlab.com/images/1032.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1033": {
+    "imgurl": "https://yayc.tfnlab.com/images/1033.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1034": {
+    "imgurl": "https://yayc.tfnlab.com/images/1034.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1035": {
+    "imgurl": "https://yayc.tfnlab.com/images/1035.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1036": {
+    "imgurl": "https://yayc.tfnlab.com/images/1036.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1037": {
+    "imgurl": "https://yayc.tfnlab.com/images/1037.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1038": {
+    "imgurl": "https://yayc.tfnlab.com/images/1038.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1039": {
+    "imgurl": "https://yayc.tfnlab.com/images/1039.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1040": {
+    "imgurl": "https://yayc.tfnlab.com/images/1040.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1041": {
+    "imgurl": "https://yayc.tfnlab.com/images/1041.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1042": {
+    "imgurl": "https://yayc.tfnlab.com/images/1042.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1043": {
+    "imgurl": "https://yayc.tfnlab.com/images/1043.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1044": {
+    "imgurl": "https://yayc.tfnlab.com/images/1044.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1045": {
+    "imgurl": "https://yayc.tfnlab.com/images/1045.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1046": {
+    "imgurl": "https://yayc.tfnlab.com/images/1046.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1047": {
+    "imgurl": "https://yayc.tfnlab.com/images/1047.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1048": {
+    "imgurl": "https://yayc.tfnlab.com/images/1048.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1049": {
+    "imgurl": "https://yayc.tfnlab.com/images/1049.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1050": {
+    "imgurl": "https://yayc.tfnlab.com/images/1050.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1051": {
+    "imgurl": "https://yayc.tfnlab.com/images/1051.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1052": {
+    "imgurl": "https://yayc.tfnlab.com/images/1052.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1053": {
+    "imgurl": "https://yayc.tfnlab.com/images/1053.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1054": {
+    "imgurl": "https://yayc.tfnlab.com/images/1054.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1055": {
+    "imgurl": "https://yayc.tfnlab.com/images/1055.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1056": {
+    "imgurl": "https://yayc.tfnlab.com/images/1056.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1057": {
+    "imgurl": "https://yayc.tfnlab.com/images/1057.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1058": {
+    "imgurl": "https://yayc.tfnlab.com/images/1058.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1059": {
+    "imgurl": "https://yayc.tfnlab.com/images/1059.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1060": {
+    "imgurl": "https://yayc.tfnlab.com/images/1060.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1061": {
+    "imgurl": "https://yayc.tfnlab.com/images/1061.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1062": {
+    "imgurl": "https://yayc.tfnlab.com/images/1062.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1063": {
+    "imgurl": "https://yayc.tfnlab.com/images/1063.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1064": {
+    "imgurl": "https://yayc.tfnlab.com/images/1064.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1065": {
+    "imgurl": "https://yayc.tfnlab.com/images/1065.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1066": {
+    "imgurl": "https://yayc.tfnlab.com/images/1066.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1067": {
+    "imgurl": "https://yayc.tfnlab.com/images/1067.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1068": {
+    "imgurl": "https://yayc.tfnlab.com/images/1068.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1069": {
+    "imgurl": "https://yayc.tfnlab.com/images/1069.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1070": {
+    "imgurl": "https://yayc.tfnlab.com/images/1070.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1071": {
+    "imgurl": "https://yayc.tfnlab.com/images/1071.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1072": {
+    "imgurl": "https://yayc.tfnlab.com/images/1072.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1073": {
+    "imgurl": "https://yayc.tfnlab.com/images/1073.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1074": {
+    "imgurl": "https://yayc.tfnlab.com/images/1074.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1075": {
+    "imgurl": "https://yayc.tfnlab.com/images/1075.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1076": {
+    "imgurl": "https://yayc.tfnlab.com/images/1076.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1077": {
+    "imgurl": "https://yayc.tfnlab.com/images/1077.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1078": {
+    "imgurl": "https://yayc.tfnlab.com/images/1078.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1079": {
+    "imgurl": "https://yayc.tfnlab.com/images/1079.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1080": {
+    "imgurl": "https://yayc.tfnlab.com/images/1080.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1081": {
+    "imgurl": "https://yayc.tfnlab.com/images/1081.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1082": {
+    "imgurl": "https://yayc.tfnlab.com/images/1082.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1083": {
+    "imgurl": "https://yayc.tfnlab.com/images/1083.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1084": {
+    "imgurl": "https://yayc.tfnlab.com/images/1084.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1085": {
+    "imgurl": "https://yayc.tfnlab.com/images/1085.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1086": {
+    "imgurl": "https://yayc.tfnlab.com/images/1086.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1087": {
+    "imgurl": "https://yayc.tfnlab.com/images/1087.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1088": {
+    "imgurl": "https://yayc.tfnlab.com/images/1088.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1089": {
+    "imgurl": "https://yayc.tfnlab.com/images/1089.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1090": {
+    "imgurl": "https://yayc.tfnlab.com/images/1090.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1091": {
+    "imgurl": "https://yayc.tfnlab.com/images/1091.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1092": {
+    "imgurl": "https://yayc.tfnlab.com/images/1092.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1093": {
+    "imgurl": "https://yayc.tfnlab.com/images/1093.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1094": {
+    "imgurl": "https://yayc.tfnlab.com/images/1094.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1095": {
+    "imgurl": "https://yayc.tfnlab.com/images/1095.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1096": {
+    "imgurl": "https://yayc.tfnlab.com/images/1096.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1097": {
+    "imgurl": "https://yayc.tfnlab.com/images/1097.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1098": {
+    "imgurl": "https://yayc.tfnlab.com/images/1098.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1099": {
+    "imgurl": "https://yayc.tfnlab.com/images/1099.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1100": {
+    "imgurl": "https://yayc.tfnlab.com/images/1100.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1101": {
+    "imgurl": "https://yayc.tfnlab.com/images/1101.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1102": {
+    "imgurl": "https://yayc.tfnlab.com/images/1102.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1103": {
+    "imgurl": "https://yayc.tfnlab.com/images/1103.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1104": {
+    "imgurl": "https://yayc.tfnlab.com/images/1104.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1105": {
+    "imgurl": "https://yayc.tfnlab.com/images/1105.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1106": {
+    "imgurl": "https://yayc.tfnlab.com/images/1106.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1107": {
+    "imgurl": "https://yayc.tfnlab.com/images/1107.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1108": {
+    "imgurl": "https://yayc.tfnlab.com/images/1108.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1109": {
+    "imgurl": "https://yayc.tfnlab.com/images/1109.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1110": {
+    "imgurl": "https://yayc.tfnlab.com/images/1110.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1111": {
+    "imgurl": "https://yayc.tfnlab.com/images/1111.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1112": {
+    "imgurl": "https://yayc.tfnlab.com/images/1112.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1113": {
+    "imgurl": "https://yayc.tfnlab.com/images/1113.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1114": {
+    "imgurl": "https://yayc.tfnlab.com/images/1114.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1115": {
+    "imgurl": "https://yayc.tfnlab.com/images/1115.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1116": {
+    "imgurl": "https://yayc.tfnlab.com/images/1116.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1117": {
+    "imgurl": "https://yayc.tfnlab.com/images/1117.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1118": {
+    "imgurl": "https://yayc.tfnlab.com/images/1118.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1119": {
+    "imgurl": "https://yayc.tfnlab.com/images/1119.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1120": {
+    "imgurl": "https://yayc.tfnlab.com/images/1120.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1121": {
+    "imgurl": "https://yayc.tfnlab.com/images/1121.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1122": {
+    "imgurl": "https://yayc.tfnlab.com/images/1122.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1123": {
+    "imgurl": "https://yayc.tfnlab.com/images/1123.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1124": {
+    "imgurl": "https://yayc.tfnlab.com/images/1124.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1125": {
+    "imgurl": "https://yayc.tfnlab.com/images/1125.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1126": {
+    "imgurl": "https://yayc.tfnlab.com/images/1126.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1127": {
+    "imgurl": "https://yayc.tfnlab.com/images/1127.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1128": {
+    "imgurl": "https://yayc.tfnlab.com/images/1128.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1129": {
+    "imgurl": "https://yayc.tfnlab.com/images/1129.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1130": {
+    "imgurl": "https://yayc.tfnlab.com/images/1130.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1131": {
+    "imgurl": "https://yayc.tfnlab.com/images/1131.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1132": {
+    "imgurl": "https://yayc.tfnlab.com/images/1132.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1133": {
+    "imgurl": "https://yayc.tfnlab.com/images/1133.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1134": {
+    "imgurl": "https://yayc.tfnlab.com/images/1134.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1135": {
+    "imgurl": "https://yayc.tfnlab.com/images/1135.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1136": {
+    "imgurl": "https://yayc.tfnlab.com/images/1136.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1137": {
+    "imgurl": "https://yayc.tfnlab.com/images/1137.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1138": {
+    "imgurl": "https://yayc.tfnlab.com/images/1138.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1139": {
+    "imgurl": "https://yayc.tfnlab.com/images/1139.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1140": {
+    "imgurl": "https://yayc.tfnlab.com/images/1140.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1141": {
+    "imgurl": "https://yayc.tfnlab.com/images/1141.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1142": {
+    "imgurl": "https://yayc.tfnlab.com/images/1142.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1143": {
+    "imgurl": "https://yayc.tfnlab.com/images/1143.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1144": {
+    "imgurl": "https://yayc.tfnlab.com/images/1144.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1145": {
+    "imgurl": "https://yayc.tfnlab.com/images/1145.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1146": {
+    "imgurl": "https://yayc.tfnlab.com/images/1146.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1147": {
+    "imgurl": "https://yayc.tfnlab.com/images/1147.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1148": {
+    "imgurl": "https://yayc.tfnlab.com/images/1148.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1149": {
+    "imgurl": "https://yayc.tfnlab.com/images/1149.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1150": {
+    "imgurl": "https://yayc.tfnlab.com/images/1150.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1151": {
+    "imgurl": "https://yayc.tfnlab.com/images/1151.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1152": {
+    "imgurl": "https://yayc.tfnlab.com/images/1152.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1153": {
+    "imgurl": "https://yayc.tfnlab.com/images/1153.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1154": {
+    "imgurl": "https://yayc.tfnlab.com/images/1154.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1155": {
+    "imgurl": "https://yayc.tfnlab.com/images/1155.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1156": {
+    "imgurl": "https://yayc.tfnlab.com/images/1156.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1157": {
+    "imgurl": "https://yayc.tfnlab.com/images/1157.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1158": {
+    "imgurl": "https://yayc.tfnlab.com/images/1158.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1159": {
+    "imgurl": "https://yayc.tfnlab.com/images/1159.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1160": {
+    "imgurl": "https://yayc.tfnlab.com/images/1160.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1161": {
+    "imgurl": "https://yayc.tfnlab.com/images/1161.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1162": {
+    "imgurl": "https://yayc.tfnlab.com/images/1162.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1163": {
+    "imgurl": "https://yayc.tfnlab.com/images/1163.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1164": {
+    "imgurl": "https://yayc.tfnlab.com/images/1164.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1165": {
+    "imgurl": "https://yayc.tfnlab.com/images/1165.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1166": {
+    "imgurl": "https://yayc.tfnlab.com/images/1166.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1167": {
+    "imgurl": "https://yayc.tfnlab.com/images/1167.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1168": {
+    "imgurl": "https://yayc.tfnlab.com/images/1168.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1169": {
+    "imgurl": "https://yayc.tfnlab.com/images/1169.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1170": {
+    "imgurl": "https://yayc.tfnlab.com/images/1170.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1171": {
+    "imgurl": "https://yayc.tfnlab.com/images/1171.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1172": {
+    "imgurl": "https://yayc.tfnlab.com/images/1172.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1173": {
+    "imgurl": "https://yayc.tfnlab.com/images/1173.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1174": {
+    "imgurl": "https://yayc.tfnlab.com/images/1174.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1175": {
+    "imgurl": "https://yayc.tfnlab.com/images/1175.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1176": {
+    "imgurl": "https://yayc.tfnlab.com/images/1176.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1177": {
+    "imgurl": "https://yayc.tfnlab.com/images/1177.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1178": {
+    "imgurl": "https://yayc.tfnlab.com/images/1178.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1179": {
+    "imgurl": "https://yayc.tfnlab.com/images/1179.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1180": {
+    "imgurl": "https://yayc.tfnlab.com/images/1180.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1181": {
+    "imgurl": "https://yayc.tfnlab.com/images/1181.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1182": {
+    "imgurl": "https://yayc.tfnlab.com/images/1182.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1183": {
+    "imgurl": "https://yayc.tfnlab.com/images/1183.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1184": {
+    "imgurl": "https://yayc.tfnlab.com/images/1184.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1185": {
+    "imgurl": "https://yayc.tfnlab.com/images/1185.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1186": {
+    "imgurl": "https://yayc.tfnlab.com/images/1186.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1187": {
+    "imgurl": "https://yayc.tfnlab.com/images/1187.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1188": {
+    "imgurl": "https://yayc.tfnlab.com/images/1188.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1189": {
+    "imgurl": "https://yayc.tfnlab.com/images/1189.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1190": {
+    "imgurl": "https://yayc.tfnlab.com/images/1190.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1191": {
+    "imgurl": "https://yayc.tfnlab.com/images/1191.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1192": {
+    "imgurl": "https://yayc.tfnlab.com/images/1192.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1193": {
+    "imgurl": "https://yayc.tfnlab.com/images/1193.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1194": {
+    "imgurl": "https://yayc.tfnlab.com/images/1194.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1195": {
+    "imgurl": "https://yayc.tfnlab.com/images/1195.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1196": {
+    "imgurl": "https://yayc.tfnlab.com/images/1196.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1197": {
+    "imgurl": "https://yayc.tfnlab.com/images/1197.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1198": {
+    "imgurl": "https://yayc.tfnlab.com/images/1198.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1199": {
+    "imgurl": "https://yayc.tfnlab.com/images/1199.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1200": {
+    "imgurl": "https://yayc.tfnlab.com/images/1200.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1201": {
+    "imgurl": "https://yayc.tfnlab.com/images/1201.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1202": {
+    "imgurl": "https://yayc.tfnlab.com/images/1202.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1203": {
+    "imgurl": "https://yayc.tfnlab.com/images/1203.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1204": {
+    "imgurl": "https://yayc.tfnlab.com/images/1204.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1205": {
+    "imgurl": "https://yayc.tfnlab.com/images/1205.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1206": {
+    "imgurl": "https://yayc.tfnlab.com/images/1206.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1207": {
+    "imgurl": "https://yayc.tfnlab.com/images/1207.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1208": {
+    "imgurl": "https://yayc.tfnlab.com/images/1208.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1209": {
+    "imgurl": "https://yayc.tfnlab.com/images/1209.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1210": {
+    "imgurl": "https://yayc.tfnlab.com/images/1210.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1211": {
+    "imgurl": "https://yayc.tfnlab.com/images/1211.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1212": {
+    "imgurl": "https://yayc.tfnlab.com/images/1212.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1213": {
+    "imgurl": "https://yayc.tfnlab.com/images/1213.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1214": {
+    "imgurl": "https://yayc.tfnlab.com/images/1214.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1215": {
+    "imgurl": "https://yayc.tfnlab.com/images/1215.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1216": {
+    "imgurl": "https://yayc.tfnlab.com/images/1216.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1217": {
+    "imgurl": "https://yayc.tfnlab.com/images/1217.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1218": {
+    "imgurl": "https://yayc.tfnlab.com/images/1218.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1219": {
+    "imgurl": "https://yayc.tfnlab.com/images/1219.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1220": {
+    "imgurl": "https://yayc.tfnlab.com/images/1220.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1221": {
+    "imgurl": "https://yayc.tfnlab.com/images/1221.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1222": {
+    "imgurl": "https://yayc.tfnlab.com/images/1222.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1223": {
+    "imgurl": "https://yayc.tfnlab.com/images/1223.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1224": {
+    "imgurl": "https://yayc.tfnlab.com/images/1224.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1225": {
+    "imgurl": "https://yayc.tfnlab.com/images/1225.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1226": {
+    "imgurl": "https://yayc.tfnlab.com/images/1226.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1227": {
+    "imgurl": "https://yayc.tfnlab.com/images/1227.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1228": {
+    "imgurl": "https://yayc.tfnlab.com/images/1228.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1229": {
+    "imgurl": "https://yayc.tfnlab.com/images/1229.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1230": {
+    "imgurl": "https://yayc.tfnlab.com/images/1230.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1231": {
+    "imgurl": "https://yayc.tfnlab.com/images/1231.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1232": {
+    "imgurl": "https://yayc.tfnlab.com/images/1232.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1233": {
+    "imgurl": "https://yayc.tfnlab.com/images/1233.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1234": {
+    "imgurl": "https://yayc.tfnlab.com/images/1234.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1235": {
+    "imgurl": "https://yayc.tfnlab.com/images/1235.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1236": {
+    "imgurl": "https://yayc.tfnlab.com/images/1236.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1237": {
+    "imgurl": "https://yayc.tfnlab.com/images/1237.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1238": {
+    "imgurl": "https://yayc.tfnlab.com/images/1238.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1239": {
+    "imgurl": "https://yayc.tfnlab.com/images/1239.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1240": {
+    "imgurl": "https://yayc.tfnlab.com/images/1240.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1241": {
+    "imgurl": "https://yayc.tfnlab.com/images/1241.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1242": {
+    "imgurl": "https://yayc.tfnlab.com/images/1242.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1243": {
+    "imgurl": "https://yayc.tfnlab.com/images/1243.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1244": {
+    "imgurl": "https://yayc.tfnlab.com/images/1244.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1245": {
+    "imgurl": "https://yayc.tfnlab.com/images/1245.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1246": {
+    "imgurl": "https://yayc.tfnlab.com/images/1246.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1247": {
+    "imgurl": "https://yayc.tfnlab.com/images/1247.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1248": {
+    "imgurl": "https://yayc.tfnlab.com/images/1248.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1249": {
+    "imgurl": "https://yayc.tfnlab.com/images/1249.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1250": {
+    "imgurl": "https://yayc.tfnlab.com/images/1250.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1251": {
+    "imgurl": "https://yayc.tfnlab.com/images/1251.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1252": {
+    "imgurl": "https://yayc.tfnlab.com/images/1252.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1253": {
+    "imgurl": "https://yayc.tfnlab.com/images/1253.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1254": {
+    "imgurl": "https://yayc.tfnlab.com/images/1254.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1255": {
+    "imgurl": "https://yayc.tfnlab.com/images/1255.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1256": {
+    "imgurl": "https://yayc.tfnlab.com/images/1256.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1257": {
+    "imgurl": "https://yayc.tfnlab.com/images/1257.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1258": {
+    "imgurl": "https://yayc.tfnlab.com/images/1258.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1259": {
+    "imgurl": "https://yayc.tfnlab.com/images/1259.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1260": {
+    "imgurl": "https://yayc.tfnlab.com/images/1260.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1261": {
+    "imgurl": "https://yayc.tfnlab.com/images/1261.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1262": {
+    "imgurl": "https://yayc.tfnlab.com/images/1262.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1263": {
+    "imgurl": "https://yayc.tfnlab.com/images/1263.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1264": {
+    "imgurl": "https://yayc.tfnlab.com/images/1264.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1265": {
+    "imgurl": "https://yayc.tfnlab.com/images/1265.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1266": {
+    "imgurl": "https://yayc.tfnlab.com/images/1266.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1267": {
+    "imgurl": "https://yayc.tfnlab.com/images/1267.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1268": {
+    "imgurl": "https://yayc.tfnlab.com/images/1268.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1269": {
+    "imgurl": "https://yayc.tfnlab.com/images/1269.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1270": {
+    "imgurl": "https://yayc.tfnlab.com/images/1270.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1271": {
+    "imgurl": "https://yayc.tfnlab.com/images/1271.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1272": {
+    "imgurl": "https://yayc.tfnlab.com/images/1272.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1273": {
+    "imgurl": "https://yayc.tfnlab.com/images/1273.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1274": {
+    "imgurl": "https://yayc.tfnlab.com/images/1274.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1275": {
+    "imgurl": "https://yayc.tfnlab.com/images/1275.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1276": {
+    "imgurl": "https://yayc.tfnlab.com/images/1276.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1277": {
+    "imgurl": "https://yayc.tfnlab.com/images/1277.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1278": {
+    "imgurl": "https://yayc.tfnlab.com/images/1278.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1279": {
+    "imgurl": "https://yayc.tfnlab.com/images/1279.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1280": {
+    "imgurl": "https://yayc.tfnlab.com/images/1280.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1281": {
+    "imgurl": "https://yayc.tfnlab.com/images/1281.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1282": {
+    "imgurl": "https://yayc.tfnlab.com/images/1282.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1283": {
+    "imgurl": "https://yayc.tfnlab.com/images/1283.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1284": {
+    "imgurl": "https://yayc.tfnlab.com/images/1284.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1285": {
+    "imgurl": "https://yayc.tfnlab.com/images/1285.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1286": {
+    "imgurl": "https://yayc.tfnlab.com/images/1286.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1287": {
+    "imgurl": "https://yayc.tfnlab.com/images/1287.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1288": {
+    "imgurl": "https://yayc.tfnlab.com/images/1288.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1289": {
+    "imgurl": "https://yayc.tfnlab.com/images/1289.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1290": {
+    "imgurl": "https://yayc.tfnlab.com/images/1290.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1291": {
+    "imgurl": "https://yayc.tfnlab.com/images/1291.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1292": {
+    "imgurl": "https://yayc.tfnlab.com/images/1292.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1293": {
+    "imgurl": "https://yayc.tfnlab.com/images/1293.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1294": {
+    "imgurl": "https://yayc.tfnlab.com/images/1294.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1295": {
+    "imgurl": "https://yayc.tfnlab.com/images/1295.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1296": {
+    "imgurl": "https://yayc.tfnlab.com/images/1296.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1297": {
+    "imgurl": "https://yayc.tfnlab.com/images/1297.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1298": {
+    "imgurl": "https://yayc.tfnlab.com/images/1298.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1299": {
+    "imgurl": "https://yayc.tfnlab.com/images/1299.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1300": {
+    "imgurl": "https://yayc.tfnlab.com/images/1300.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1301": {
+    "imgurl": "https://yayc.tfnlab.com/images/1301.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1302": {
+    "imgurl": "https://yayc.tfnlab.com/images/1302.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1303": {
+    "imgurl": "https://yayc.tfnlab.com/images/1303.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1304": {
+    "imgurl": "https://yayc.tfnlab.com/images/1304.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1305": {
+    "imgurl": "https://yayc.tfnlab.com/images/1305.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1306": {
+    "imgurl": "https://yayc.tfnlab.com/images/1306.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1307": {
+    "imgurl": "https://yayc.tfnlab.com/images/1307.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1308": {
+    "imgurl": "https://yayc.tfnlab.com/images/1308.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1309": {
+    "imgurl": "https://yayc.tfnlab.com/images/1309.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1310": {
+    "imgurl": "https://yayc.tfnlab.com/images/1310.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1311": {
+    "imgurl": "https://yayc.tfnlab.com/images/1311.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1312": {
+    "imgurl": "https://yayc.tfnlab.com/images/1312.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1313": {
+    "imgurl": "https://yayc.tfnlab.com/images/1313.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1314": {
+    "imgurl": "https://yayc.tfnlab.com/images/1314.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1315": {
+    "imgurl": "https://yayc.tfnlab.com/images/1315.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1316": {
+    "imgurl": "https://yayc.tfnlab.com/images/1316.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1317": {
+    "imgurl": "https://yayc.tfnlab.com/images/1317.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1318": {
+    "imgurl": "https://yayc.tfnlab.com/images/1318.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1319": {
+    "imgurl": "https://yayc.tfnlab.com/images/1319.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1320": {
+    "imgurl": "https://yayc.tfnlab.com/images/1320.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1321": {
+    "imgurl": "https://yayc.tfnlab.com/images/1321.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1322": {
+    "imgurl": "https://yayc.tfnlab.com/images/1322.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1323": {
+    "imgurl": "https://yayc.tfnlab.com/images/1323.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1324": {
+    "imgurl": "https://yayc.tfnlab.com/images/1324.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1325": {
+    "imgurl": "https://yayc.tfnlab.com/images/1325.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1326": {
+    "imgurl": "https://yayc.tfnlab.com/images/1326.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1327": {
+    "imgurl": "https://yayc.tfnlab.com/images/1327.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1328": {
+    "imgurl": "https://yayc.tfnlab.com/images/1328.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1329": {
+    "imgurl": "https://yayc.tfnlab.com/images/1329.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1330": {
+    "imgurl": "https://yayc.tfnlab.com/images/1330.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1331": {
+    "imgurl": "https://yayc.tfnlab.com/images/1331.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1332": {
+    "imgurl": "https://yayc.tfnlab.com/images/1332.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1333": {
+    "imgurl": "https://yayc.tfnlab.com/images/1333.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1334": {
+    "imgurl": "https://yayc.tfnlab.com/images/1334.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1335": {
+    "imgurl": "https://yayc.tfnlab.com/images/1335.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1336": {
+    "imgurl": "https://yayc.tfnlab.com/images/1336.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1337": {
+    "imgurl": "https://yayc.tfnlab.com/images/1337.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1338": {
+    "imgurl": "https://yayc.tfnlab.com/images/1338.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1339": {
+    "imgurl": "https://yayc.tfnlab.com/images/1339.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1340": {
+    "imgurl": "https://yayc.tfnlab.com/images/1340.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1341": {
+    "imgurl": "https://yayc.tfnlab.com/images/1341.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1342": {
+    "imgurl": "https://yayc.tfnlab.com/images/1342.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1343": {
+    "imgurl": "https://yayc.tfnlab.com/images/1343.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1344": {
+    "imgurl": "https://yayc.tfnlab.com/images/1344.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1345": {
+    "imgurl": "https://yayc.tfnlab.com/images/1345.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1346": {
+    "imgurl": "https://yayc.tfnlab.com/images/1346.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1347": {
+    "imgurl": "https://yayc.tfnlab.com/images/1347.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1348": {
+    "imgurl": "https://yayc.tfnlab.com/images/1348.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1349": {
+    "imgurl": "https://yayc.tfnlab.com/images/1349.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1350": {
+    "imgurl": "https://yayc.tfnlab.com/images/1350.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1351": {
+    "imgurl": "https://yayc.tfnlab.com/images/1351.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1352": {
+    "imgurl": "https://yayc.tfnlab.com/images/1352.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1353": {
+    "imgurl": "https://yayc.tfnlab.com/images/1353.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1354": {
+    "imgurl": "https://yayc.tfnlab.com/images/1354.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1355": {
+    "imgurl": "https://yayc.tfnlab.com/images/1355.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1356": {
+    "imgurl": "https://yayc.tfnlab.com/images/1356.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1357": {
+    "imgurl": "https://yayc.tfnlab.com/images/1357.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1358": {
+    "imgurl": "https://yayc.tfnlab.com/images/1358.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1359": {
+    "imgurl": "https://yayc.tfnlab.com/images/1359.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1360": {
+    "imgurl": "https://yayc.tfnlab.com/images/1360.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1361": {
+    "imgurl": "https://yayc.tfnlab.com/images/1361.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1362": {
+    "imgurl": "https://yayc.tfnlab.com/images/1362.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1363": {
+    "imgurl": "https://yayc.tfnlab.com/images/1363.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1364": {
+    "imgurl": "https://yayc.tfnlab.com/images/1364.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1365": {
+    "imgurl": "https://yayc.tfnlab.com/images/1365.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1366": {
+    "imgurl": "https://yayc.tfnlab.com/images/1366.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1367": {
+    "imgurl": "https://yayc.tfnlab.com/images/1367.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1368": {
+    "imgurl": "https://yayc.tfnlab.com/images/1368.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1369": {
+    "imgurl": "https://yayc.tfnlab.com/images/1369.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1370": {
+    "imgurl": "https://yayc.tfnlab.com/images/1370.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1371": {
+    "imgurl": "https://yayc.tfnlab.com/images/1371.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1372": {
+    "imgurl": "https://yayc.tfnlab.com/images/1372.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1373": {
+    "imgurl": "https://yayc.tfnlab.com/images/1373.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1374": {
+    "imgurl": "https://yayc.tfnlab.com/images/1374.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1375": {
+    "imgurl": "https://yayc.tfnlab.com/images/1375.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1376": {
+    "imgurl": "https://yayc.tfnlab.com/images/1376.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1377": {
+    "imgurl": "https://yayc.tfnlab.com/images/1377.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1378": {
+    "imgurl": "https://yayc.tfnlab.com/images/1378.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1379": {
+    "imgurl": "https://yayc.tfnlab.com/images/1379.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1380": {
+    "imgurl": "https://yayc.tfnlab.com/images/1380.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1381": {
+    "imgurl": "https://yayc.tfnlab.com/images/1381.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1382": {
+    "imgurl": "https://yayc.tfnlab.com/images/1382.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1383": {
+    "imgurl": "https://yayc.tfnlab.com/images/1383.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1384": {
+    "imgurl": "https://yayc.tfnlab.com/images/1384.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1385": {
+    "imgurl": "https://yayc.tfnlab.com/images/1385.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1386": {
+    "imgurl": "https://yayc.tfnlab.com/images/1386.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1387": {
+    "imgurl": "https://yayc.tfnlab.com/images/1387.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1388": {
+    "imgurl": "https://yayc.tfnlab.com/images/1388.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1389": {
+    "imgurl": "https://yayc.tfnlab.com/images/1389.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1390": {
+    "imgurl": "https://yayc.tfnlab.com/images/1390.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1391": {
+    "imgurl": "https://yayc.tfnlab.com/images/1391.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1392": {
+    "imgurl": "https://yayc.tfnlab.com/images/1392.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1393": {
+    "imgurl": "https://yayc.tfnlab.com/images/1393.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1394": {
+    "imgurl": "https://yayc.tfnlab.com/images/1394.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1395": {
+    "imgurl": "https://yayc.tfnlab.com/images/1395.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1396": {
+    "imgurl": "https://yayc.tfnlab.com/images/1396.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1397": {
+    "imgurl": "https://yayc.tfnlab.com/images/1397.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1398": {
+    "imgurl": "https://yayc.tfnlab.com/images/1398.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1399": {
+    "imgurl": "https://yayc.tfnlab.com/images/1399.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1400": {
+    "imgurl": "https://yayc.tfnlab.com/images/1400.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1401": {
+    "imgurl": "https://yayc.tfnlab.com/images/1401.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1402": {
+    "imgurl": "https://yayc.tfnlab.com/images/1402.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1403": {
+    "imgurl": "https://yayc.tfnlab.com/images/1403.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1404": {
+    "imgurl": "https://yayc.tfnlab.com/images/1404.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1405": {
+    "imgurl": "https://yayc.tfnlab.com/images/1405.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1406": {
+    "imgurl": "https://yayc.tfnlab.com/images/1406.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1407": {
+    "imgurl": "https://yayc.tfnlab.com/images/1407.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1408": {
+    "imgurl": "https://yayc.tfnlab.com/images/1408.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1409": {
+    "imgurl": "https://yayc.tfnlab.com/images/1409.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1410": {
+    "imgurl": "https://yayc.tfnlab.com/images/1410.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1411": {
+    "imgurl": "https://yayc.tfnlab.com/images/1411.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1412": {
+    "imgurl": "https://yayc.tfnlab.com/images/1412.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1413": {
+    "imgurl": "https://yayc.tfnlab.com/images/1413.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1414": {
+    "imgurl": "https://yayc.tfnlab.com/images/1414.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1415": {
+    "imgurl": "https://yayc.tfnlab.com/images/1415.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1416": {
+    "imgurl": "https://yayc.tfnlab.com/images/1416.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1417": {
+    "imgurl": "https://yayc.tfnlab.com/images/1417.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1418": {
+    "imgurl": "https://yayc.tfnlab.com/images/1418.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1419": {
+    "imgurl": "https://yayc.tfnlab.com/images/1419.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1420": {
+    "imgurl": "https://yayc.tfnlab.com/images/1420.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1421": {
+    "imgurl": "https://yayc.tfnlab.com/images/1421.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1422": {
+    "imgurl": "https://yayc.tfnlab.com/images/1422.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1423": {
+    "imgurl": "https://yayc.tfnlab.com/images/1423.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1424": {
+    "imgurl": "https://yayc.tfnlab.com/images/1424.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1425": {
+    "imgurl": "https://yayc.tfnlab.com/images/1425.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1426": {
+    "imgurl": "https://yayc.tfnlab.com/images/1426.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1427": {
+    "imgurl": "https://yayc.tfnlab.com/images/1427.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1428": {
+    "imgurl": "https://yayc.tfnlab.com/images/1428.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1429": {
+    "imgurl": "https://yayc.tfnlab.com/images/1429.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1430": {
+    "imgurl": "https://yayc.tfnlab.com/images/1430.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1431": {
+    "imgurl": "https://yayc.tfnlab.com/images/1431.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1432": {
+    "imgurl": "https://yayc.tfnlab.com/images/1432.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1433": {
+    "imgurl": "https://yayc.tfnlab.com/images/1433.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1434": {
+    "imgurl": "https://yayc.tfnlab.com/images/1434.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1435": {
+    "imgurl": "https://yayc.tfnlab.com/images/1435.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1436": {
+    "imgurl": "https://yayc.tfnlab.com/images/1436.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1437": {
+    "imgurl": "https://yayc.tfnlab.com/images/1437.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1438": {
+    "imgurl": "https://yayc.tfnlab.com/images/1438.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1439": {
+    "imgurl": "https://yayc.tfnlab.com/images/1439.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1440": {
+    "imgurl": "https://yayc.tfnlab.com/images/1440.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1441": {
+    "imgurl": "https://yayc.tfnlab.com/images/1441.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1442": {
+    "imgurl": "https://yayc.tfnlab.com/images/1442.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1443": {
+    "imgurl": "https://yayc.tfnlab.com/images/1443.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1444": {
+    "imgurl": "https://yayc.tfnlab.com/images/1444.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1445": {
+    "imgurl": "https://yayc.tfnlab.com/images/1445.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1446": {
+    "imgurl": "https://yayc.tfnlab.com/images/1446.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1447": {
+    "imgurl": "https://yayc.tfnlab.com/images/1447.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1448": {
+    "imgurl": "https://yayc.tfnlab.com/images/1448.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1449": {
+    "imgurl": "https://yayc.tfnlab.com/images/1449.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1450": {
+    "imgurl": "https://yayc.tfnlab.com/images/1450.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1451": {
+    "imgurl": "https://yayc.tfnlab.com/images/1451.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1452": {
+    "imgurl": "https://yayc.tfnlab.com/images/1452.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1453": {
+    "imgurl": "https://yayc.tfnlab.com/images/1453.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1454": {
+    "imgurl": "https://yayc.tfnlab.com/images/1454.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1455": {
+    "imgurl": "https://yayc.tfnlab.com/images/1455.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1456": {
+    "imgurl": "https://yayc.tfnlab.com/images/1456.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1457": {
+    "imgurl": "https://yayc.tfnlab.com/images/1457.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1458": {
+    "imgurl": "https://yayc.tfnlab.com/images/1458.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1459": {
+    "imgurl": "https://yayc.tfnlab.com/images/1459.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1460": {
+    "imgurl": "https://yayc.tfnlab.com/images/1460.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1461": {
+    "imgurl": "https://yayc.tfnlab.com/images/1461.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1462": {
+    "imgurl": "https://yayc.tfnlab.com/images/1462.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1463": {
+    "imgurl": "https://yayc.tfnlab.com/images/1463.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1464": {
+    "imgurl": "https://yayc.tfnlab.com/images/1464.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1465": {
+    "imgurl": "https://yayc.tfnlab.com/images/1465.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1466": {
+    "imgurl": "https://yayc.tfnlab.com/images/1466.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1467": {
+    "imgurl": "https://yayc.tfnlab.com/images/1467.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1468": {
+    "imgurl": "https://yayc.tfnlab.com/images/1468.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1469": {
+    "imgurl": "https://yayc.tfnlab.com/images/1469.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1470": {
+    "imgurl": "https://yayc.tfnlab.com/images/1470.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1471": {
+    "imgurl": "https://yayc.tfnlab.com/images/1471.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1472": {
+    "imgurl": "https://yayc.tfnlab.com/images/1472.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1473": {
+    "imgurl": "https://yayc.tfnlab.com/images/1473.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1474": {
+    "imgurl": "https://yayc.tfnlab.com/images/1474.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1475": {
+    "imgurl": "https://yayc.tfnlab.com/images/1475.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1476": {
+    "imgurl": "https://yayc.tfnlab.com/images/1476.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1477": {
+    "imgurl": "https://yayc.tfnlab.com/images/1477.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1478": {
+    "imgurl": "https://yayc.tfnlab.com/images/1478.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1479": {
+    "imgurl": "https://yayc.tfnlab.com/images/1479.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1480": {
+    "imgurl": "https://yayc.tfnlab.com/images/1480.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1481": {
+    "imgurl": "https://yayc.tfnlab.com/images/1481.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1482": {
+    "imgurl": "https://yayc.tfnlab.com/images/1482.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1483": {
+    "imgurl": "https://yayc.tfnlab.com/images/1483.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1484": {
+    "imgurl": "https://yayc.tfnlab.com/images/1484.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1485": {
+    "imgurl": "https://yayc.tfnlab.com/images/1485.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1486": {
+    "imgurl": "https://yayc.tfnlab.com/images/1486.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1487": {
+    "imgurl": "https://yayc.tfnlab.com/images/1487.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1488": {
+    "imgurl": "https://yayc.tfnlab.com/images/1488.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1489": {
+    "imgurl": "https://yayc.tfnlab.com/images/1489.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1490": {
+    "imgurl": "https://yayc.tfnlab.com/images/1490.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1491": {
+    "imgurl": "https://yayc.tfnlab.com/images/1491.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1492": {
+    "imgurl": "https://yayc.tfnlab.com/images/1492.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1493": {
+    "imgurl": "https://yayc.tfnlab.com/images/1493.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1494": {
+    "imgurl": "https://yayc.tfnlab.com/images/1494.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1495": {
+    "imgurl": "https://yayc.tfnlab.com/images/1495.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1496": {
+    "imgurl": "https://yayc.tfnlab.com/images/1496.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1497": {
+    "imgurl": "https://yayc.tfnlab.com/images/1497.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1498": {
+    "imgurl": "https://yayc.tfnlab.com/images/1498.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1499": {
+    "imgurl": "https://yayc.tfnlab.com/images/1499.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1500": {
+    "imgurl": "https://yayc.tfnlab.com/images/1500.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1501": {
+    "imgurl": "https://yayc.tfnlab.com/images/1501.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1502": {
+    "imgurl": "https://yayc.tfnlab.com/images/1502.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1503": {
+    "imgurl": "https://yayc.tfnlab.com/images/1503.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1504": {
+    "imgurl": "https://yayc.tfnlab.com/images/1504.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1505": {
+    "imgurl": "https://yayc.tfnlab.com/images/1505.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1506": {
+    "imgurl": "https://yayc.tfnlab.com/images/1506.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1507": {
+    "imgurl": "https://yayc.tfnlab.com/images/1507.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1508": {
+    "imgurl": "https://yayc.tfnlab.com/images/1508.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1509": {
+    "imgurl": "https://yayc.tfnlab.com/images/1509.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1510": {
+    "imgurl": "https://yayc.tfnlab.com/images/1510.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1511": {
+    "imgurl": "https://yayc.tfnlab.com/images/1511.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1512": {
+    "imgurl": "https://yayc.tfnlab.com/images/1512.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1513": {
+    "imgurl": "https://yayc.tfnlab.com/images/1513.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1514": {
+    "imgurl": "https://yayc.tfnlab.com/images/1514.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1515": {
+    "imgurl": "https://yayc.tfnlab.com/images/1515.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1516": {
+    "imgurl": "https://yayc.tfnlab.com/images/1516.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1517": {
+    "imgurl": "https://yayc.tfnlab.com/images/1517.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1518": {
+    "imgurl": "https://yayc.tfnlab.com/images/1518.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1519": {
+    "imgurl": "https://yayc.tfnlab.com/images/1519.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1520": {
+    "imgurl": "https://yayc.tfnlab.com/images/1520.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1521": {
+    "imgurl": "https://yayc.tfnlab.com/images/1521.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1522": {
+    "imgurl": "https://yayc.tfnlab.com/images/1522.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1523": {
+    "imgurl": "https://yayc.tfnlab.com/images/1523.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1524": {
+    "imgurl": "https://yayc.tfnlab.com/images/1524.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1525": {
+    "imgurl": "https://yayc.tfnlab.com/images/1525.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1526": {
+    "imgurl": "https://yayc.tfnlab.com/images/1526.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1527": {
+    "imgurl": "https://yayc.tfnlab.com/images/1527.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1528": {
+    "imgurl": "https://yayc.tfnlab.com/images/1528.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1529": {
+    "imgurl": "https://yayc.tfnlab.com/images/1529.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1530": {
+    "imgurl": "https://yayc.tfnlab.com/images/1530.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1531": {
+    "imgurl": "https://yayc.tfnlab.com/images/1531.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1532": {
+    "imgurl": "https://yayc.tfnlab.com/images/1532.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1533": {
+    "imgurl": "https://yayc.tfnlab.com/images/1533.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1534": {
+    "imgurl": "https://yayc.tfnlab.com/images/1534.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1535": {
+    "imgurl": "https://yayc.tfnlab.com/images/1535.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1536": {
+    "imgurl": "https://yayc.tfnlab.com/images/1536.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1537": {
+    "imgurl": "https://yayc.tfnlab.com/images/1537.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1538": {
+    "imgurl": "https://yayc.tfnlab.com/images/1538.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1539": {
+    "imgurl": "https://yayc.tfnlab.com/images/1539.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1540": {
+    "imgurl": "https://yayc.tfnlab.com/images/1540.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1541": {
+    "imgurl": "https://yayc.tfnlab.com/images/1541.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1542": {
+    "imgurl": "https://yayc.tfnlab.com/images/1542.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1543": {
+    "imgurl": "https://yayc.tfnlab.com/images/1543.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1544": {
+    "imgurl": "https://yayc.tfnlab.com/images/1544.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1545": {
+    "imgurl": "https://yayc.tfnlab.com/images/1545.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1546": {
+    "imgurl": "https://yayc.tfnlab.com/images/1546.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1547": {
+    "imgurl": "https://yayc.tfnlab.com/images/1547.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1548": {
+    "imgurl": "https://yayc.tfnlab.com/images/1548.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1549": {
+    "imgurl": "https://yayc.tfnlab.com/images/1549.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1550": {
+    "imgurl": "https://yayc.tfnlab.com/images/1550.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1551": {
+    "imgurl": "https://yayc.tfnlab.com/images/1551.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1552": {
+    "imgurl": "https://yayc.tfnlab.com/images/1552.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1553": {
+    "imgurl": "https://yayc.tfnlab.com/images/1553.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1554": {
+    "imgurl": "https://yayc.tfnlab.com/images/1554.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1555": {
+    "imgurl": "https://yayc.tfnlab.com/images/1555.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1556": {
+    "imgurl": "https://yayc.tfnlab.com/images/1556.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1557": {
+    "imgurl": "https://yayc.tfnlab.com/images/1557.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1558": {
+    "imgurl": "https://yayc.tfnlab.com/images/1558.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1559": {
+    "imgurl": "https://yayc.tfnlab.com/images/1559.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1560": {
+    "imgurl": "https://yayc.tfnlab.com/images/1560.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1561": {
+    "imgurl": "https://yayc.tfnlab.com/images/1561.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1562": {
+    "imgurl": "https://yayc.tfnlab.com/images/1562.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1563": {
+    "imgurl": "https://yayc.tfnlab.com/images/1563.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1564": {
+    "imgurl": "https://yayc.tfnlab.com/images/1564.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1565": {
+    "imgurl": "https://yayc.tfnlab.com/images/1565.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1566": {
+    "imgurl": "https://yayc.tfnlab.com/images/1566.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1567": {
+    "imgurl": "https://yayc.tfnlab.com/images/1567.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1568": {
+    "imgurl": "https://yayc.tfnlab.com/images/1568.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1569": {
+    "imgurl": "https://yayc.tfnlab.com/images/1569.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1570": {
+    "imgurl": "https://yayc.tfnlab.com/images/1570.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1571": {
+    "imgurl": "https://yayc.tfnlab.com/images/1571.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1572": {
+    "imgurl": "https://yayc.tfnlab.com/images/1572.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1573": {
+    "imgurl": "https://yayc.tfnlab.com/images/1573.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1574": {
+    "imgurl": "https://yayc.tfnlab.com/images/1574.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1575": {
+    "imgurl": "https://yayc.tfnlab.com/images/1575.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1576": {
+    "imgurl": "https://yayc.tfnlab.com/images/1576.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1577": {
+    "imgurl": "https://yayc.tfnlab.com/images/1577.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1578": {
+    "imgurl": "https://yayc.tfnlab.com/images/1578.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1579": {
+    "imgurl": "https://yayc.tfnlab.com/images/1579.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1580": {
+    "imgurl": "https://yayc.tfnlab.com/images/1580.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1581": {
+    "imgurl": "https://yayc.tfnlab.com/images/1581.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1582": {
+    "imgurl": "https://yayc.tfnlab.com/images/1582.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1583": {
+    "imgurl": "https://yayc.tfnlab.com/images/1583.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1584": {
+    "imgurl": "https://yayc.tfnlab.com/images/1584.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1585": {
+    "imgurl": "https://yayc.tfnlab.com/images/1585.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1586": {
+    "imgurl": "https://yayc.tfnlab.com/images/1586.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1587": {
+    "imgurl": "https://yayc.tfnlab.com/images/1587.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1588": {
+    "imgurl": "https://yayc.tfnlab.com/images/1588.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1589": {
+    "imgurl": "https://yayc.tfnlab.com/images/1589.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1590": {
+    "imgurl": "https://yayc.tfnlab.com/images/1590.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1591": {
+    "imgurl": "https://yayc.tfnlab.com/images/1591.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1592": {
+    "imgurl": "https://yayc.tfnlab.com/images/1592.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1593": {
+    "imgurl": "https://yayc.tfnlab.com/images/1593.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1594": {
+    "imgurl": "https://yayc.tfnlab.com/images/1594.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1595": {
+    "imgurl": "https://yayc.tfnlab.com/images/1595.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1596": {
+    "imgurl": "https://yayc.tfnlab.com/images/1596.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1597": {
+    "imgurl": "https://yayc.tfnlab.com/images/1597.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1598": {
+    "imgurl": "https://yayc.tfnlab.com/images/1598.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1599": {
+    "imgurl": "https://yayc.tfnlab.com/images/1599.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1600": {
+    "imgurl": "https://yayc.tfnlab.com/images/1600.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1601": {
+    "imgurl": "https://yayc.tfnlab.com/images/1601.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1602": {
+    "imgurl": "https://yayc.tfnlab.com/images/1602.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1603": {
+    "imgurl": "https://yayc.tfnlab.com/images/1603.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1604": {
+    "imgurl": "https://yayc.tfnlab.com/images/1604.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1605": {
+    "imgurl": "https://yayc.tfnlab.com/images/1605.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1606": {
+    "imgurl": "https://yayc.tfnlab.com/images/1606.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1607": {
+    "imgurl": "https://yayc.tfnlab.com/images/1607.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1608": {
+    "imgurl": "https://yayc.tfnlab.com/images/1608.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1609": {
+    "imgurl": "https://yayc.tfnlab.com/images/1609.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1610": {
+    "imgurl": "https://yayc.tfnlab.com/images/1610.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1611": {
+    "imgurl": "https://yayc.tfnlab.com/images/1611.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1612": {
+    "imgurl": "https://yayc.tfnlab.com/images/1612.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1613": {
+    "imgurl": "https://yayc.tfnlab.com/images/1613.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1614": {
+    "imgurl": "https://yayc.tfnlab.com/images/1614.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1615": {
+    "imgurl": "https://yayc.tfnlab.com/images/1615.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1616": {
+    "imgurl": "https://yayc.tfnlab.com/images/1616.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1617": {
+    "imgurl": "https://yayc.tfnlab.com/images/1617.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1618": {
+    "imgurl": "https://yayc.tfnlab.com/images/1618.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1619": {
+    "imgurl": "https://yayc.tfnlab.com/images/1619.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1620": {
+    "imgurl": "https://yayc.tfnlab.com/images/1620.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1621": {
+    "imgurl": "https://yayc.tfnlab.com/images/1621.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1622": {
+    "imgurl": "https://yayc.tfnlab.com/images/1622.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1623": {
+    "imgurl": "https://yayc.tfnlab.com/images/1623.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1624": {
+    "imgurl": "https://yayc.tfnlab.com/images/1624.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1625": {
+    "imgurl": "https://yayc.tfnlab.com/images/1625.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1626": {
+    "imgurl": "https://yayc.tfnlab.com/images/1626.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1627": {
+    "imgurl": "https://yayc.tfnlab.com/images/1627.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1628": {
+    "imgurl": "https://yayc.tfnlab.com/images/1628.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1629": {
+    "imgurl": "https://yayc.tfnlab.com/images/1629.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1630": {
+    "imgurl": "https://yayc.tfnlab.com/images/1630.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1631": {
+    "imgurl": "https://yayc.tfnlab.com/images/1631.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1632": {
+    "imgurl": "https://yayc.tfnlab.com/images/1632.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1633": {
+    "imgurl": "https://yayc.tfnlab.com/images/1633.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1634": {
+    "imgurl": "https://yayc.tfnlab.com/images/1634.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1635": {
+    "imgurl": "https://yayc.tfnlab.com/images/1635.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1636": {
+    "imgurl": "https://yayc.tfnlab.com/images/1636.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1637": {
+    "imgurl": "https://yayc.tfnlab.com/images/1637.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1638": {
+    "imgurl": "https://yayc.tfnlab.com/images/1638.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1639": {
+    "imgurl": "https://yayc.tfnlab.com/images/1639.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1640": {
+    "imgurl": "https://yayc.tfnlab.com/images/1640.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1641": {
+    "imgurl": "https://yayc.tfnlab.com/images/1641.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1642": {
+    "imgurl": "https://yayc.tfnlab.com/images/1642.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1643": {
+    "imgurl": "https://yayc.tfnlab.com/images/1643.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1644": {
+    "imgurl": "https://yayc.tfnlab.com/images/1644.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1645": {
+    "imgurl": "https://yayc.tfnlab.com/images/1645.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1646": {
+    "imgurl": "https://yayc.tfnlab.com/images/1646.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1647": {
+    "imgurl": "https://yayc.tfnlab.com/images/1647.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1648": {
+    "imgurl": "https://yayc.tfnlab.com/images/1648.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1649": {
+    "imgurl": "https://yayc.tfnlab.com/images/1649.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1650": {
+    "imgurl": "https://yayc.tfnlab.com/images/1650.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1651": {
+    "imgurl": "https://yayc.tfnlab.com/images/1651.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1652": {
+    "imgurl": "https://yayc.tfnlab.com/images/1652.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1653": {
+    "imgurl": "https://yayc.tfnlab.com/images/1653.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1654": {
+    "imgurl": "https://yayc.tfnlab.com/images/1654.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1655": {
+    "imgurl": "https://yayc.tfnlab.com/images/1655.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1656": {
+    "imgurl": "https://yayc.tfnlab.com/images/1656.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1657": {
+    "imgurl": "https://yayc.tfnlab.com/images/1657.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1658": {
+    "imgurl": "https://yayc.tfnlab.com/images/1658.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1659": {
+    "imgurl": "https://yayc.tfnlab.com/images/1659.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1660": {
+    "imgurl": "https://yayc.tfnlab.com/images/1660.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1661": {
+    "imgurl": "https://yayc.tfnlab.com/images/1661.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1662": {
+    "imgurl": "https://yayc.tfnlab.com/images/1662.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1663": {
+    "imgurl": "https://yayc.tfnlab.com/images/1663.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1664": {
+    "imgurl": "https://yayc.tfnlab.com/images/1664.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1665": {
+    "imgurl": "https://yayc.tfnlab.com/images/1665.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1666": {
+    "imgurl": "https://yayc.tfnlab.com/images/1666.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1667": {
+    "imgurl": "https://yayc.tfnlab.com/images/1667.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1668": {
+    "imgurl": "https://yayc.tfnlab.com/images/1668.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1669": {
+    "imgurl": "https://yayc.tfnlab.com/images/1669.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1670": {
+    "imgurl": "https://yayc.tfnlab.com/images/1670.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1671": {
+    "imgurl": "https://yayc.tfnlab.com/images/1671.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1672": {
+    "imgurl": "https://yayc.tfnlab.com/images/1672.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1673": {
+    "imgurl": "https://yayc.tfnlab.com/images/1673.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1674": {
+    "imgurl": "https://yayc.tfnlab.com/images/1674.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1675": {
+    "imgurl": "https://yayc.tfnlab.com/images/1675.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1676": {
+    "imgurl": "https://yayc.tfnlab.com/images/1676.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1677": {
+    "imgurl": "https://yayc.tfnlab.com/images/1677.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1678": {
+    "imgurl": "https://yayc.tfnlab.com/images/1678.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1679": {
+    "imgurl": "https://yayc.tfnlab.com/images/1679.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1680": {
+    "imgurl": "https://yayc.tfnlab.com/images/1680.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1681": {
+    "imgurl": "https://yayc.tfnlab.com/images/1681.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1682": {
+    "imgurl": "https://yayc.tfnlab.com/images/1682.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1683": {
+    "imgurl": "https://yayc.tfnlab.com/images/1683.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1684": {
+    "imgurl": "https://yayc.tfnlab.com/images/1684.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1685": {
+    "imgurl": "https://yayc.tfnlab.com/images/1685.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1686": {
+    "imgurl": "https://yayc.tfnlab.com/images/1686.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1687": {
+    "imgurl": "https://yayc.tfnlab.com/images/1687.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1688": {
+    "imgurl": "https://yayc.tfnlab.com/images/1688.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1689": {
+    "imgurl": "https://yayc.tfnlab.com/images/1689.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1690": {
+    "imgurl": "https://yayc.tfnlab.com/images/1690.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1691": {
+    "imgurl": "https://yayc.tfnlab.com/images/1691.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1692": {
+    "imgurl": "https://yayc.tfnlab.com/images/1692.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1693": {
+    "imgurl": "https://yayc.tfnlab.com/images/1693.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1694": {
+    "imgurl": "https://yayc.tfnlab.com/images/1694.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1695": {
+    "imgurl": "https://yayc.tfnlab.com/images/1695.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1696": {
+    "imgurl": "https://yayc.tfnlab.com/images/1696.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1697": {
+    "imgurl": "https://yayc.tfnlab.com/images/1697.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1698": {
+    "imgurl": "https://yayc.tfnlab.com/images/1698.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1699": {
+    "imgurl": "https://yayc.tfnlab.com/images/1699.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1700": {
+    "imgurl": "https://yayc.tfnlab.com/images/1700.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1701": {
+    "imgurl": "https://yayc.tfnlab.com/images/1701.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1702": {
+    "imgurl": "https://yayc.tfnlab.com/images/1702.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1703": {
+    "imgurl": "https://yayc.tfnlab.com/images/1703.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1704": {
+    "imgurl": "https://yayc.tfnlab.com/images/1704.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1705": {
+    "imgurl": "https://yayc.tfnlab.com/images/1705.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1706": {
+    "imgurl": "https://yayc.tfnlab.com/images/1706.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1707": {
+    "imgurl": "https://yayc.tfnlab.com/images/1707.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1708": {
+    "imgurl": "https://yayc.tfnlab.com/images/1708.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1709": {
+    "imgurl": "https://yayc.tfnlab.com/images/1709.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1710": {
+    "imgurl": "https://yayc.tfnlab.com/images/1710.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1711": {
+    "imgurl": "https://yayc.tfnlab.com/images/1711.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1712": {
+    "imgurl": "https://yayc.tfnlab.com/images/1712.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1713": {
+    "imgurl": "https://yayc.tfnlab.com/images/1713.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1714": {
+    "imgurl": "https://yayc.tfnlab.com/images/1714.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1715": {
+    "imgurl": "https://yayc.tfnlab.com/images/1715.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1716": {
+    "imgurl": "https://yayc.tfnlab.com/images/1716.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1717": {
+    "imgurl": "https://yayc.tfnlab.com/images/1717.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1718": {
+    "imgurl": "https://yayc.tfnlab.com/images/1718.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1719": {
+    "imgurl": "https://yayc.tfnlab.com/images/1719.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1720": {
+    "imgurl": "https://yayc.tfnlab.com/images/1720.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1721": {
+    "imgurl": "https://yayc.tfnlab.com/images/1721.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1722": {
+    "imgurl": "https://yayc.tfnlab.com/images/1722.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1723": {
+    "imgurl": "https://yayc.tfnlab.com/images/1723.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1724": {
+    "imgurl": "https://yayc.tfnlab.com/images/1724.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1725": {
+    "imgurl": "https://yayc.tfnlab.com/images/1725.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1726": {
+    "imgurl": "https://yayc.tfnlab.com/images/1726.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1727": {
+    "imgurl": "https://yayc.tfnlab.com/images/1727.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1728": {
+    "imgurl": "https://yayc.tfnlab.com/images/1728.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1729": {
+    "imgurl": "https://yayc.tfnlab.com/images/1729.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1730": {
+    "imgurl": "https://yayc.tfnlab.com/images/1730.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1731": {
+    "imgurl": "https://yayc.tfnlab.com/images/1731.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1732": {
+    "imgurl": "https://yayc.tfnlab.com/images/1732.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1733": {
+    "imgurl": "https://yayc.tfnlab.com/images/1733.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1734": {
+    "imgurl": "https://yayc.tfnlab.com/images/1734.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1735": {
+    "imgurl": "https://yayc.tfnlab.com/images/1735.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1736": {
+    "imgurl": "https://yayc.tfnlab.com/images/1736.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1737": {
+    "imgurl": "https://yayc.tfnlab.com/images/1737.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1738": {
+    "imgurl": "https://yayc.tfnlab.com/images/1738.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1739": {
+    "imgurl": "https://yayc.tfnlab.com/images/1739.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1740": {
+    "imgurl": "https://yayc.tfnlab.com/images/1740.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1741": {
+    "imgurl": "https://yayc.tfnlab.com/images/1741.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1742": {
+    "imgurl": "https://yayc.tfnlab.com/images/1742.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1743": {
+    "imgurl": "https://yayc.tfnlab.com/images/1743.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1744": {
+    "imgurl": "https://yayc.tfnlab.com/images/1744.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1745": {
+    "imgurl": "https://yayc.tfnlab.com/images/1745.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1746": {
+    "imgurl": "https://yayc.tfnlab.com/images/1746.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1747": {
+    "imgurl": "https://yayc.tfnlab.com/images/1747.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1748": {
+    "imgurl": "https://yayc.tfnlab.com/images/1748.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1749": {
+    "imgurl": "https://yayc.tfnlab.com/images/1749.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1750": {
+    "imgurl": "https://yayc.tfnlab.com/images/1750.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1751": {
+    "imgurl": "https://yayc.tfnlab.com/images/1751.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1752": {
+    "imgurl": "https://yayc.tfnlab.com/images/1752.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1753": {
+    "imgurl": "https://yayc.tfnlab.com/images/1753.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1754": {
+    "imgurl": "https://yayc.tfnlab.com/images/1754.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1755": {
+    "imgurl": "https://yayc.tfnlab.com/images/1755.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1756": {
+    "imgurl": "https://yayc.tfnlab.com/images/1756.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1757": {
+    "imgurl": "https://yayc.tfnlab.com/images/1757.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1758": {
+    "imgurl": "https://yayc.tfnlab.com/images/1758.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1759": {
+    "imgurl": "https://yayc.tfnlab.com/images/1759.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1760": {
+    "imgurl": "https://yayc.tfnlab.com/images/1760.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1761": {
+    "imgurl": "https://yayc.tfnlab.com/images/1761.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1762": {
+    "imgurl": "https://yayc.tfnlab.com/images/1762.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1763": {
+    "imgurl": "https://yayc.tfnlab.com/images/1763.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1764": {
+    "imgurl": "https://yayc.tfnlab.com/images/1764.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1765": {
+    "imgurl": "https://yayc.tfnlab.com/images/1765.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1766": {
+    "imgurl": "https://yayc.tfnlab.com/images/1766.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1767": {
+    "imgurl": "https://yayc.tfnlab.com/images/1767.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1768": {
+    "imgurl": "https://yayc.tfnlab.com/images/1768.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1769": {
+    "imgurl": "https://yayc.tfnlab.com/images/1769.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1770": {
+    "imgurl": "https://yayc.tfnlab.com/images/1770.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1771": {
+    "imgurl": "https://yayc.tfnlab.com/images/1771.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1772": {
+    "imgurl": "https://yayc.tfnlab.com/images/1772.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1773": {
+    "imgurl": "https://yayc.tfnlab.com/images/1773.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1774": {
+    "imgurl": "https://yayc.tfnlab.com/images/1774.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1775": {
+    "imgurl": "https://yayc.tfnlab.com/images/1775.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1776": {
+    "imgurl": "https://yayc.tfnlab.com/images/1776.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1777": {
+    "imgurl": "https://yayc.tfnlab.com/images/1777.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1778": {
+    "imgurl": "https://yayc.tfnlab.com/images/1778.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1779": {
+    "imgurl": "https://yayc.tfnlab.com/images/1779.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1780": {
+    "imgurl": "https://yayc.tfnlab.com/images/1780.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1781": {
+    "imgurl": "https://yayc.tfnlab.com/images/1781.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1782": {
+    "imgurl": "https://yayc.tfnlab.com/images/1782.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1783": {
+    "imgurl": "https://yayc.tfnlab.com/images/1783.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1784": {
+    "imgurl": "https://yayc.tfnlab.com/images/1784.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1785": {
+    "imgurl": "https://yayc.tfnlab.com/images/1785.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1786": {
+    "imgurl": "https://yayc.tfnlab.com/images/1786.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1787": {
+    "imgurl": "https://yayc.tfnlab.com/images/1787.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1788": {
+    "imgurl": "https://yayc.tfnlab.com/images/1788.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1789": {
+    "imgurl": "https://yayc.tfnlab.com/images/1789.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1790": {
+    "imgurl": "https://yayc.tfnlab.com/images/1790.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1791": {
+    "imgurl": "https://yayc.tfnlab.com/images/1791.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1792": {
+    "imgurl": "https://yayc.tfnlab.com/images/1792.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1793": {
+    "imgurl": "https://yayc.tfnlab.com/images/1793.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1794": {
+    "imgurl": "https://yayc.tfnlab.com/images/1794.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1795": {
+    "imgurl": "https://yayc.tfnlab.com/images/1795.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1796": {
+    "imgurl": "https://yayc.tfnlab.com/images/1796.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1797": {
+    "imgurl": "https://yayc.tfnlab.com/images/1797.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1798": {
+    "imgurl": "https://yayc.tfnlab.com/images/1798.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1799": {
+    "imgurl": "https://yayc.tfnlab.com/images/1799.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1800": {
+    "imgurl": "https://yayc.tfnlab.com/images/1800.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1801": {
+    "imgurl": "https://yayc.tfnlab.com/images/1801.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1802": {
+    "imgurl": "https://yayc.tfnlab.com/images/1802.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1803": {
+    "imgurl": "https://yayc.tfnlab.com/images/1803.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1804": {
+    "imgurl": "https://yayc.tfnlab.com/images/1804.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1805": {
+    "imgurl": "https://yayc.tfnlab.com/images/1805.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1806": {
+    "imgurl": "https://yayc.tfnlab.com/images/1806.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1807": {
+    "imgurl": "https://yayc.tfnlab.com/images/1807.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1808": {
+    "imgurl": "https://yayc.tfnlab.com/images/1808.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1809": {
+    "imgurl": "https://yayc.tfnlab.com/images/1809.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1810": {
+    "imgurl": "https://yayc.tfnlab.com/images/1810.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1811": {
+    "imgurl": "https://yayc.tfnlab.com/images/1811.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1812": {
+    "imgurl": "https://yayc.tfnlab.com/images/1812.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1813": {
+    "imgurl": "https://yayc.tfnlab.com/images/1813.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1814": {
+    "imgurl": "https://yayc.tfnlab.com/images/1814.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1815": {
+    "imgurl": "https://yayc.tfnlab.com/images/1815.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1816": {
+    "imgurl": "https://yayc.tfnlab.com/images/1816.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1817": {
+    "imgurl": "https://yayc.tfnlab.com/images/1817.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1818": {
+    "imgurl": "https://yayc.tfnlab.com/images/1818.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1819": {
+    "imgurl": "https://yayc.tfnlab.com/images/1819.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1820": {
+    "imgurl": "https://yayc.tfnlab.com/images/1820.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1821": {
+    "imgurl": "https://yayc.tfnlab.com/images/1821.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1822": {
+    "imgurl": "https://yayc.tfnlab.com/images/1822.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1823": {
+    "imgurl": "https://yayc.tfnlab.com/images/1823.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1824": {
+    "imgurl": "https://yayc.tfnlab.com/images/1824.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1825": {
+    "imgurl": "https://yayc.tfnlab.com/images/1825.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1826": {
+    "imgurl": "https://yayc.tfnlab.com/images/1826.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1827": {
+    "imgurl": "https://yayc.tfnlab.com/images/1827.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1828": {
+    "imgurl": "https://yayc.tfnlab.com/images/1828.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1829": {
+    "imgurl": "https://yayc.tfnlab.com/images/1829.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1830": {
+    "imgurl": "https://yayc.tfnlab.com/images/1830.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1831": {
+    "imgurl": "https://yayc.tfnlab.com/images/1831.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1832": {
+    "imgurl": "https://yayc.tfnlab.com/images/1832.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1833": {
+    "imgurl": "https://yayc.tfnlab.com/images/1833.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1834": {
+    "imgurl": "https://yayc.tfnlab.com/images/1834.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1835": {
+    "imgurl": "https://yayc.tfnlab.com/images/1835.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1836": {
+    "imgurl": "https://yayc.tfnlab.com/images/1836.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1837": {
+    "imgurl": "https://yayc.tfnlab.com/images/1837.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1838": {
+    "imgurl": "https://yayc.tfnlab.com/images/1838.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1839": {
+    "imgurl": "https://yayc.tfnlab.com/images/1839.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1840": {
+    "imgurl": "https://yayc.tfnlab.com/images/1840.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1841": {
+    "imgurl": "https://yayc.tfnlab.com/images/1841.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1842": {
+    "imgurl": "https://yayc.tfnlab.com/images/1842.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1843": {
+    "imgurl": "https://yayc.tfnlab.com/images/1843.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1844": {
+    "imgurl": "https://yayc.tfnlab.com/images/1844.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1845": {
+    "imgurl": "https://yayc.tfnlab.com/images/1845.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1846": {
+    "imgurl": "https://yayc.tfnlab.com/images/1846.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1847": {
+    "imgurl": "https://yayc.tfnlab.com/images/1847.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1848": {
+    "imgurl": "https://yayc.tfnlab.com/images/1848.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1849": {
+    "imgurl": "https://yayc.tfnlab.com/images/1849.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1850": {
+    "imgurl": "https://yayc.tfnlab.com/images/1850.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1851": {
+    "imgurl": "https://yayc.tfnlab.com/images/1851.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1852": {
+    "imgurl": "https://yayc.tfnlab.com/images/1852.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1853": {
+    "imgurl": "https://yayc.tfnlab.com/images/1853.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1854": {
+    "imgurl": "https://yayc.tfnlab.com/images/1854.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1855": {
+    "imgurl": "https://yayc.tfnlab.com/images/1855.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1856": {
+    "imgurl": "https://yayc.tfnlab.com/images/1856.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1857": {
+    "imgurl": "https://yayc.tfnlab.com/images/1857.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1858": {
+    "imgurl": "https://yayc.tfnlab.com/images/1858.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1859": {
+    "imgurl": "https://yayc.tfnlab.com/images/1859.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1860": {
+    "imgurl": "https://yayc.tfnlab.com/images/1860.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1861": {
+    "imgurl": "https://yayc.tfnlab.com/images/1861.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1862": {
+    "imgurl": "https://yayc.tfnlab.com/images/1862.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1863": {
+    "imgurl": "https://yayc.tfnlab.com/images/1863.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1864": {
+    "imgurl": "https://yayc.tfnlab.com/images/1864.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1865": {
+    "imgurl": "https://yayc.tfnlab.com/images/1865.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1866": {
+    "imgurl": "https://yayc.tfnlab.com/images/1866.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1867": {
+    "imgurl": "https://yayc.tfnlab.com/images/1867.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1868": {
+    "imgurl": "https://yayc.tfnlab.com/images/1868.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1869": {
+    "imgurl": "https://yayc.tfnlab.com/images/1869.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1870": {
+    "imgurl": "https://yayc.tfnlab.com/images/1870.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1871": {
+    "imgurl": "https://yayc.tfnlab.com/images/1871.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1872": {
+    "imgurl": "https://yayc.tfnlab.com/images/1872.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1873": {
+    "imgurl": "https://yayc.tfnlab.com/images/1873.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1874": {
+    "imgurl": "https://yayc.tfnlab.com/images/1874.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1875": {
+    "imgurl": "https://yayc.tfnlab.com/images/1875.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1876": {
+    "imgurl": "https://yayc.tfnlab.com/images/1876.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1877": {
+    "imgurl": "https://yayc.tfnlab.com/images/1877.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1878": {
+    "imgurl": "https://yayc.tfnlab.com/images/1878.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1879": {
+    "imgurl": "https://yayc.tfnlab.com/images/1879.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1880": {
+    "imgurl": "https://yayc.tfnlab.com/images/1880.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1881": {
+    "imgurl": "https://yayc.tfnlab.com/images/1881.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1882": {
+    "imgurl": "https://yayc.tfnlab.com/images/1882.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1883": {
+    "imgurl": "https://yayc.tfnlab.com/images/1883.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1884": {
+    "imgurl": "https://yayc.tfnlab.com/images/1884.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1885": {
+    "imgurl": "https://yayc.tfnlab.com/images/1885.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1886": {
+    "imgurl": "https://yayc.tfnlab.com/images/1886.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1887": {
+    "imgurl": "https://yayc.tfnlab.com/images/1887.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1888": {
+    "imgurl": "https://yayc.tfnlab.com/images/1888.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1889": {
+    "imgurl": "https://yayc.tfnlab.com/images/1889.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1890": {
+    "imgurl": "https://yayc.tfnlab.com/images/1890.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1891": {
+    "imgurl": "https://yayc.tfnlab.com/images/1891.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1892": {
+    "imgurl": "https://yayc.tfnlab.com/images/1892.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1893": {
+    "imgurl": "https://yayc.tfnlab.com/images/1893.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1894": {
+    "imgurl": "https://yayc.tfnlab.com/images/1894.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1895": {
+    "imgurl": "https://yayc.tfnlab.com/images/1895.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1896": {
+    "imgurl": "https://yayc.tfnlab.com/images/1896.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1897": {
+    "imgurl": "https://yayc.tfnlab.com/images/1897.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1898": {
+    "imgurl": "https://yayc.tfnlab.com/images/1898.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1899": {
+    "imgurl": "https://yayc.tfnlab.com/images/1899.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1900": {
+    "imgurl": "https://yayc.tfnlab.com/images/1900.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1901": {
+    "imgurl": "https://yayc.tfnlab.com/images/1901.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1902": {
+    "imgurl": "https://yayc.tfnlab.com/images/1902.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1903": {
+    "imgurl": "https://yayc.tfnlab.com/images/1903.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1904": {
+    "imgurl": "https://yayc.tfnlab.com/images/1904.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1905": {
+    "imgurl": "https://yayc.tfnlab.com/images/1905.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1906": {
+    "imgurl": "https://yayc.tfnlab.com/images/1906.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1907": {
+    "imgurl": "https://yayc.tfnlab.com/images/1907.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1908": {
+    "imgurl": "https://yayc.tfnlab.com/images/1908.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1909": {
+    "imgurl": "https://yayc.tfnlab.com/images/1909.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1910": {
+    "imgurl": "https://yayc.tfnlab.com/images/1910.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1911": {
+    "imgurl": "https://yayc.tfnlab.com/images/1911.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1912": {
+    "imgurl": "https://yayc.tfnlab.com/images/1912.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1913": {
+    "imgurl": "https://yayc.tfnlab.com/images/1913.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1914": {
+    "imgurl": "https://yayc.tfnlab.com/images/1914.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1915": {
+    "imgurl": "https://yayc.tfnlab.com/images/1915.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1916": {
+    "imgurl": "https://yayc.tfnlab.com/images/1916.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1917": {
+    "imgurl": "https://yayc.tfnlab.com/images/1917.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1918": {
+    "imgurl": "https://yayc.tfnlab.com/images/1918.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1919": {
+    "imgurl": "https://yayc.tfnlab.com/images/1919.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1920": {
+    "imgurl": "https://yayc.tfnlab.com/images/1920.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1921": {
+    "imgurl": "https://yayc.tfnlab.com/images/1921.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "1922": {
+    "imgurl": "https://yayc.tfnlab.com/images/1922.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1923": {
+    "imgurl": "https://yayc.tfnlab.com/images/1923.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1924": {
+    "imgurl": "https://yayc.tfnlab.com/images/1924.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1925": {
+    "imgurl": "https://yayc.tfnlab.com/images/1925.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1926": {
+    "imgurl": "https://yayc.tfnlab.com/images/1926.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1927": {
+    "imgurl": "https://yayc.tfnlab.com/images/1927.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1928": {
+    "imgurl": "https://yayc.tfnlab.com/images/1928.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1929": {
+    "imgurl": "https://yayc.tfnlab.com/images/1929.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1930": {
+    "imgurl": "https://yayc.tfnlab.com/images/1930.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1931": {
+    "imgurl": "https://yayc.tfnlab.com/images/1931.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1932": {
+    "imgurl": "https://yayc.tfnlab.com/images/1932.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1933": {
+    "imgurl": "https://yayc.tfnlab.com/images/1933.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1934": {
+    "imgurl": "https://yayc.tfnlab.com/images/1934.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1935": {
+    "imgurl": "https://yayc.tfnlab.com/images/1935.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1936": {
+    "imgurl": "https://yayc.tfnlab.com/images/1936.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "1937": {
+    "imgurl": "https://yayc.tfnlab.com/images/1937.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1938": {
+    "imgurl": "https://yayc.tfnlab.com/images/1938.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1939": {
+    "imgurl": "https://yayc.tfnlab.com/images/1939.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1940": {
+    "imgurl": "https://yayc.tfnlab.com/images/1940.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1941": {
+    "imgurl": "https://yayc.tfnlab.com/images/1941.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1942": {
+    "imgurl": "https://yayc.tfnlab.com/images/1942.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1943": {
+    "imgurl": "https://yayc.tfnlab.com/images/1943.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1944": {
+    "imgurl": "https://yayc.tfnlab.com/images/1944.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1945": {
+    "imgurl": "https://yayc.tfnlab.com/images/1945.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1946": {
+    "imgurl": "https://yayc.tfnlab.com/images/1946.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1947": {
+    "imgurl": "https://yayc.tfnlab.com/images/1947.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "1948": {
+    "imgurl": "https://yayc.tfnlab.com/images/1948.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1949": {
+    "imgurl": "https://yayc.tfnlab.com/images/1949.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1950": {
+    "imgurl": "https://yayc.tfnlab.com/images/1950.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "1951": {
+    "imgurl": "https://yayc.tfnlab.com/images/1951.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "1952": {
+    "imgurl": "https://yayc.tfnlab.com/images/1952.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1953": {
+    "imgurl": "https://yayc.tfnlab.com/images/1953.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1954": {
+    "imgurl": "https://yayc.tfnlab.com/images/1954.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1955": {
+    "imgurl": "https://yayc.tfnlab.com/images/1955.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1956": {
+    "imgurl": "https://yayc.tfnlab.com/images/1956.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1957": {
+    "imgurl": "https://yayc.tfnlab.com/images/1957.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1958": {
+    "imgurl": "https://yayc.tfnlab.com/images/1958.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1959": {
+    "imgurl": "https://yayc.tfnlab.com/images/1959.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1960": {
+    "imgurl": "https://yayc.tfnlab.com/images/1960.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "1961": {
+    "imgurl": "https://yayc.tfnlab.com/images/1961.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1962": {
+    "imgurl": "https://yayc.tfnlab.com/images/1962.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1963": {
+    "imgurl": "https://yayc.tfnlab.com/images/1963.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1964": {
+    "imgurl": "https://yayc.tfnlab.com/images/1964.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1965": {
+    "imgurl": "https://yayc.tfnlab.com/images/1965.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1966": {
+    "imgurl": "https://yayc.tfnlab.com/images/1966.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1967": {
+    "imgurl": "https://yayc.tfnlab.com/images/1967.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1968": {
+    "imgurl": "https://yayc.tfnlab.com/images/1968.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1969": {
+    "imgurl": "https://yayc.tfnlab.com/images/1969.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "1970": {
+    "imgurl": "https://yayc.tfnlab.com/images/1970.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1971": {
+    "imgurl": "https://yayc.tfnlab.com/images/1971.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1972": {
+    "imgurl": "https://yayc.tfnlab.com/images/1972.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "1973": {
+    "imgurl": "https://yayc.tfnlab.com/images/1973.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "1974": {
+    "imgurl": "https://yayc.tfnlab.com/images/1974.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1975": {
+    "imgurl": "https://yayc.tfnlab.com/images/1975.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "1976": {
+    "imgurl": "https://yayc.tfnlab.com/images/1976.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1977": {
+    "imgurl": "https://yayc.tfnlab.com/images/1977.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1978": {
+    "imgurl": "https://yayc.tfnlab.com/images/1978.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "1979": {
+    "imgurl": "https://yayc.tfnlab.com/images/1979.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1980": {
+    "imgurl": "https://yayc.tfnlab.com/images/1980.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "1981": {
+    "imgurl": "https://yayc.tfnlab.com/images/1981.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1982": {
+    "imgurl": "https://yayc.tfnlab.com/images/1982.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1983": {
+    "imgurl": "https://yayc.tfnlab.com/images/1983.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1984": {
+    "imgurl": "https://yayc.tfnlab.com/images/1984.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1985": {
+    "imgurl": "https://yayc.tfnlab.com/images/1985.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "1986": {
+    "imgurl": "https://yayc.tfnlab.com/images/1986.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1987": {
+    "imgurl": "https://yayc.tfnlab.com/images/1987.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "1988": {
+    "imgurl": "https://yayc.tfnlab.com/images/1988.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "1989": {
+    "imgurl": "https://yayc.tfnlab.com/images/1989.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "1990": {
+    "imgurl": "https://yayc.tfnlab.com/images/1990.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "1991": {
+    "imgurl": "https://yayc.tfnlab.com/images/1991.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "1992": {
+    "imgurl": "https://yayc.tfnlab.com/images/1992.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "1993": {
+    "imgurl": "https://yayc.tfnlab.com/images/1993.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "1994": {
+    "imgurl": "https://yayc.tfnlab.com/images/1994.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "1995": {
+    "imgurl": "https://yayc.tfnlab.com/images/1995.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "1996": {
+    "imgurl": "https://yayc.tfnlab.com/images/1996.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1997": {
+    "imgurl": "https://yayc.tfnlab.com/images/1997.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "1998": {
+    "imgurl": "https://yayc.tfnlab.com/images/1998.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "1999": {
+    "imgurl": "https://yayc.tfnlab.com/images/1999.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2000": {
+    "imgurl": "https://yayc.tfnlab.com/images/2000.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2001": {
+    "imgurl": "https://yayc.tfnlab.com/images/2001.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2002": {
+    "imgurl": "https://yayc.tfnlab.com/images/2002.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2003": {
+    "imgurl": "https://yayc.tfnlab.com/images/2003.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2004": {
+    "imgurl": "https://yayc.tfnlab.com/images/2004.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2005": {
+    "imgurl": "https://yayc.tfnlab.com/images/2005.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2006": {
+    "imgurl": "https://yayc.tfnlab.com/images/2006.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2007": {
+    "imgurl": "https://yayc.tfnlab.com/images/2007.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2008": {
+    "imgurl": "https://yayc.tfnlab.com/images/2008.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2009": {
+    "imgurl": "https://yayc.tfnlab.com/images/2009.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2010": {
+    "imgurl": "https://yayc.tfnlab.com/images/2010.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2011": {
+    "imgurl": "https://yayc.tfnlab.com/images/2011.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2012": {
+    "imgurl": "https://yayc.tfnlab.com/images/2012.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2013": {
+    "imgurl": "https://yayc.tfnlab.com/images/2013.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2014": {
+    "imgurl": "https://yayc.tfnlab.com/images/2014.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2015": {
+    "imgurl": "https://yayc.tfnlab.com/images/2015.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2016": {
+    "imgurl": "https://yayc.tfnlab.com/images/2016.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2017": {
+    "imgurl": "https://yayc.tfnlab.com/images/2017.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2018": {
+    "imgurl": "https://yayc.tfnlab.com/images/2018.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2019": {
+    "imgurl": "https://yayc.tfnlab.com/images/2019.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2020": {
+    "imgurl": "https://yayc.tfnlab.com/images/2020.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2021": {
+    "imgurl": "https://yayc.tfnlab.com/images/2021.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2022": {
+    "imgurl": "https://yayc.tfnlab.com/images/2022.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2023": {
+    "imgurl": "https://yayc.tfnlab.com/images/2023.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2024": {
+    "imgurl": "https://yayc.tfnlab.com/images/2024.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2025": {
+    "imgurl": "https://yayc.tfnlab.com/images/2025.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2026": {
+    "imgurl": "https://yayc.tfnlab.com/images/2026.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2027": {
+    "imgurl": "https://yayc.tfnlab.com/images/2027.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2028": {
+    "imgurl": "https://yayc.tfnlab.com/images/2028.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2029": {
+    "imgurl": "https://yayc.tfnlab.com/images/2029.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2030": {
+    "imgurl": "https://yayc.tfnlab.com/images/2030.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2031": {
+    "imgurl": "https://yayc.tfnlab.com/images/2031.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2032": {
+    "imgurl": "https://yayc.tfnlab.com/images/2032.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2033": {
+    "imgurl": "https://yayc.tfnlab.com/images/2033.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2034": {
+    "imgurl": "https://yayc.tfnlab.com/images/2034.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2035": {
+    "imgurl": "https://yayc.tfnlab.com/images/2035.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2036": {
+    "imgurl": "https://yayc.tfnlab.com/images/2036.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2037": {
+    "imgurl": "https://yayc.tfnlab.com/images/2037.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2038": {
+    "imgurl": "https://yayc.tfnlab.com/images/2038.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2039": {
+    "imgurl": "https://yayc.tfnlab.com/images/2039.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2040": {
+    "imgurl": "https://yayc.tfnlab.com/images/2040.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2041": {
+    "imgurl": "https://yayc.tfnlab.com/images/2041.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2042": {
+    "imgurl": "https://yayc.tfnlab.com/images/2042.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2043": {
+    "imgurl": "https://yayc.tfnlab.com/images/2043.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2044": {
+    "imgurl": "https://yayc.tfnlab.com/images/2044.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2045": {
+    "imgurl": "https://yayc.tfnlab.com/images/2045.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2046": {
+    "imgurl": "https://yayc.tfnlab.com/images/2046.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2047": {
+    "imgurl": "https://yayc.tfnlab.com/images/2047.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2048": {
+    "imgurl": "https://yayc.tfnlab.com/images/2048.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2049": {
+    "imgurl": "https://yayc.tfnlab.com/images/2049.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2050": {
+    "imgurl": "https://yayc.tfnlab.com/images/2050.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2051": {
+    "imgurl": "https://yayc.tfnlab.com/images/2051.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2052": {
+    "imgurl": "https://yayc.tfnlab.com/images/2052.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2053": {
+    "imgurl": "https://yayc.tfnlab.com/images/2053.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2054": {
+    "imgurl": "https://yayc.tfnlab.com/images/2054.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2055": {
+    "imgurl": "https://yayc.tfnlab.com/images/2055.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2056": {
+    "imgurl": "https://yayc.tfnlab.com/images/2056.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2057": {
+    "imgurl": "https://yayc.tfnlab.com/images/2057.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2058": {
+    "imgurl": "https://yayc.tfnlab.com/images/2058.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2059": {
+    "imgurl": "https://yayc.tfnlab.com/images/2059.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2060": {
+    "imgurl": "https://yayc.tfnlab.com/images/2060.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2061": {
+    "imgurl": "https://yayc.tfnlab.com/images/2061.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2062": {
+    "imgurl": "https://yayc.tfnlab.com/images/2062.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2063": {
+    "imgurl": "https://yayc.tfnlab.com/images/2063.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2064": {
+    "imgurl": "https://yayc.tfnlab.com/images/2064.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2065": {
+    "imgurl": "https://yayc.tfnlab.com/images/2065.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2066": {
+    "imgurl": "https://yayc.tfnlab.com/images/2066.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2067": {
+    "imgurl": "https://yayc.tfnlab.com/images/2067.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2068": {
+    "imgurl": "https://yayc.tfnlab.com/images/2068.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2069": {
+    "imgurl": "https://yayc.tfnlab.com/images/2069.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2070": {
+    "imgurl": "https://yayc.tfnlab.com/images/2070.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2071": {
+    "imgurl": "https://yayc.tfnlab.com/images/2071.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2072": {
+    "imgurl": "https://yayc.tfnlab.com/images/2072.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2073": {
+    "imgurl": "https://yayc.tfnlab.com/images/2073.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2074": {
+    "imgurl": "https://yayc.tfnlab.com/images/2074.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2075": {
+    "imgurl": "https://yayc.tfnlab.com/images/2075.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2076": {
+    "imgurl": "https://yayc.tfnlab.com/images/2076.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2077": {
+    "imgurl": "https://yayc.tfnlab.com/images/2077.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2078": {
+    "imgurl": "https://yayc.tfnlab.com/images/2078.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2079": {
+    "imgurl": "https://yayc.tfnlab.com/images/2079.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2080": {
+    "imgurl": "https://yayc.tfnlab.com/images/2080.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2081": {
+    "imgurl": "https://yayc.tfnlab.com/images/2081.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2082": {
+    "imgurl": "https://yayc.tfnlab.com/images/2082.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2083": {
+    "imgurl": "https://yayc.tfnlab.com/images/2083.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2084": {
+    "imgurl": "https://yayc.tfnlab.com/images/2084.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2085": {
+    "imgurl": "https://yayc.tfnlab.com/images/2085.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2086": {
+    "imgurl": "https://yayc.tfnlab.com/images/2086.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2087": {
+    "imgurl": "https://yayc.tfnlab.com/images/2087.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2088": {
+    "imgurl": "https://yayc.tfnlab.com/images/2088.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2089": {
+    "imgurl": "https://yayc.tfnlab.com/images/2089.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2090": {
+    "imgurl": "https://yayc.tfnlab.com/images/2090.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2091": {
+    "imgurl": "https://yayc.tfnlab.com/images/2091.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2092": {
+    "imgurl": "https://yayc.tfnlab.com/images/2092.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2093": {
+    "imgurl": "https://yayc.tfnlab.com/images/2093.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2094": {
+    "imgurl": "https://yayc.tfnlab.com/images/2094.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2095": {
+    "imgurl": "https://yayc.tfnlab.com/images/2095.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2096": {
+    "imgurl": "https://yayc.tfnlab.com/images/2096.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2097": {
+    "imgurl": "https://yayc.tfnlab.com/images/2097.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2098": {
+    "imgurl": "https://yayc.tfnlab.com/images/2098.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2099": {
+    "imgurl": "https://yayc.tfnlab.com/images/2099.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2100": {
+    "imgurl": "https://yayc.tfnlab.com/images/2100.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2101": {
+    "imgurl": "https://yayc.tfnlab.com/images/2101.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2102": {
+    "imgurl": "https://yayc.tfnlab.com/images/2102.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2103": {
+    "imgurl": "https://yayc.tfnlab.com/images/2103.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2104": {
+    "imgurl": "https://yayc.tfnlab.com/images/2104.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2105": {
+    "imgurl": "https://yayc.tfnlab.com/images/2105.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2106": {
+    "imgurl": "https://yayc.tfnlab.com/images/2106.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2107": {
+    "imgurl": "https://yayc.tfnlab.com/images/2107.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2108": {
+    "imgurl": "https://yayc.tfnlab.com/images/2108.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2109": {
+    "imgurl": "https://yayc.tfnlab.com/images/2109.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2110": {
+    "imgurl": "https://yayc.tfnlab.com/images/2110.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2111": {
+    "imgurl": "https://yayc.tfnlab.com/images/2111.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2112": {
+    "imgurl": "https://yayc.tfnlab.com/images/2112.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2113": {
+    "imgurl": "https://yayc.tfnlab.com/images/2113.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2114": {
+    "imgurl": "https://yayc.tfnlab.com/images/2114.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2115": {
+    "imgurl": "https://yayc.tfnlab.com/images/2115.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2116": {
+    "imgurl": "https://yayc.tfnlab.com/images/2116.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2117": {
+    "imgurl": "https://yayc.tfnlab.com/images/2117.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2118": {
+    "imgurl": "https://yayc.tfnlab.com/images/2118.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2119": {
+    "imgurl": "https://yayc.tfnlab.com/images/2119.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2120": {
+    "imgurl": "https://yayc.tfnlab.com/images/2120.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2121": {
+    "imgurl": "https://yayc.tfnlab.com/images/2121.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2122": {
+    "imgurl": "https://yayc.tfnlab.com/images/2122.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2123": {
+    "imgurl": "https://yayc.tfnlab.com/images/2123.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2124": {
+    "imgurl": "https://yayc.tfnlab.com/images/2124.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2125": {
+    "imgurl": "https://yayc.tfnlab.com/images/2125.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2126": {
+    "imgurl": "https://yayc.tfnlab.com/images/2126.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2127": {
+    "imgurl": "https://yayc.tfnlab.com/images/2127.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2128": {
+    "imgurl": "https://yayc.tfnlab.com/images/2128.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2129": {
+    "imgurl": "https://yayc.tfnlab.com/images/2129.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2130": {
+    "imgurl": "https://yayc.tfnlab.com/images/2130.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2131": {
+    "imgurl": "https://yayc.tfnlab.com/images/2131.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2132": {
+    "imgurl": "https://yayc.tfnlab.com/images/2132.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2133": {
+    "imgurl": "https://yayc.tfnlab.com/images/2133.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2134": {
+    "imgurl": "https://yayc.tfnlab.com/images/2134.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2135": {
+    "imgurl": "https://yayc.tfnlab.com/images/2135.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2136": {
+    "imgurl": "https://yayc.tfnlab.com/images/2136.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2137": {
+    "imgurl": "https://yayc.tfnlab.com/images/2137.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2138": {
+    "imgurl": "https://yayc.tfnlab.com/images/2138.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2139": {
+    "imgurl": "https://yayc.tfnlab.com/images/2139.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2140": {
+    "imgurl": "https://yayc.tfnlab.com/images/2140.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2141": {
+    "imgurl": "https://yayc.tfnlab.com/images/2141.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2142": {
+    "imgurl": "https://yayc.tfnlab.com/images/2142.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2143": {
+    "imgurl": "https://yayc.tfnlab.com/images/2143.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2144": {
+    "imgurl": "https://yayc.tfnlab.com/images/2144.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2145": {
+    "imgurl": "https://yayc.tfnlab.com/images/2145.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2146": {
+    "imgurl": "https://yayc.tfnlab.com/images/2146.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2147": {
+    "imgurl": "https://yayc.tfnlab.com/images/2147.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2148": {
+    "imgurl": "https://yayc.tfnlab.com/images/2148.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2149": {
+    "imgurl": "https://yayc.tfnlab.com/images/2149.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2150": {
+    "imgurl": "https://yayc.tfnlab.com/images/2150.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2151": {
+    "imgurl": "https://yayc.tfnlab.com/images/2151.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2152": {
+    "imgurl": "https://yayc.tfnlab.com/images/2152.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2153": {
+    "imgurl": "https://yayc.tfnlab.com/images/2153.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2154": {
+    "imgurl": "https://yayc.tfnlab.com/images/2154.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2155": {
+    "imgurl": "https://yayc.tfnlab.com/images/2155.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2156": {
+    "imgurl": "https://yayc.tfnlab.com/images/2156.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2157": {
+    "imgurl": "https://yayc.tfnlab.com/images/2157.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2158": {
+    "imgurl": "https://yayc.tfnlab.com/images/2158.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2159": {
+    "imgurl": "https://yayc.tfnlab.com/images/2159.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2160": {
+    "imgurl": "https://yayc.tfnlab.com/images/2160.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2161": {
+    "imgurl": "https://yayc.tfnlab.com/images/2161.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2162": {
+    "imgurl": "https://yayc.tfnlab.com/images/2162.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2163": {
+    "imgurl": "https://yayc.tfnlab.com/images/2163.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2164": {
+    "imgurl": "https://yayc.tfnlab.com/images/2164.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2165": {
+    "imgurl": "https://yayc.tfnlab.com/images/2165.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2166": {
+    "imgurl": "https://yayc.tfnlab.com/images/2166.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2167": {
+    "imgurl": "https://yayc.tfnlab.com/images/2167.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2168": {
+    "imgurl": "https://yayc.tfnlab.com/images/2168.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2169": {
+    "imgurl": "https://yayc.tfnlab.com/images/2169.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2170": {
+    "imgurl": "https://yayc.tfnlab.com/images/2170.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2171": {
+    "imgurl": "https://yayc.tfnlab.com/images/2171.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2172": {
+    "imgurl": "https://yayc.tfnlab.com/images/2172.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2173": {
+    "imgurl": "https://yayc.tfnlab.com/images/2173.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2174": {
+    "imgurl": "https://yayc.tfnlab.com/images/2174.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2175": {
+    "imgurl": "https://yayc.tfnlab.com/images/2175.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2176": {
+    "imgurl": "https://yayc.tfnlab.com/images/2176.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2177": {
+    "imgurl": "https://yayc.tfnlab.com/images/2177.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2178": {
+    "imgurl": "https://yayc.tfnlab.com/images/2178.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2179": {
+    "imgurl": "https://yayc.tfnlab.com/images/2179.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2180": {
+    "imgurl": "https://yayc.tfnlab.com/images/2180.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2181": {
+    "imgurl": "https://yayc.tfnlab.com/images/2181.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2182": {
+    "imgurl": "https://yayc.tfnlab.com/images/2182.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2183": {
+    "imgurl": "https://yayc.tfnlab.com/images/2183.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2184": {
+    "imgurl": "https://yayc.tfnlab.com/images/2184.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2185": {
+    "imgurl": "https://yayc.tfnlab.com/images/2185.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2186": {
+    "imgurl": "https://yayc.tfnlab.com/images/2186.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2187": {
+    "imgurl": "https://yayc.tfnlab.com/images/2187.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2188": {
+    "imgurl": "https://yayc.tfnlab.com/images/2188.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2189": {
+    "imgurl": "https://yayc.tfnlab.com/images/2189.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2190": {
+    "imgurl": "https://yayc.tfnlab.com/images/2190.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2191": {
+    "imgurl": "https://yayc.tfnlab.com/images/2191.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2192": {
+    "imgurl": "https://yayc.tfnlab.com/images/2192.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2193": {
+    "imgurl": "https://yayc.tfnlab.com/images/2193.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2194": {
+    "imgurl": "https://yayc.tfnlab.com/images/2194.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2195": {
+    "imgurl": "https://yayc.tfnlab.com/images/2195.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2196": {
+    "imgurl": "https://yayc.tfnlab.com/images/2196.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2197": {
+    "imgurl": "https://yayc.tfnlab.com/images/2197.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2198": {
+    "imgurl": "https://yayc.tfnlab.com/images/2198.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2199": {
+    "imgurl": "https://yayc.tfnlab.com/images/2199.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2200": {
+    "imgurl": "https://yayc.tfnlab.com/images/2200.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2201": {
+    "imgurl": "https://yayc.tfnlab.com/images/2201.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2202": {
+    "imgurl": "https://yayc.tfnlab.com/images/2202.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2203": {
+    "imgurl": "https://yayc.tfnlab.com/images/2203.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2204": {
+    "imgurl": "https://yayc.tfnlab.com/images/2204.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2205": {
+    "imgurl": "https://yayc.tfnlab.com/images/2205.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2206": {
+    "imgurl": "https://yayc.tfnlab.com/images/2206.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2207": {
+    "imgurl": "https://yayc.tfnlab.com/images/2207.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2208": {
+    "imgurl": "https://yayc.tfnlab.com/images/2208.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2209": {
+    "imgurl": "https://yayc.tfnlab.com/images/2209.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2210": {
+    "imgurl": "https://yayc.tfnlab.com/images/2210.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2211": {
+    "imgurl": "https://yayc.tfnlab.com/images/2211.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2212": {
+    "imgurl": "https://yayc.tfnlab.com/images/2212.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2213": {
+    "imgurl": "https://yayc.tfnlab.com/images/2213.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2214": {
+    "imgurl": "https://yayc.tfnlab.com/images/2214.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2215": {
+    "imgurl": "https://yayc.tfnlab.com/images/2215.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2216": {
+    "imgurl": "https://yayc.tfnlab.com/images/2216.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2217": {
+    "imgurl": "https://yayc.tfnlab.com/images/2217.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2218": {
+    "imgurl": "https://yayc.tfnlab.com/images/2218.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2219": {
+    "imgurl": "https://yayc.tfnlab.com/images/2219.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2220": {
+    "imgurl": "https://yayc.tfnlab.com/images/2220.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2221": {
+    "imgurl": "https://yayc.tfnlab.com/images/2221.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2222": {
+    "imgurl": "https://yayc.tfnlab.com/images/2222.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2223": {
+    "imgurl": "https://yayc.tfnlab.com/images/2223.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2224": {
+    "imgurl": "https://yayc.tfnlab.com/images/2224.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2225": {
+    "imgurl": "https://yayc.tfnlab.com/images/2225.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2226": {
+    "imgurl": "https://yayc.tfnlab.com/images/2226.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2227": {
+    "imgurl": "https://yayc.tfnlab.com/images/2227.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2228": {
+    "imgurl": "https://yayc.tfnlab.com/images/2228.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2229": {
+    "imgurl": "https://yayc.tfnlab.com/images/2229.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2230": {
+    "imgurl": "https://yayc.tfnlab.com/images/2230.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2231": {
+    "imgurl": "https://yayc.tfnlab.com/images/2231.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2232": {
+    "imgurl": "https://yayc.tfnlab.com/images/2232.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2233": {
+    "imgurl": "https://yayc.tfnlab.com/images/2233.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2234": {
+    "imgurl": "https://yayc.tfnlab.com/images/2234.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2235": {
+    "imgurl": "https://yayc.tfnlab.com/images/2235.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2236": {
+    "imgurl": "https://yayc.tfnlab.com/images/2236.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2237": {
+    "imgurl": "https://yayc.tfnlab.com/images/2237.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2238": {
+    "imgurl": "https://yayc.tfnlab.com/images/2238.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2239": {
+    "imgurl": "https://yayc.tfnlab.com/images/2239.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2240": {
+    "imgurl": "https://yayc.tfnlab.com/images/2240.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2241": {
+    "imgurl": "https://yayc.tfnlab.com/images/2241.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2242": {
+    "imgurl": "https://yayc.tfnlab.com/images/2242.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2243": {
+    "imgurl": "https://yayc.tfnlab.com/images/2243.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2244": {
+    "imgurl": "https://yayc.tfnlab.com/images/2244.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2245": {
+    "imgurl": "https://yayc.tfnlab.com/images/2245.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2246": {
+    "imgurl": "https://yayc.tfnlab.com/images/2246.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2247": {
+    "imgurl": "https://yayc.tfnlab.com/images/2247.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2248": {
+    "imgurl": "https://yayc.tfnlab.com/images/2248.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2249": {
+    "imgurl": "https://yayc.tfnlab.com/images/2249.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2250": {
+    "imgurl": "https://yayc.tfnlab.com/images/2250.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2251": {
+    "imgurl": "https://yayc.tfnlab.com/images/2251.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2252": {
+    "imgurl": "https://yayc.tfnlab.com/images/2252.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2253": {
+    "imgurl": "https://yayc.tfnlab.com/images/2253.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2254": {
+    "imgurl": "https://yayc.tfnlab.com/images/2254.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2255": {
+    "imgurl": "https://yayc.tfnlab.com/images/2255.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2256": {
+    "imgurl": "https://yayc.tfnlab.com/images/2256.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2257": {
+    "imgurl": "https://yayc.tfnlab.com/images/2257.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2258": {
+    "imgurl": "https://yayc.tfnlab.com/images/2258.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2259": {
+    "imgurl": "https://yayc.tfnlab.com/images/2259.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2260": {
+    "imgurl": "https://yayc.tfnlab.com/images/2260.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2261": {
+    "imgurl": "https://yayc.tfnlab.com/images/2261.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2262": {
+    "imgurl": "https://yayc.tfnlab.com/images/2262.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2263": {
+    "imgurl": "https://yayc.tfnlab.com/images/2263.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2264": {
+    "imgurl": "https://yayc.tfnlab.com/images/2264.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2265": {
+    "imgurl": "https://yayc.tfnlab.com/images/2265.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2266": {
+    "imgurl": "https://yayc.tfnlab.com/images/2266.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2267": {
+    "imgurl": "https://yayc.tfnlab.com/images/2267.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2268": {
+    "imgurl": "https://yayc.tfnlab.com/images/2268.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2269": {
+    "imgurl": "https://yayc.tfnlab.com/images/2269.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2270": {
+    "imgurl": "https://yayc.tfnlab.com/images/2270.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2271": {
+    "imgurl": "https://yayc.tfnlab.com/images/2271.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2272": {
+    "imgurl": "https://yayc.tfnlab.com/images/2272.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2273": {
+    "imgurl": "https://yayc.tfnlab.com/images/2273.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2274": {
+    "imgurl": "https://yayc.tfnlab.com/images/2274.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2275": {
+    "imgurl": "https://yayc.tfnlab.com/images/2275.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2276": {
+    "imgurl": "https://yayc.tfnlab.com/images/2276.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2277": {
+    "imgurl": "https://yayc.tfnlab.com/images/2277.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2278": {
+    "imgurl": "https://yayc.tfnlab.com/images/2278.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2279": {
+    "imgurl": "https://yayc.tfnlab.com/images/2279.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2280": {
+    "imgurl": "https://yayc.tfnlab.com/images/2280.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2281": {
+    "imgurl": "https://yayc.tfnlab.com/images/2281.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2282": {
+    "imgurl": "https://yayc.tfnlab.com/images/2282.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2283": {
+    "imgurl": "https://yayc.tfnlab.com/images/2283.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2284": {
+    "imgurl": "https://yayc.tfnlab.com/images/2284.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2285": {
+    "imgurl": "https://yayc.tfnlab.com/images/2285.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2286": {
+    "imgurl": "https://yayc.tfnlab.com/images/2286.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2287": {
+    "imgurl": "https://yayc.tfnlab.com/images/2287.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2288": {
+    "imgurl": "https://yayc.tfnlab.com/images/2288.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2289": {
+    "imgurl": "https://yayc.tfnlab.com/images/2289.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2290": {
+    "imgurl": "https://yayc.tfnlab.com/images/2290.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2291": {
+    "imgurl": "https://yayc.tfnlab.com/images/2291.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2292": {
+    "imgurl": "https://yayc.tfnlab.com/images/2292.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2293": {
+    "imgurl": "https://yayc.tfnlab.com/images/2293.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2294": {
+    "imgurl": "https://yayc.tfnlab.com/images/2294.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2295": {
+    "imgurl": "https://yayc.tfnlab.com/images/2295.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2296": {
+    "imgurl": "https://yayc.tfnlab.com/images/2296.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2297": {
+    "imgurl": "https://yayc.tfnlab.com/images/2297.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2298": {
+    "imgurl": "https://yayc.tfnlab.com/images/2298.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2299": {
+    "imgurl": "https://yayc.tfnlab.com/images/2299.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2300": {
+    "imgurl": "https://yayc.tfnlab.com/images/2300.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2301": {
+    "imgurl": "https://yayc.tfnlab.com/images/2301.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2302": {
+    "imgurl": "https://yayc.tfnlab.com/images/2302.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2303": {
+    "imgurl": "https://yayc.tfnlab.com/images/2303.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2304": {
+    "imgurl": "https://yayc.tfnlab.com/images/2304.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2305": {
+    "imgurl": "https://yayc.tfnlab.com/images/2305.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2306": {
+    "imgurl": "https://yayc.tfnlab.com/images/2306.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2307": {
+    "imgurl": "https://yayc.tfnlab.com/images/2307.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2308": {
+    "imgurl": "https://yayc.tfnlab.com/images/2308.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2309": {
+    "imgurl": "https://yayc.tfnlab.com/images/2309.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2310": {
+    "imgurl": "https://yayc.tfnlab.com/images/2310.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2311": {
+    "imgurl": "https://yayc.tfnlab.com/images/2311.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2312": {
+    "imgurl": "https://yayc.tfnlab.com/images/2312.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2313": {
+    "imgurl": "https://yayc.tfnlab.com/images/2313.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2314": {
+    "imgurl": "https://yayc.tfnlab.com/images/2314.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2315": {
+    "imgurl": "https://yayc.tfnlab.com/images/2315.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2316": {
+    "imgurl": "https://yayc.tfnlab.com/images/2316.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2317": {
+    "imgurl": "https://yayc.tfnlab.com/images/2317.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2318": {
+    "imgurl": "https://yayc.tfnlab.com/images/2318.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2319": {
+    "imgurl": "https://yayc.tfnlab.com/images/2319.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2320": {
+    "imgurl": "https://yayc.tfnlab.com/images/2320.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2321": {
+    "imgurl": "https://yayc.tfnlab.com/images/2321.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2322": {
+    "imgurl": "https://yayc.tfnlab.com/images/2322.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2323": {
+    "imgurl": "https://yayc.tfnlab.com/images/2323.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2324": {
+    "imgurl": "https://yayc.tfnlab.com/images/2324.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2325": {
+    "imgurl": "https://yayc.tfnlab.com/images/2325.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2326": {
+    "imgurl": "https://yayc.tfnlab.com/images/2326.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2327": {
+    "imgurl": "https://yayc.tfnlab.com/images/2327.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2328": {
+    "imgurl": "https://yayc.tfnlab.com/images/2328.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2329": {
+    "imgurl": "https://yayc.tfnlab.com/images/2329.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2330": {
+    "imgurl": "https://yayc.tfnlab.com/images/2330.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2331": {
+    "imgurl": "https://yayc.tfnlab.com/images/2331.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2332": {
+    "imgurl": "https://yayc.tfnlab.com/images/2332.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2333": {
+    "imgurl": "https://yayc.tfnlab.com/images/2333.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2334": {
+    "imgurl": "https://yayc.tfnlab.com/images/2334.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2335": {
+    "imgurl": "https://yayc.tfnlab.com/images/2335.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2336": {
+    "imgurl": "https://yayc.tfnlab.com/images/2336.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2337": {
+    "imgurl": "https://yayc.tfnlab.com/images/2337.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2338": {
+    "imgurl": "https://yayc.tfnlab.com/images/2338.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2339": {
+    "imgurl": "https://yayc.tfnlab.com/images/2339.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2340": {
+    "imgurl": "https://yayc.tfnlab.com/images/2340.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2341": {
+    "imgurl": "https://yayc.tfnlab.com/images/2341.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2342": {
+    "imgurl": "https://yayc.tfnlab.com/images/2342.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2343": {
+    "imgurl": "https://yayc.tfnlab.com/images/2343.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2344": {
+    "imgurl": "https://yayc.tfnlab.com/images/2344.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2345": {
+    "imgurl": "https://yayc.tfnlab.com/images/2345.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2346": {
+    "imgurl": "https://yayc.tfnlab.com/images/2346.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2347": {
+    "imgurl": "https://yayc.tfnlab.com/images/2347.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2348": {
+    "imgurl": "https://yayc.tfnlab.com/images/2348.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2349": {
+    "imgurl": "https://yayc.tfnlab.com/images/2349.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2350": {
+    "imgurl": "https://yayc.tfnlab.com/images/2350.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2351": {
+    "imgurl": "https://yayc.tfnlab.com/images/2351.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2352": {
+    "imgurl": "https://yayc.tfnlab.com/images/2352.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2353": {
+    "imgurl": "https://yayc.tfnlab.com/images/2353.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2354": {
+    "imgurl": "https://yayc.tfnlab.com/images/2354.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2355": {
+    "imgurl": "https://yayc.tfnlab.com/images/2355.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2356": {
+    "imgurl": "https://yayc.tfnlab.com/images/2356.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2357": {
+    "imgurl": "https://yayc.tfnlab.com/images/2357.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2358": {
+    "imgurl": "https://yayc.tfnlab.com/images/2358.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2359": {
+    "imgurl": "https://yayc.tfnlab.com/images/2359.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2360": {
+    "imgurl": "https://yayc.tfnlab.com/images/2360.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2361": {
+    "imgurl": "https://yayc.tfnlab.com/images/2361.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2362": {
+    "imgurl": "https://yayc.tfnlab.com/images/2362.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2363": {
+    "imgurl": "https://yayc.tfnlab.com/images/2363.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2364": {
+    "imgurl": "https://yayc.tfnlab.com/images/2364.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2365": {
+    "imgurl": "https://yayc.tfnlab.com/images/2365.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2366": {
+    "imgurl": "https://yayc.tfnlab.com/images/2366.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2367": {
+    "imgurl": "https://yayc.tfnlab.com/images/2367.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2368": {
+    "imgurl": "https://yayc.tfnlab.com/images/2368.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2369": {
+    "imgurl": "https://yayc.tfnlab.com/images/2369.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2370": {
+    "imgurl": "https://yayc.tfnlab.com/images/2370.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2371": {
+    "imgurl": "https://yayc.tfnlab.com/images/2371.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2372": {
+    "imgurl": "https://yayc.tfnlab.com/images/2372.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2373": {
+    "imgurl": "https://yayc.tfnlab.com/images/2373.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2374": {
+    "imgurl": "https://yayc.tfnlab.com/images/2374.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2375": {
+    "imgurl": "https://yayc.tfnlab.com/images/2375.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2376": {
+    "imgurl": "https://yayc.tfnlab.com/images/2376.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2377": {
+    "imgurl": "https://yayc.tfnlab.com/images/2377.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2378": {
+    "imgurl": "https://yayc.tfnlab.com/images/2378.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2379": {
+    "imgurl": "https://yayc.tfnlab.com/images/2379.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2380": {
+    "imgurl": "https://yayc.tfnlab.com/images/2380.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2381": {
+    "imgurl": "https://yayc.tfnlab.com/images/2381.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2382": {
+    "imgurl": "https://yayc.tfnlab.com/images/2382.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2383": {
+    "imgurl": "https://yayc.tfnlab.com/images/2383.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2384": {
+    "imgurl": "https://yayc.tfnlab.com/images/2384.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2385": {
+    "imgurl": "https://yayc.tfnlab.com/images/2385.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2386": {
+    "imgurl": "https://yayc.tfnlab.com/images/2386.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2387": {
+    "imgurl": "https://yayc.tfnlab.com/images/2387.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2388": {
+    "imgurl": "https://yayc.tfnlab.com/images/2388.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2389": {
+    "imgurl": "https://yayc.tfnlab.com/images/2389.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2390": {
+    "imgurl": "https://yayc.tfnlab.com/images/2390.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2391": {
+    "imgurl": "https://yayc.tfnlab.com/images/2391.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2392": {
+    "imgurl": "https://yayc.tfnlab.com/images/2392.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2393": {
+    "imgurl": "https://yayc.tfnlab.com/images/2393.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2394": {
+    "imgurl": "https://yayc.tfnlab.com/images/2394.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2395": {
+    "imgurl": "https://yayc.tfnlab.com/images/2395.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2396": {
+    "imgurl": "https://yayc.tfnlab.com/images/2396.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2397": {
+    "imgurl": "https://yayc.tfnlab.com/images/2397.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2398": {
+    "imgurl": "https://yayc.tfnlab.com/images/2398.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2399": {
+    "imgurl": "https://yayc.tfnlab.com/images/2399.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2400": {
+    "imgurl": "https://yayc.tfnlab.com/images/2400.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2401": {
+    "imgurl": "https://yayc.tfnlab.com/images/2401.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2402": {
+    "imgurl": "https://yayc.tfnlab.com/images/2402.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2403": {
+    "imgurl": "https://yayc.tfnlab.com/images/2403.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2404": {
+    "imgurl": "https://yayc.tfnlab.com/images/2404.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2405": {
+    "imgurl": "https://yayc.tfnlab.com/images/2405.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2406": {
+    "imgurl": "https://yayc.tfnlab.com/images/2406.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2407": {
+    "imgurl": "https://yayc.tfnlab.com/images/2407.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2408": {
+    "imgurl": "https://yayc.tfnlab.com/images/2408.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2409": {
+    "imgurl": "https://yayc.tfnlab.com/images/2409.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2410": {
+    "imgurl": "https://yayc.tfnlab.com/images/2410.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2411": {
+    "imgurl": "https://yayc.tfnlab.com/images/2411.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2412": {
+    "imgurl": "https://yayc.tfnlab.com/images/2412.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2413": {
+    "imgurl": "https://yayc.tfnlab.com/images/2413.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2414": {
+    "imgurl": "https://yayc.tfnlab.com/images/2414.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2415": {
+    "imgurl": "https://yayc.tfnlab.com/images/2415.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2416": {
+    "imgurl": "https://yayc.tfnlab.com/images/2416.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2417": {
+    "imgurl": "https://yayc.tfnlab.com/images/2417.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2418": {
+    "imgurl": "https://yayc.tfnlab.com/images/2418.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2419": {
+    "imgurl": "https://yayc.tfnlab.com/images/2419.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2420": {
+    "imgurl": "https://yayc.tfnlab.com/images/2420.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2421": {
+    "imgurl": "https://yayc.tfnlab.com/images/2421.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2422": {
+    "imgurl": "https://yayc.tfnlab.com/images/2422.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2423": {
+    "imgurl": "https://yayc.tfnlab.com/images/2423.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2424": {
+    "imgurl": "https://yayc.tfnlab.com/images/2424.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2425": {
+    "imgurl": "https://yayc.tfnlab.com/images/2425.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2426": {
+    "imgurl": "https://yayc.tfnlab.com/images/2426.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2427": {
+    "imgurl": "https://yayc.tfnlab.com/images/2427.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2428": {
+    "imgurl": "https://yayc.tfnlab.com/images/2428.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2429": {
+    "imgurl": "https://yayc.tfnlab.com/images/2429.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2430": {
+    "imgurl": "https://yayc.tfnlab.com/images/2430.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2431": {
+    "imgurl": "https://yayc.tfnlab.com/images/2431.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2432": {
+    "imgurl": "https://yayc.tfnlab.com/images/2432.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2433": {
+    "imgurl": "https://yayc.tfnlab.com/images/2433.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2434": {
+    "imgurl": "https://yayc.tfnlab.com/images/2434.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2435": {
+    "imgurl": "https://yayc.tfnlab.com/images/2435.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2436": {
+    "imgurl": "https://yayc.tfnlab.com/images/2436.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2437": {
+    "imgurl": "https://yayc.tfnlab.com/images/2437.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2438": {
+    "imgurl": "https://yayc.tfnlab.com/images/2438.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2439": {
+    "imgurl": "https://yayc.tfnlab.com/images/2439.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2440": {
+    "imgurl": "https://yayc.tfnlab.com/images/2440.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2441": {
+    "imgurl": "https://yayc.tfnlab.com/images/2441.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2442": {
+    "imgurl": "https://yayc.tfnlab.com/images/2442.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2443": {
+    "imgurl": "https://yayc.tfnlab.com/images/2443.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2444": {
+    "imgurl": "https://yayc.tfnlab.com/images/2444.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2445": {
+    "imgurl": "https://yayc.tfnlab.com/images/2445.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2446": {
+    "imgurl": "https://yayc.tfnlab.com/images/2446.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2447": {
+    "imgurl": "https://yayc.tfnlab.com/images/2447.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2448": {
+    "imgurl": "https://yayc.tfnlab.com/images/2448.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2449": {
+    "imgurl": "https://yayc.tfnlab.com/images/2449.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2450": {
+    "imgurl": "https://yayc.tfnlab.com/images/2450.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2451": {
+    "imgurl": "https://yayc.tfnlab.com/images/2451.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2452": {
+    "imgurl": "https://yayc.tfnlab.com/images/2452.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2453": {
+    "imgurl": "https://yayc.tfnlab.com/images/2453.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2454": {
+    "imgurl": "https://yayc.tfnlab.com/images/2454.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2455": {
+    "imgurl": "https://yayc.tfnlab.com/images/2455.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2456": {
+    "imgurl": "https://yayc.tfnlab.com/images/2456.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2457": {
+    "imgurl": "https://yayc.tfnlab.com/images/2457.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2458": {
+    "imgurl": "https://yayc.tfnlab.com/images/2458.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2459": {
+    "imgurl": "https://yayc.tfnlab.com/images/2459.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2460": {
+    "imgurl": "https://yayc.tfnlab.com/images/2460.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2461": {
+    "imgurl": "https://yayc.tfnlab.com/images/2461.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2462": {
+    "imgurl": "https://yayc.tfnlab.com/images/2462.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2463": {
+    "imgurl": "https://yayc.tfnlab.com/images/2463.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2464": {
+    "imgurl": "https://yayc.tfnlab.com/images/2464.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2465": {
+    "imgurl": "https://yayc.tfnlab.com/images/2465.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2466": {
+    "imgurl": "https://yayc.tfnlab.com/images/2466.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2467": {
+    "imgurl": "https://yayc.tfnlab.com/images/2467.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2468": {
+    "imgurl": "https://yayc.tfnlab.com/images/2468.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2469": {
+    "imgurl": "https://yayc.tfnlab.com/images/2469.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2470": {
+    "imgurl": "https://yayc.tfnlab.com/images/2470.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2471": {
+    "imgurl": "https://yayc.tfnlab.com/images/2471.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2472": {
+    "imgurl": "https://yayc.tfnlab.com/images/2472.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2473": {
+    "imgurl": "https://yayc.tfnlab.com/images/2473.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2474": {
+    "imgurl": "https://yayc.tfnlab.com/images/2474.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2475": {
+    "imgurl": "https://yayc.tfnlab.com/images/2475.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2476": {
+    "imgurl": "https://yayc.tfnlab.com/images/2476.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2477": {
+    "imgurl": "https://yayc.tfnlab.com/images/2477.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2478": {
+    "imgurl": "https://yayc.tfnlab.com/images/2478.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2479": {
+    "imgurl": "https://yayc.tfnlab.com/images/2479.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2480": {
+    "imgurl": "https://yayc.tfnlab.com/images/2480.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2481": {
+    "imgurl": "https://yayc.tfnlab.com/images/2481.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2482": {
+    "imgurl": "https://yayc.tfnlab.com/images/2482.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2483": {
+    "imgurl": "https://yayc.tfnlab.com/images/2483.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2484": {
+    "imgurl": "https://yayc.tfnlab.com/images/2484.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2485": {
+    "imgurl": "https://yayc.tfnlab.com/images/2485.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2486": {
+    "imgurl": "https://yayc.tfnlab.com/images/2486.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2487": {
+    "imgurl": "https://yayc.tfnlab.com/images/2487.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2488": {
+    "imgurl": "https://yayc.tfnlab.com/images/2488.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2489": {
+    "imgurl": "https://yayc.tfnlab.com/images/2489.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2490": {
+    "imgurl": "https://yayc.tfnlab.com/images/2490.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2491": {
+    "imgurl": "https://yayc.tfnlab.com/images/2491.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2492": {
+    "imgurl": "https://yayc.tfnlab.com/images/2492.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2493": {
+    "imgurl": "https://yayc.tfnlab.com/images/2493.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2494": {
+    "imgurl": "https://yayc.tfnlab.com/images/2494.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2495": {
+    "imgurl": "https://yayc.tfnlab.com/images/2495.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2496": {
+    "imgurl": "https://yayc.tfnlab.com/images/2496.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2497": {
+    "imgurl": "https://yayc.tfnlab.com/images/2497.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2498": {
+    "imgurl": "https://yayc.tfnlab.com/images/2498.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2499": {
+    "imgurl": "https://yayc.tfnlab.com/images/2499.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2500": {
+    "imgurl": "https://yayc.tfnlab.com/images/2500.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2501": {
+    "imgurl": "https://yayc.tfnlab.com/images/2501.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2502": {
+    "imgurl": "https://yayc.tfnlab.com/images/2502.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2503": {
+    "imgurl": "https://yayc.tfnlab.com/images/2503.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2504": {
+    "imgurl": "https://yayc.tfnlab.com/images/2504.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2505": {
+    "imgurl": "https://yayc.tfnlab.com/images/2505.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2506": {
+    "imgurl": "https://yayc.tfnlab.com/images/2506.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2507": {
+    "imgurl": "https://yayc.tfnlab.com/images/2507.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2508": {
+    "imgurl": "https://yayc.tfnlab.com/images/2508.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2509": {
+    "imgurl": "https://yayc.tfnlab.com/images/2509.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2510": {
+    "imgurl": "https://yayc.tfnlab.com/images/2510.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2511": {
+    "imgurl": "https://yayc.tfnlab.com/images/2511.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2512": {
+    "imgurl": "https://yayc.tfnlab.com/images/2512.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2513": {
+    "imgurl": "https://yayc.tfnlab.com/images/2513.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2514": {
+    "imgurl": "https://yayc.tfnlab.com/images/2514.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2515": {
+    "imgurl": "https://yayc.tfnlab.com/images/2515.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2516": {
+    "imgurl": "https://yayc.tfnlab.com/images/2516.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2517": {
+    "imgurl": "https://yayc.tfnlab.com/images/2517.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2518": {
+    "imgurl": "https://yayc.tfnlab.com/images/2518.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2519": {
+    "imgurl": "https://yayc.tfnlab.com/images/2519.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2520": {
+    "imgurl": "https://yayc.tfnlab.com/images/2520.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2521": {
+    "imgurl": "https://yayc.tfnlab.com/images/2521.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2522": {
+    "imgurl": "https://yayc.tfnlab.com/images/2522.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2523": {
+    "imgurl": "https://yayc.tfnlab.com/images/2523.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2524": {
+    "imgurl": "https://yayc.tfnlab.com/images/2524.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2525": {
+    "imgurl": "https://yayc.tfnlab.com/images/2525.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2526": {
+    "imgurl": "https://yayc.tfnlab.com/images/2526.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2527": {
+    "imgurl": "https://yayc.tfnlab.com/images/2527.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2528": {
+    "imgurl": "https://yayc.tfnlab.com/images/2528.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2529": {
+    "imgurl": "https://yayc.tfnlab.com/images/2529.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2530": {
+    "imgurl": "https://yayc.tfnlab.com/images/2530.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2531": {
+    "imgurl": "https://yayc.tfnlab.com/images/2531.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2532": {
+    "imgurl": "https://yayc.tfnlab.com/images/2532.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2533": {
+    "imgurl": "https://yayc.tfnlab.com/images/2533.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2534": {
+    "imgurl": "https://yayc.tfnlab.com/images/2534.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2535": {
+    "imgurl": "https://yayc.tfnlab.com/images/2535.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2536": {
+    "imgurl": "https://yayc.tfnlab.com/images/2536.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2537": {
+    "imgurl": "https://yayc.tfnlab.com/images/2537.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2538": {
+    "imgurl": "https://yayc.tfnlab.com/images/2538.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2539": {
+    "imgurl": "https://yayc.tfnlab.com/images/2539.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2540": {
+    "imgurl": "https://yayc.tfnlab.com/images/2540.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2541": {
+    "imgurl": "https://yayc.tfnlab.com/images/2541.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2542": {
+    "imgurl": "https://yayc.tfnlab.com/images/2542.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2543": {
+    "imgurl": "https://yayc.tfnlab.com/images/2543.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2544": {
+    "imgurl": "https://yayc.tfnlab.com/images/2544.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2545": {
+    "imgurl": "https://yayc.tfnlab.com/images/2545.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2546": {
+    "imgurl": "https://yayc.tfnlab.com/images/2546.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2547": {
+    "imgurl": "https://yayc.tfnlab.com/images/2547.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2548": {
+    "imgurl": "https://yayc.tfnlab.com/images/2548.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2549": {
+    "imgurl": "https://yayc.tfnlab.com/images/2549.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2550": {
+    "imgurl": "https://yayc.tfnlab.com/images/2550.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2551": {
+    "imgurl": "https://yayc.tfnlab.com/images/2551.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2552": {
+    "imgurl": "https://yayc.tfnlab.com/images/2552.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2553": {
+    "imgurl": "https://yayc.tfnlab.com/images/2553.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2554": {
+    "imgurl": "https://yayc.tfnlab.com/images/2554.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2555": {
+    "imgurl": "https://yayc.tfnlab.com/images/2555.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2556": {
+    "imgurl": "https://yayc.tfnlab.com/images/2556.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2557": {
+    "imgurl": "https://yayc.tfnlab.com/images/2557.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2558": {
+    "imgurl": "https://yayc.tfnlab.com/images/2558.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2559": {
+    "imgurl": "https://yayc.tfnlab.com/images/2559.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2560": {
+    "imgurl": "https://yayc.tfnlab.com/images/2560.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2561": {
+    "imgurl": "https://yayc.tfnlab.com/images/2561.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2562": {
+    "imgurl": "https://yayc.tfnlab.com/images/2562.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2563": {
+    "imgurl": "https://yayc.tfnlab.com/images/2563.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2564": {
+    "imgurl": "https://yayc.tfnlab.com/images/2564.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2565": {
+    "imgurl": "https://yayc.tfnlab.com/images/2565.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2566": {
+    "imgurl": "https://yayc.tfnlab.com/images/2566.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2567": {
+    "imgurl": "https://yayc.tfnlab.com/images/2567.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2568": {
+    "imgurl": "https://yayc.tfnlab.com/images/2568.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2569": {
+    "imgurl": "https://yayc.tfnlab.com/images/2569.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2570": {
+    "imgurl": "https://yayc.tfnlab.com/images/2570.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2571": {
+    "imgurl": "https://yayc.tfnlab.com/images/2571.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2572": {
+    "imgurl": "https://yayc.tfnlab.com/images/2572.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2573": {
+    "imgurl": "https://yayc.tfnlab.com/images/2573.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2574": {
+    "imgurl": "https://yayc.tfnlab.com/images/2574.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2575": {
+    "imgurl": "https://yayc.tfnlab.com/images/2575.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2576": {
+    "imgurl": "https://yayc.tfnlab.com/images/2576.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2577": {
+    "imgurl": "https://yayc.tfnlab.com/images/2577.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2578": {
+    "imgurl": "https://yayc.tfnlab.com/images/2578.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2579": {
+    "imgurl": "https://yayc.tfnlab.com/images/2579.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2580": {
+    "imgurl": "https://yayc.tfnlab.com/images/2580.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2581": {
+    "imgurl": "https://yayc.tfnlab.com/images/2581.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2582": {
+    "imgurl": "https://yayc.tfnlab.com/images/2582.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2583": {
+    "imgurl": "https://yayc.tfnlab.com/images/2583.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2584": {
+    "imgurl": "https://yayc.tfnlab.com/images/2584.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2585": {
+    "imgurl": "https://yayc.tfnlab.com/images/2585.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2586": {
+    "imgurl": "https://yayc.tfnlab.com/images/2586.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2587": {
+    "imgurl": "https://yayc.tfnlab.com/images/2587.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2588": {
+    "imgurl": "https://yayc.tfnlab.com/images/2588.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2589": {
+    "imgurl": "https://yayc.tfnlab.com/images/2589.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2590": {
+    "imgurl": "https://yayc.tfnlab.com/images/2590.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2591": {
+    "imgurl": "https://yayc.tfnlab.com/images/2591.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2592": {
+    "imgurl": "https://yayc.tfnlab.com/images/2592.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2593": {
+    "imgurl": "https://yayc.tfnlab.com/images/2593.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2594": {
+    "imgurl": "https://yayc.tfnlab.com/images/2594.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2595": {
+    "imgurl": "https://yayc.tfnlab.com/images/2595.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2596": {
+    "imgurl": "https://yayc.tfnlab.com/images/2596.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2597": {
+    "imgurl": "https://yayc.tfnlab.com/images/2597.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2598": {
+    "imgurl": "https://yayc.tfnlab.com/images/2598.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2599": {
+    "imgurl": "https://yayc.tfnlab.com/images/2599.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2600": {
+    "imgurl": "https://yayc.tfnlab.com/images/2600.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2601": {
+    "imgurl": "https://yayc.tfnlab.com/images/2601.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2602": {
+    "imgurl": "https://yayc.tfnlab.com/images/2602.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2603": {
+    "imgurl": "https://yayc.tfnlab.com/images/2603.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2604": {
+    "imgurl": "https://yayc.tfnlab.com/images/2604.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2605": {
+    "imgurl": "https://yayc.tfnlab.com/images/2605.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2606": {
+    "imgurl": "https://yayc.tfnlab.com/images/2606.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2607": {
+    "imgurl": "https://yayc.tfnlab.com/images/2607.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2608": {
+    "imgurl": "https://yayc.tfnlab.com/images/2608.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2609": {
+    "imgurl": "https://yayc.tfnlab.com/images/2609.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2610": {
+    "imgurl": "https://yayc.tfnlab.com/images/2610.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2611": {
+    "imgurl": "https://yayc.tfnlab.com/images/2611.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2612": {
+    "imgurl": "https://yayc.tfnlab.com/images/2612.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2613": {
+    "imgurl": "https://yayc.tfnlab.com/images/2613.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2614": {
+    "imgurl": "https://yayc.tfnlab.com/images/2614.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2615": {
+    "imgurl": "https://yayc.tfnlab.com/images/2615.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2616": {
+    "imgurl": "https://yayc.tfnlab.com/images/2616.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2617": {
+    "imgurl": "https://yayc.tfnlab.com/images/2617.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2618": {
+    "imgurl": "https://yayc.tfnlab.com/images/2618.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2619": {
+    "imgurl": "https://yayc.tfnlab.com/images/2619.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2620": {
+    "imgurl": "https://yayc.tfnlab.com/images/2620.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2621": {
+    "imgurl": "https://yayc.tfnlab.com/images/2621.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2622": {
+    "imgurl": "https://yayc.tfnlab.com/images/2622.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2623": {
+    "imgurl": "https://yayc.tfnlab.com/images/2623.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2624": {
+    "imgurl": "https://yayc.tfnlab.com/images/2624.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2625": {
+    "imgurl": "https://yayc.tfnlab.com/images/2625.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2626": {
+    "imgurl": "https://yayc.tfnlab.com/images/2626.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2627": {
+    "imgurl": "https://yayc.tfnlab.com/images/2627.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2628": {
+    "imgurl": "https://yayc.tfnlab.com/images/2628.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2629": {
+    "imgurl": "https://yayc.tfnlab.com/images/2629.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2630": {
+    "imgurl": "https://yayc.tfnlab.com/images/2630.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2631": {
+    "imgurl": "https://yayc.tfnlab.com/images/2631.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2632": {
+    "imgurl": "https://yayc.tfnlab.com/images/2632.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2633": {
+    "imgurl": "https://yayc.tfnlab.com/images/2633.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2634": {
+    "imgurl": "https://yayc.tfnlab.com/images/2634.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2635": {
+    "imgurl": "https://yayc.tfnlab.com/images/2635.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2636": {
+    "imgurl": "https://yayc.tfnlab.com/images/2636.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2637": {
+    "imgurl": "https://yayc.tfnlab.com/images/2637.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2638": {
+    "imgurl": "https://yayc.tfnlab.com/images/2638.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2639": {
+    "imgurl": "https://yayc.tfnlab.com/images/2639.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2640": {
+    "imgurl": "https://yayc.tfnlab.com/images/2640.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2641": {
+    "imgurl": "https://yayc.tfnlab.com/images/2641.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2642": {
+    "imgurl": "https://yayc.tfnlab.com/images/2642.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2643": {
+    "imgurl": "https://yayc.tfnlab.com/images/2643.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2644": {
+    "imgurl": "https://yayc.tfnlab.com/images/2644.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2645": {
+    "imgurl": "https://yayc.tfnlab.com/images/2645.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2646": {
+    "imgurl": "https://yayc.tfnlab.com/images/2646.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2647": {
+    "imgurl": "https://yayc.tfnlab.com/images/2647.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2648": {
+    "imgurl": "https://yayc.tfnlab.com/images/2648.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2649": {
+    "imgurl": "https://yayc.tfnlab.com/images/2649.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2650": {
+    "imgurl": "https://yayc.tfnlab.com/images/2650.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2651": {
+    "imgurl": "https://yayc.tfnlab.com/images/2651.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2652": {
+    "imgurl": "https://yayc.tfnlab.com/images/2652.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2653": {
+    "imgurl": "https://yayc.tfnlab.com/images/2653.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2654": {
+    "imgurl": "https://yayc.tfnlab.com/images/2654.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2655": {
+    "imgurl": "https://yayc.tfnlab.com/images/2655.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2656": {
+    "imgurl": "https://yayc.tfnlab.com/images/2656.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2657": {
+    "imgurl": "https://yayc.tfnlab.com/images/2657.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2658": {
+    "imgurl": "https://yayc.tfnlab.com/images/2658.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2659": {
+    "imgurl": "https://yayc.tfnlab.com/images/2659.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2660": {
+    "imgurl": "https://yayc.tfnlab.com/images/2660.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2661": {
+    "imgurl": "https://yayc.tfnlab.com/images/2661.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2662": {
+    "imgurl": "https://yayc.tfnlab.com/images/2662.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2663": {
+    "imgurl": "https://yayc.tfnlab.com/images/2663.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2664": {
+    "imgurl": "https://yayc.tfnlab.com/images/2664.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2665": {
+    "imgurl": "https://yayc.tfnlab.com/images/2665.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2666": {
+    "imgurl": "https://yayc.tfnlab.com/images/2666.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2667": {
+    "imgurl": "https://yayc.tfnlab.com/images/2667.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2668": {
+    "imgurl": "https://yayc.tfnlab.com/images/2668.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2669": {
+    "imgurl": "https://yayc.tfnlab.com/images/2669.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2670": {
+    "imgurl": "https://yayc.tfnlab.com/images/2670.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2671": {
+    "imgurl": "https://yayc.tfnlab.com/images/2671.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2672": {
+    "imgurl": "https://yayc.tfnlab.com/images/2672.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2673": {
+    "imgurl": "https://yayc.tfnlab.com/images/2673.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2674": {
+    "imgurl": "https://yayc.tfnlab.com/images/2674.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2675": {
+    "imgurl": "https://yayc.tfnlab.com/images/2675.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2676": {
+    "imgurl": "https://yayc.tfnlab.com/images/2676.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2677": {
+    "imgurl": "https://yayc.tfnlab.com/images/2677.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2678": {
+    "imgurl": "https://yayc.tfnlab.com/images/2678.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2679": {
+    "imgurl": "https://yayc.tfnlab.com/images/2679.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2680": {
+    "imgurl": "https://yayc.tfnlab.com/images/2680.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2681": {
+    "imgurl": "https://yayc.tfnlab.com/images/2681.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2682": {
+    "imgurl": "https://yayc.tfnlab.com/images/2682.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2683": {
+    "imgurl": "https://yayc.tfnlab.com/images/2683.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2684": {
+    "imgurl": "https://yayc.tfnlab.com/images/2684.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2685": {
+    "imgurl": "https://yayc.tfnlab.com/images/2685.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2686": {
+    "imgurl": "https://yayc.tfnlab.com/images/2686.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2687": {
+    "imgurl": "https://yayc.tfnlab.com/images/2687.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2688": {
+    "imgurl": "https://yayc.tfnlab.com/images/2688.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2689": {
+    "imgurl": "https://yayc.tfnlab.com/images/2689.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2690": {
+    "imgurl": "https://yayc.tfnlab.com/images/2690.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2691": {
+    "imgurl": "https://yayc.tfnlab.com/images/2691.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2692": {
+    "imgurl": "https://yayc.tfnlab.com/images/2692.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2693": {
+    "imgurl": "https://yayc.tfnlab.com/images/2693.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2694": {
+    "imgurl": "https://yayc.tfnlab.com/images/2694.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2695": {
+    "imgurl": "https://yayc.tfnlab.com/images/2695.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2696": {
+    "imgurl": "https://yayc.tfnlab.com/images/2696.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2697": {
+    "imgurl": "https://yayc.tfnlab.com/images/2697.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2698": {
+    "imgurl": "https://yayc.tfnlab.com/images/2698.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2699": {
+    "imgurl": "https://yayc.tfnlab.com/images/2699.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2700": {
+    "imgurl": "https://yayc.tfnlab.com/images/2700.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2701": {
+    "imgurl": "https://yayc.tfnlab.com/images/2701.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2702": {
+    "imgurl": "https://yayc.tfnlab.com/images/2702.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2703": {
+    "imgurl": "https://yayc.tfnlab.com/images/2703.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2704": {
+    "imgurl": "https://yayc.tfnlab.com/images/2704.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2705": {
+    "imgurl": "https://yayc.tfnlab.com/images/2705.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2706": {
+    "imgurl": "https://yayc.tfnlab.com/images/2706.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2707": {
+    "imgurl": "https://yayc.tfnlab.com/images/2707.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2708": {
+    "imgurl": "https://yayc.tfnlab.com/images/2708.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2709": {
+    "imgurl": "https://yayc.tfnlab.com/images/2709.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2710": {
+    "imgurl": "https://yayc.tfnlab.com/images/2710.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2711": {
+    "imgurl": "https://yayc.tfnlab.com/images/2711.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2712": {
+    "imgurl": "https://yayc.tfnlab.com/images/2712.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2713": {
+    "imgurl": "https://yayc.tfnlab.com/images/2713.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2714": {
+    "imgurl": "https://yayc.tfnlab.com/images/2714.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2715": {
+    "imgurl": "https://yayc.tfnlab.com/images/2715.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2716": {
+    "imgurl": "https://yayc.tfnlab.com/images/2716.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2717": {
+    "imgurl": "https://yayc.tfnlab.com/images/2717.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2718": {
+    "imgurl": "https://yayc.tfnlab.com/images/2718.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2719": {
+    "imgurl": "https://yayc.tfnlab.com/images/2719.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2720": {
+    "imgurl": "https://yayc.tfnlab.com/images/2720.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2721": {
+    "imgurl": "https://yayc.tfnlab.com/images/2721.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2722": {
+    "imgurl": "https://yayc.tfnlab.com/images/2722.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2723": {
+    "imgurl": "https://yayc.tfnlab.com/images/2723.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2724": {
+    "imgurl": "https://yayc.tfnlab.com/images/2724.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2725": {
+    "imgurl": "https://yayc.tfnlab.com/images/2725.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2726": {
+    "imgurl": "https://yayc.tfnlab.com/images/2726.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2727": {
+    "imgurl": "https://yayc.tfnlab.com/images/2727.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2728": {
+    "imgurl": "https://yayc.tfnlab.com/images/2728.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2729": {
+    "imgurl": "https://yayc.tfnlab.com/images/2729.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2730": {
+    "imgurl": "https://yayc.tfnlab.com/images/2730.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2731": {
+    "imgurl": "https://yayc.tfnlab.com/images/2731.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2732": {
+    "imgurl": "https://yayc.tfnlab.com/images/2732.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2733": {
+    "imgurl": "https://yayc.tfnlab.com/images/2733.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2734": {
+    "imgurl": "https://yayc.tfnlab.com/images/2734.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2735": {
+    "imgurl": "https://yayc.tfnlab.com/images/2735.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2736": {
+    "imgurl": "https://yayc.tfnlab.com/images/2736.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2737": {
+    "imgurl": "https://yayc.tfnlab.com/images/2737.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2738": {
+    "imgurl": "https://yayc.tfnlab.com/images/2738.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2739": {
+    "imgurl": "https://yayc.tfnlab.com/images/2739.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2740": {
+    "imgurl": "https://yayc.tfnlab.com/images/2740.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2741": {
+    "imgurl": "https://yayc.tfnlab.com/images/2741.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2742": {
+    "imgurl": "https://yayc.tfnlab.com/images/2742.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2743": {
+    "imgurl": "https://yayc.tfnlab.com/images/2743.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2744": {
+    "imgurl": "https://yayc.tfnlab.com/images/2744.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2745": {
+    "imgurl": "https://yayc.tfnlab.com/images/2745.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2746": {
+    "imgurl": "https://yayc.tfnlab.com/images/2746.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2747": {
+    "imgurl": "https://yayc.tfnlab.com/images/2747.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2748": {
+    "imgurl": "https://yayc.tfnlab.com/images/2748.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2749": {
+    "imgurl": "https://yayc.tfnlab.com/images/2749.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2750": {
+    "imgurl": "https://yayc.tfnlab.com/images/2750.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2751": {
+    "imgurl": "https://yayc.tfnlab.com/images/2751.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2752": {
+    "imgurl": "https://yayc.tfnlab.com/images/2752.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2753": {
+    "imgurl": "https://yayc.tfnlab.com/images/2753.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2754": {
+    "imgurl": "https://yayc.tfnlab.com/images/2754.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2755": {
+    "imgurl": "https://yayc.tfnlab.com/images/2755.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2756": {
+    "imgurl": "https://yayc.tfnlab.com/images/2756.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2757": {
+    "imgurl": "https://yayc.tfnlab.com/images/2757.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2758": {
+    "imgurl": "https://yayc.tfnlab.com/images/2758.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2759": {
+    "imgurl": "https://yayc.tfnlab.com/images/2759.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2760": {
+    "imgurl": "https://yayc.tfnlab.com/images/2760.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2761": {
+    "imgurl": "https://yayc.tfnlab.com/images/2761.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2762": {
+    "imgurl": "https://yayc.tfnlab.com/images/2762.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2763": {
+    "imgurl": "https://yayc.tfnlab.com/images/2763.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2764": {
+    "imgurl": "https://yayc.tfnlab.com/images/2764.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2765": {
+    "imgurl": "https://yayc.tfnlab.com/images/2765.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2766": {
+    "imgurl": "https://yayc.tfnlab.com/images/2766.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2767": {
+    "imgurl": "https://yayc.tfnlab.com/images/2767.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2768": {
+    "imgurl": "https://yayc.tfnlab.com/images/2768.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2769": {
+    "imgurl": "https://yayc.tfnlab.com/images/2769.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2770": {
+    "imgurl": "https://yayc.tfnlab.com/images/2770.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2771": {
+    "imgurl": "https://yayc.tfnlab.com/images/2771.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2772": {
+    "imgurl": "https://yayc.tfnlab.com/images/2772.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2773": {
+    "imgurl": "https://yayc.tfnlab.com/images/2773.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2774": {
+    "imgurl": "https://yayc.tfnlab.com/images/2774.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2775": {
+    "imgurl": "https://yayc.tfnlab.com/images/2775.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2776": {
+    "imgurl": "https://yayc.tfnlab.com/images/2776.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2777": {
+    "imgurl": "https://yayc.tfnlab.com/images/2777.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2778": {
+    "imgurl": "https://yayc.tfnlab.com/images/2778.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2779": {
+    "imgurl": "https://yayc.tfnlab.com/images/2779.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2780": {
+    "imgurl": "https://yayc.tfnlab.com/images/2780.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2781": {
+    "imgurl": "https://yayc.tfnlab.com/images/2781.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2782": {
+    "imgurl": "https://yayc.tfnlab.com/images/2782.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2783": {
+    "imgurl": "https://yayc.tfnlab.com/images/2783.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2784": {
+    "imgurl": "https://yayc.tfnlab.com/images/2784.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2785": {
+    "imgurl": "https://yayc.tfnlab.com/images/2785.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2786": {
+    "imgurl": "https://yayc.tfnlab.com/images/2786.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2787": {
+    "imgurl": "https://yayc.tfnlab.com/images/2787.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2788": {
+    "imgurl": "https://yayc.tfnlab.com/images/2788.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2789": {
+    "imgurl": "https://yayc.tfnlab.com/images/2789.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2790": {
+    "imgurl": "https://yayc.tfnlab.com/images/2790.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2791": {
+    "imgurl": "https://yayc.tfnlab.com/images/2791.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2792": {
+    "imgurl": "https://yayc.tfnlab.com/images/2792.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2793": {
+    "imgurl": "https://yayc.tfnlab.com/images/2793.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2794": {
+    "imgurl": "https://yayc.tfnlab.com/images/2794.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2795": {
+    "imgurl": "https://yayc.tfnlab.com/images/2795.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2796": {
+    "imgurl": "https://yayc.tfnlab.com/images/2796.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2797": {
+    "imgurl": "https://yayc.tfnlab.com/images/2797.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2798": {
+    "imgurl": "https://yayc.tfnlab.com/images/2798.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2799": {
+    "imgurl": "https://yayc.tfnlab.com/images/2799.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2800": {
+    "imgurl": "https://yayc.tfnlab.com/images/2800.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2801": {
+    "imgurl": "https://yayc.tfnlab.com/images/2801.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2802": {
+    "imgurl": "https://yayc.tfnlab.com/images/2802.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2803": {
+    "imgurl": "https://yayc.tfnlab.com/images/2803.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2804": {
+    "imgurl": "https://yayc.tfnlab.com/images/2804.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2805": {
+    "imgurl": "https://yayc.tfnlab.com/images/2805.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2806": {
+    "imgurl": "https://yayc.tfnlab.com/images/2806.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2807": {
+    "imgurl": "https://yayc.tfnlab.com/images/2807.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2808": {
+    "imgurl": "https://yayc.tfnlab.com/images/2808.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2809": {
+    "imgurl": "https://yayc.tfnlab.com/images/2809.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2810": {
+    "imgurl": "https://yayc.tfnlab.com/images/2810.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2811": {
+    "imgurl": "https://yayc.tfnlab.com/images/2811.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2812": {
+    "imgurl": "https://yayc.tfnlab.com/images/2812.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2813": {
+    "imgurl": "https://yayc.tfnlab.com/images/2813.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2814": {
+    "imgurl": "https://yayc.tfnlab.com/images/2814.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2815": {
+    "imgurl": "https://yayc.tfnlab.com/images/2815.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2816": {
+    "imgurl": "https://yayc.tfnlab.com/images/2816.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2817": {
+    "imgurl": "https://yayc.tfnlab.com/images/2817.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2818": {
+    "imgurl": "https://yayc.tfnlab.com/images/2818.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2819": {
+    "imgurl": "https://yayc.tfnlab.com/images/2819.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2820": {
+    "imgurl": "https://yayc.tfnlab.com/images/2820.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2821": {
+    "imgurl": "https://yayc.tfnlab.com/images/2821.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2822": {
+    "imgurl": "https://yayc.tfnlab.com/images/2822.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2823": {
+    "imgurl": "https://yayc.tfnlab.com/images/2823.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2824": {
+    "imgurl": "https://yayc.tfnlab.com/images/2824.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2825": {
+    "imgurl": "https://yayc.tfnlab.com/images/2825.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2826": {
+    "imgurl": "https://yayc.tfnlab.com/images/2826.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2827": {
+    "imgurl": "https://yayc.tfnlab.com/images/2827.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2828": {
+    "imgurl": "https://yayc.tfnlab.com/images/2828.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2829": {
+    "imgurl": "https://yayc.tfnlab.com/images/2829.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2830": {
+    "imgurl": "https://yayc.tfnlab.com/images/2830.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2831": {
+    "imgurl": "https://yayc.tfnlab.com/images/2831.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2832": {
+    "imgurl": "https://yayc.tfnlab.com/images/2832.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2833": {
+    "imgurl": "https://yayc.tfnlab.com/images/2833.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2834": {
+    "imgurl": "https://yayc.tfnlab.com/images/2834.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2835": {
+    "imgurl": "https://yayc.tfnlab.com/images/2835.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2836": {
+    "imgurl": "https://yayc.tfnlab.com/images/2836.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2837": {
+    "imgurl": "https://yayc.tfnlab.com/images/2837.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2838": {
+    "imgurl": "https://yayc.tfnlab.com/images/2838.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2839": {
+    "imgurl": "https://yayc.tfnlab.com/images/2839.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2840": {
+    "imgurl": "https://yayc.tfnlab.com/images/2840.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2841": {
+    "imgurl": "https://yayc.tfnlab.com/images/2841.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2842": {
+    "imgurl": "https://yayc.tfnlab.com/images/2842.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2843": {
+    "imgurl": "https://yayc.tfnlab.com/images/2843.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2844": {
+    "imgurl": "https://yayc.tfnlab.com/images/2844.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2845": {
+    "imgurl": "https://yayc.tfnlab.com/images/2845.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2846": {
+    "imgurl": "https://yayc.tfnlab.com/images/2846.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2847": {
+    "imgurl": "https://yayc.tfnlab.com/images/2847.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2848": {
+    "imgurl": "https://yayc.tfnlab.com/images/2848.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2849": {
+    "imgurl": "https://yayc.tfnlab.com/images/2849.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2850": {
+    "imgurl": "https://yayc.tfnlab.com/images/2850.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2851": {
+    "imgurl": "https://yayc.tfnlab.com/images/2851.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2852": {
+    "imgurl": "https://yayc.tfnlab.com/images/2852.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2853": {
+    "imgurl": "https://yayc.tfnlab.com/images/2853.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2854": {
+    "imgurl": "https://yayc.tfnlab.com/images/2854.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2855": {
+    "imgurl": "https://yayc.tfnlab.com/images/2855.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2856": {
+    "imgurl": "https://yayc.tfnlab.com/images/2856.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2857": {
+    "imgurl": "https://yayc.tfnlab.com/images/2857.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2858": {
+    "imgurl": "https://yayc.tfnlab.com/images/2858.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2859": {
+    "imgurl": "https://yayc.tfnlab.com/images/2859.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2860": {
+    "imgurl": "https://yayc.tfnlab.com/images/2860.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2861": {
+    "imgurl": "https://yayc.tfnlab.com/images/2861.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2862": {
+    "imgurl": "https://yayc.tfnlab.com/images/2862.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2863": {
+    "imgurl": "https://yayc.tfnlab.com/images/2863.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2864": {
+    "imgurl": "https://yayc.tfnlab.com/images/2864.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2865": {
+    "imgurl": "https://yayc.tfnlab.com/images/2865.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2866": {
+    "imgurl": "https://yayc.tfnlab.com/images/2866.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2867": {
+    "imgurl": "https://yayc.tfnlab.com/images/2867.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2868": {
+    "imgurl": "https://yayc.tfnlab.com/images/2868.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2869": {
+    "imgurl": "https://yayc.tfnlab.com/images/2869.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2870": {
+    "imgurl": "https://yayc.tfnlab.com/images/2870.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2871": {
+    "imgurl": "https://yayc.tfnlab.com/images/2871.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2872": {
+    "imgurl": "https://yayc.tfnlab.com/images/2872.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2873": {
+    "imgurl": "https://yayc.tfnlab.com/images/2873.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2874": {
+    "imgurl": "https://yayc.tfnlab.com/images/2874.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2875": {
+    "imgurl": "https://yayc.tfnlab.com/images/2875.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2876": {
+    "imgurl": "https://yayc.tfnlab.com/images/2876.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2877": {
+    "imgurl": "https://yayc.tfnlab.com/images/2877.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2878": {
+    "imgurl": "https://yayc.tfnlab.com/images/2878.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2879": {
+    "imgurl": "https://yayc.tfnlab.com/images/2879.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2880": {
+    "imgurl": "https://yayc.tfnlab.com/images/2880.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2881": {
+    "imgurl": "https://yayc.tfnlab.com/images/2881.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2882": {
+    "imgurl": "https://yayc.tfnlab.com/images/2882.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2883": {
+    "imgurl": "https://yayc.tfnlab.com/images/2883.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2884": {
+    "imgurl": "https://yayc.tfnlab.com/images/2884.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2885": {
+    "imgurl": "https://yayc.tfnlab.com/images/2885.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2886": {
+    "imgurl": "https://yayc.tfnlab.com/images/2886.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2887": {
+    "imgurl": "https://yayc.tfnlab.com/images/2887.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2888": {
+    "imgurl": "https://yayc.tfnlab.com/images/2888.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2889": {
+    "imgurl": "https://yayc.tfnlab.com/images/2889.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2890": {
+    "imgurl": "https://yayc.tfnlab.com/images/2890.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2891": {
+    "imgurl": "https://yayc.tfnlab.com/images/2891.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2892": {
+    "imgurl": "https://yayc.tfnlab.com/images/2892.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2893": {
+    "imgurl": "https://yayc.tfnlab.com/images/2893.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2894": {
+    "imgurl": "https://yayc.tfnlab.com/images/2894.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2895": {
+    "imgurl": "https://yayc.tfnlab.com/images/2895.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2896": {
+    "imgurl": "https://yayc.tfnlab.com/images/2896.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2897": {
+    "imgurl": "https://yayc.tfnlab.com/images/2897.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2898": {
+    "imgurl": "https://yayc.tfnlab.com/images/2898.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2899": {
+    "imgurl": "https://yayc.tfnlab.com/images/2899.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2900": {
+    "imgurl": "https://yayc.tfnlab.com/images/2900.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2901": {
+    "imgurl": "https://yayc.tfnlab.com/images/2901.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2902": {
+    "imgurl": "https://yayc.tfnlab.com/images/2902.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2903": {
+    "imgurl": "https://yayc.tfnlab.com/images/2903.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2904": {
+    "imgurl": "https://yayc.tfnlab.com/images/2904.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2905": {
+    "imgurl": "https://yayc.tfnlab.com/images/2905.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2906": {
+    "imgurl": "https://yayc.tfnlab.com/images/2906.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2907": {
+    "imgurl": "https://yayc.tfnlab.com/images/2907.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2908": {
+    "imgurl": "https://yayc.tfnlab.com/images/2908.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2909": {
+    "imgurl": "https://yayc.tfnlab.com/images/2909.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2910": {
+    "imgurl": "https://yayc.tfnlab.com/images/2910.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2911": {
+    "imgurl": "https://yayc.tfnlab.com/images/2911.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2912": {
+    "imgurl": "https://yayc.tfnlab.com/images/2912.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2913": {
+    "imgurl": "https://yayc.tfnlab.com/images/2913.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2914": {
+    "imgurl": "https://yayc.tfnlab.com/images/2914.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2915": {
+    "imgurl": "https://yayc.tfnlab.com/images/2915.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2916": {
+    "imgurl": "https://yayc.tfnlab.com/images/2916.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2917": {
+    "imgurl": "https://yayc.tfnlab.com/images/2917.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2918": {
+    "imgurl": "https://yayc.tfnlab.com/images/2918.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2919": {
+    "imgurl": "https://yayc.tfnlab.com/images/2919.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2920": {
+    "imgurl": "https://yayc.tfnlab.com/images/2920.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2921": {
+    "imgurl": "https://yayc.tfnlab.com/images/2921.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2922": {
+    "imgurl": "https://yayc.tfnlab.com/images/2922.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2923": {
+    "imgurl": "https://yayc.tfnlab.com/images/2923.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2924": {
+    "imgurl": "https://yayc.tfnlab.com/images/2924.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2925": {
+    "imgurl": "https://yayc.tfnlab.com/images/2925.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2926": {
+    "imgurl": "https://yayc.tfnlab.com/images/2926.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2927": {
+    "imgurl": "https://yayc.tfnlab.com/images/2927.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2928": {
+    "imgurl": "https://yayc.tfnlab.com/images/2928.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2929": {
+    "imgurl": "https://yayc.tfnlab.com/images/2929.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2930": {
+    "imgurl": "https://yayc.tfnlab.com/images/2930.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2931": {
+    "imgurl": "https://yayc.tfnlab.com/images/2931.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2932": {
+    "imgurl": "https://yayc.tfnlab.com/images/2932.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2933": {
+    "imgurl": "https://yayc.tfnlab.com/images/2933.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2934": {
+    "imgurl": "https://yayc.tfnlab.com/images/2934.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2935": {
+    "imgurl": "https://yayc.tfnlab.com/images/2935.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2936": {
+    "imgurl": "https://yayc.tfnlab.com/images/2936.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2937": {
+    "imgurl": "https://yayc.tfnlab.com/images/2937.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2938": {
+    "imgurl": "https://yayc.tfnlab.com/images/2938.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2939": {
+    "imgurl": "https://yayc.tfnlab.com/images/2939.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2940": {
+    "imgurl": "https://yayc.tfnlab.com/images/2940.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2941": {
+    "imgurl": "https://yayc.tfnlab.com/images/2941.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2942": {
+    "imgurl": "https://yayc.tfnlab.com/images/2942.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "2943": {
+    "imgurl": "https://yayc.tfnlab.com/images/2943.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2944": {
+    "imgurl": "https://yayc.tfnlab.com/images/2944.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2945": {
+    "imgurl": "https://yayc.tfnlab.com/images/2945.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2946": {
+    "imgurl": "https://yayc.tfnlab.com/images/2946.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2947": {
+    "imgurl": "https://yayc.tfnlab.com/images/2947.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2948": {
+    "imgurl": "https://yayc.tfnlab.com/images/2948.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2949": {
+    "imgurl": "https://yayc.tfnlab.com/images/2949.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "2950": {
+    "imgurl": "https://yayc.tfnlab.com/images/2950.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2951": {
+    "imgurl": "https://yayc.tfnlab.com/images/2951.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2952": {
+    "imgurl": "https://yayc.tfnlab.com/images/2952.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "2953": {
+    "imgurl": "https://yayc.tfnlab.com/images/2953.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2954": {
+    "imgurl": "https://yayc.tfnlab.com/images/2954.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2955": {
+    "imgurl": "https://yayc.tfnlab.com/images/2955.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2956": {
+    "imgurl": "https://yayc.tfnlab.com/images/2956.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2957": {
+    "imgurl": "https://yayc.tfnlab.com/images/2957.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "2958": {
+    "imgurl": "https://yayc.tfnlab.com/images/2958.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "2959": {
+    "imgurl": "https://yayc.tfnlab.com/images/2959.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2960": {
+    "imgurl": "https://yayc.tfnlab.com/images/2960.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2961": {
+    "imgurl": "https://yayc.tfnlab.com/images/2961.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2962": {
+    "imgurl": "https://yayc.tfnlab.com/images/2962.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2963": {
+    "imgurl": "https://yayc.tfnlab.com/images/2963.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "2964": {
+    "imgurl": "https://yayc.tfnlab.com/images/2964.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "2965": {
+    "imgurl": "https://yayc.tfnlab.com/images/2965.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "2966": {
+    "imgurl": "https://yayc.tfnlab.com/images/2966.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2967": {
+    "imgurl": "https://yayc.tfnlab.com/images/2967.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2968": {
+    "imgurl": "https://yayc.tfnlab.com/images/2968.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "2969": {
+    "imgurl": "https://yayc.tfnlab.com/images/2969.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2970": {
+    "imgurl": "https://yayc.tfnlab.com/images/2970.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2971": {
+    "imgurl": "https://yayc.tfnlab.com/images/2971.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2972": {
+    "imgurl": "https://yayc.tfnlab.com/images/2972.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "2973": {
+    "imgurl": "https://yayc.tfnlab.com/images/2973.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2974": {
+    "imgurl": "https://yayc.tfnlab.com/images/2974.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2975": {
+    "imgurl": "https://yayc.tfnlab.com/images/2975.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "2976": {
+    "imgurl": "https://yayc.tfnlab.com/images/2976.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2977": {
+    "imgurl": "https://yayc.tfnlab.com/images/2977.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2978": {
+    "imgurl": "https://yayc.tfnlab.com/images/2978.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2979": {
+    "imgurl": "https://yayc.tfnlab.com/images/2979.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "2980": {
+    "imgurl": "https://yayc.tfnlab.com/images/2980.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "2981": {
+    "imgurl": "https://yayc.tfnlab.com/images/2981.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2982": {
+    "imgurl": "https://yayc.tfnlab.com/images/2982.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "2983": {
+    "imgurl": "https://yayc.tfnlab.com/images/2983.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2984": {
+    "imgurl": "https://yayc.tfnlab.com/images/2984.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "2985": {
+    "imgurl": "https://yayc.tfnlab.com/images/2985.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2986": {
+    "imgurl": "https://yayc.tfnlab.com/images/2986.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "2987": {
+    "imgurl": "https://yayc.tfnlab.com/images/2987.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2988": {
+    "imgurl": "https://yayc.tfnlab.com/images/2988.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2989": {
+    "imgurl": "https://yayc.tfnlab.com/images/2989.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "2990": {
+    "imgurl": "https://yayc.tfnlab.com/images/2990.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2991": {
+    "imgurl": "https://yayc.tfnlab.com/images/2991.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "2992": {
+    "imgurl": "https://yayc.tfnlab.com/images/2992.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "2993": {
+    "imgurl": "https://yayc.tfnlab.com/images/2993.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "2994": {
+    "imgurl": "https://yayc.tfnlab.com/images/2994.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2995": {
+    "imgurl": "https://yayc.tfnlab.com/images/2995.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "2996": {
+    "imgurl": "https://yayc.tfnlab.com/images/2996.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "2997": {
+    "imgurl": "https://yayc.tfnlab.com/images/2997.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "2998": {
+    "imgurl": "https://yayc.tfnlab.com/images/2998.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "2999": {
+    "imgurl": "https://yayc.tfnlab.com/images/2999.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3000": {
+    "imgurl": "https://yayc.tfnlab.com/images/3000.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3001": {
+    "imgurl": "https://yayc.tfnlab.com/images/3001.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3002": {
+    "imgurl": "https://yayc.tfnlab.com/images/3002.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3003": {
+    "imgurl": "https://yayc.tfnlab.com/images/3003.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3004": {
+    "imgurl": "https://yayc.tfnlab.com/images/3004.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3005": {
+    "imgurl": "https://yayc.tfnlab.com/images/3005.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3006": {
+    "imgurl": "https://yayc.tfnlab.com/images/3006.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3007": {
+    "imgurl": "https://yayc.tfnlab.com/images/3007.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3008": {
+    "imgurl": "https://yayc.tfnlab.com/images/3008.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3009": {
+    "imgurl": "https://yayc.tfnlab.com/images/3009.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3010": {
+    "imgurl": "https://yayc.tfnlab.com/images/3010.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3011": {
+    "imgurl": "https://yayc.tfnlab.com/images/3011.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3012": {
+    "imgurl": "https://yayc.tfnlab.com/images/3012.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3013": {
+    "imgurl": "https://yayc.tfnlab.com/images/3013.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3014": {
+    "imgurl": "https://yayc.tfnlab.com/images/3014.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3015": {
+    "imgurl": "https://yayc.tfnlab.com/images/3015.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3016": {
+    "imgurl": "https://yayc.tfnlab.com/images/3016.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3017": {
+    "imgurl": "https://yayc.tfnlab.com/images/3017.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3018": {
+    "imgurl": "https://yayc.tfnlab.com/images/3018.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3019": {
+    "imgurl": "https://yayc.tfnlab.com/images/3019.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3020": {
+    "imgurl": "https://yayc.tfnlab.com/images/3020.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3021": {
+    "imgurl": "https://yayc.tfnlab.com/images/3021.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3022": {
+    "imgurl": "https://yayc.tfnlab.com/images/3022.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3023": {
+    "imgurl": "https://yayc.tfnlab.com/images/3023.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3024": {
+    "imgurl": "https://yayc.tfnlab.com/images/3024.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3025": {
+    "imgurl": "https://yayc.tfnlab.com/images/3025.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3026": {
+    "imgurl": "https://yayc.tfnlab.com/images/3026.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3027": {
+    "imgurl": "https://yayc.tfnlab.com/images/3027.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3028": {
+    "imgurl": "https://yayc.tfnlab.com/images/3028.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3029": {
+    "imgurl": "https://yayc.tfnlab.com/images/3029.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3030": {
+    "imgurl": "https://yayc.tfnlab.com/images/3030.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3031": {
+    "imgurl": "https://yayc.tfnlab.com/images/3031.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3032": {
+    "imgurl": "https://yayc.tfnlab.com/images/3032.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3033": {
+    "imgurl": "https://yayc.tfnlab.com/images/3033.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3034": {
+    "imgurl": "https://yayc.tfnlab.com/images/3034.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3035": {
+    "imgurl": "https://yayc.tfnlab.com/images/3035.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3036": {
+    "imgurl": "https://yayc.tfnlab.com/images/3036.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3037": {
+    "imgurl": "https://yayc.tfnlab.com/images/3037.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3038": {
+    "imgurl": "https://yayc.tfnlab.com/images/3038.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3039": {
+    "imgurl": "https://yayc.tfnlab.com/images/3039.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3040": {
+    "imgurl": "https://yayc.tfnlab.com/images/3040.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3041": {
+    "imgurl": "https://yayc.tfnlab.com/images/3041.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3042": {
+    "imgurl": "https://yayc.tfnlab.com/images/3042.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3043": {
+    "imgurl": "https://yayc.tfnlab.com/images/3043.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3044": {
+    "imgurl": "https://yayc.tfnlab.com/images/3044.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3045": {
+    "imgurl": "https://yayc.tfnlab.com/images/3045.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3046": {
+    "imgurl": "https://yayc.tfnlab.com/images/3046.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3047": {
+    "imgurl": "https://yayc.tfnlab.com/images/3047.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3048": {
+    "imgurl": "https://yayc.tfnlab.com/images/3048.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3049": {
+    "imgurl": "https://yayc.tfnlab.com/images/3049.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3050": {
+    "imgurl": "https://yayc.tfnlab.com/images/3050.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3051": {
+    "imgurl": "https://yayc.tfnlab.com/images/3051.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3052": {
+    "imgurl": "https://yayc.tfnlab.com/images/3052.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3053": {
+    "imgurl": "https://yayc.tfnlab.com/images/3053.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3054": {
+    "imgurl": "https://yayc.tfnlab.com/images/3054.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3055": {
+    "imgurl": "https://yayc.tfnlab.com/images/3055.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3056": {
+    "imgurl": "https://yayc.tfnlab.com/images/3056.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3057": {
+    "imgurl": "https://yayc.tfnlab.com/images/3057.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3058": {
+    "imgurl": "https://yayc.tfnlab.com/images/3058.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3059": {
+    "imgurl": "https://yayc.tfnlab.com/images/3059.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3060": {
+    "imgurl": "https://yayc.tfnlab.com/images/3060.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3061": {
+    "imgurl": "https://yayc.tfnlab.com/images/3061.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3062": {
+    "imgurl": "https://yayc.tfnlab.com/images/3062.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3063": {
+    "imgurl": "https://yayc.tfnlab.com/images/3063.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3064": {
+    "imgurl": "https://yayc.tfnlab.com/images/3064.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3065": {
+    "imgurl": "https://yayc.tfnlab.com/images/3065.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3066": {
+    "imgurl": "https://yayc.tfnlab.com/images/3066.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3067": {
+    "imgurl": "https://yayc.tfnlab.com/images/3067.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3068": {
+    "imgurl": "https://yayc.tfnlab.com/images/3068.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3069": {
+    "imgurl": "https://yayc.tfnlab.com/images/3069.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3070": {
+    "imgurl": "https://yayc.tfnlab.com/images/3070.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3071": {
+    "imgurl": "https://yayc.tfnlab.com/images/3071.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3072": {
+    "imgurl": "https://yayc.tfnlab.com/images/3072.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3073": {
+    "imgurl": "https://yayc.tfnlab.com/images/3073.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3074": {
+    "imgurl": "https://yayc.tfnlab.com/images/3074.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3075": {
+    "imgurl": "https://yayc.tfnlab.com/images/3075.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3076": {
+    "imgurl": "https://yayc.tfnlab.com/images/3076.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3077": {
+    "imgurl": "https://yayc.tfnlab.com/images/3077.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3078": {
+    "imgurl": "https://yayc.tfnlab.com/images/3078.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3079": {
+    "imgurl": "https://yayc.tfnlab.com/images/3079.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3080": {
+    "imgurl": "https://yayc.tfnlab.com/images/3080.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3081": {
+    "imgurl": "https://yayc.tfnlab.com/images/3081.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3082": {
+    "imgurl": "https://yayc.tfnlab.com/images/3082.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3083": {
+    "imgurl": "https://yayc.tfnlab.com/images/3083.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3084": {
+    "imgurl": "https://yayc.tfnlab.com/images/3084.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3085": {
+    "imgurl": "https://yayc.tfnlab.com/images/3085.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3086": {
+    "imgurl": "https://yayc.tfnlab.com/images/3086.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3087": {
+    "imgurl": "https://yayc.tfnlab.com/images/3087.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3088": {
+    "imgurl": "https://yayc.tfnlab.com/images/3088.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3089": {
+    "imgurl": "https://yayc.tfnlab.com/images/3089.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3090": {
+    "imgurl": "https://yayc.tfnlab.com/images/3090.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3091": {
+    "imgurl": "https://yayc.tfnlab.com/images/3091.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3092": {
+    "imgurl": "https://yayc.tfnlab.com/images/3092.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3093": {
+    "imgurl": "https://yayc.tfnlab.com/images/3093.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3094": {
+    "imgurl": "https://yayc.tfnlab.com/images/3094.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3095": {
+    "imgurl": "https://yayc.tfnlab.com/images/3095.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3096": {
+    "imgurl": "https://yayc.tfnlab.com/images/3096.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3097": {
+    "imgurl": "https://yayc.tfnlab.com/images/3097.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3098": {
+    "imgurl": "https://yayc.tfnlab.com/images/3098.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3099": {
+    "imgurl": "https://yayc.tfnlab.com/images/3099.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3100": {
+    "imgurl": "https://yayc.tfnlab.com/images/3100.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3101": {
+    "imgurl": "https://yayc.tfnlab.com/images/3101.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3102": {
+    "imgurl": "https://yayc.tfnlab.com/images/3102.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3103": {
+    "imgurl": "https://yayc.tfnlab.com/images/3103.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3104": {
+    "imgurl": "https://yayc.tfnlab.com/images/3104.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3105": {
+    "imgurl": "https://yayc.tfnlab.com/images/3105.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3106": {
+    "imgurl": "https://yayc.tfnlab.com/images/3106.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3107": {
+    "imgurl": "https://yayc.tfnlab.com/images/3107.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3108": {
+    "imgurl": "https://yayc.tfnlab.com/images/3108.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3109": {
+    "imgurl": "https://yayc.tfnlab.com/images/3109.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3110": {
+    "imgurl": "https://yayc.tfnlab.com/images/3110.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3111": {
+    "imgurl": "https://yayc.tfnlab.com/images/3111.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3112": {
+    "imgurl": "https://yayc.tfnlab.com/images/3112.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3113": {
+    "imgurl": "https://yayc.tfnlab.com/images/3113.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3114": {
+    "imgurl": "https://yayc.tfnlab.com/images/3114.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3115": {
+    "imgurl": "https://yayc.tfnlab.com/images/3115.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3116": {
+    "imgurl": "https://yayc.tfnlab.com/images/3116.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3117": {
+    "imgurl": "https://yayc.tfnlab.com/images/3117.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3118": {
+    "imgurl": "https://yayc.tfnlab.com/images/3118.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3119": {
+    "imgurl": "https://yayc.tfnlab.com/images/3119.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3120": {
+    "imgurl": "https://yayc.tfnlab.com/images/3120.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3121": {
+    "imgurl": "https://yayc.tfnlab.com/images/3121.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3122": {
+    "imgurl": "https://yayc.tfnlab.com/images/3122.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3123": {
+    "imgurl": "https://yayc.tfnlab.com/images/3123.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3124": {
+    "imgurl": "https://yayc.tfnlab.com/images/3124.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3125": {
+    "imgurl": "https://yayc.tfnlab.com/images/3125.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3126": {
+    "imgurl": "https://yayc.tfnlab.com/images/3126.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3127": {
+    "imgurl": "https://yayc.tfnlab.com/images/3127.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3128": {
+    "imgurl": "https://yayc.tfnlab.com/images/3128.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3129": {
+    "imgurl": "https://yayc.tfnlab.com/images/3129.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3130": {
+    "imgurl": "https://yayc.tfnlab.com/images/3130.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3131": {
+    "imgurl": "https://yayc.tfnlab.com/images/3131.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3132": {
+    "imgurl": "https://yayc.tfnlab.com/images/3132.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3133": {
+    "imgurl": "https://yayc.tfnlab.com/images/3133.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3134": {
+    "imgurl": "https://yayc.tfnlab.com/images/3134.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3135": {
+    "imgurl": "https://yayc.tfnlab.com/images/3135.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3136": {
+    "imgurl": "https://yayc.tfnlab.com/images/3136.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3137": {
+    "imgurl": "https://yayc.tfnlab.com/images/3137.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3138": {
+    "imgurl": "https://yayc.tfnlab.com/images/3138.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3139": {
+    "imgurl": "https://yayc.tfnlab.com/images/3139.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3140": {
+    "imgurl": "https://yayc.tfnlab.com/images/3140.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3141": {
+    "imgurl": "https://yayc.tfnlab.com/images/3141.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3142": {
+    "imgurl": "https://yayc.tfnlab.com/images/3142.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3143": {
+    "imgurl": "https://yayc.tfnlab.com/images/3143.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3144": {
+    "imgurl": "https://yayc.tfnlab.com/images/3144.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3145": {
+    "imgurl": "https://yayc.tfnlab.com/images/3145.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3146": {
+    "imgurl": "https://yayc.tfnlab.com/images/3146.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3147": {
+    "imgurl": "https://yayc.tfnlab.com/images/3147.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3148": {
+    "imgurl": "https://yayc.tfnlab.com/images/3148.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3149": {
+    "imgurl": "https://yayc.tfnlab.com/images/3149.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3150": {
+    "imgurl": "https://yayc.tfnlab.com/images/3150.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3151": {
+    "imgurl": "https://yayc.tfnlab.com/images/3151.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3152": {
+    "imgurl": "https://yayc.tfnlab.com/images/3152.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3153": {
+    "imgurl": "https://yayc.tfnlab.com/images/3153.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3154": {
+    "imgurl": "https://yayc.tfnlab.com/images/3154.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3155": {
+    "imgurl": "https://yayc.tfnlab.com/images/3155.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3156": {
+    "imgurl": "https://yayc.tfnlab.com/images/3156.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3157": {
+    "imgurl": "https://yayc.tfnlab.com/images/3157.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3158": {
+    "imgurl": "https://yayc.tfnlab.com/images/3158.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3159": {
+    "imgurl": "https://yayc.tfnlab.com/images/3159.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3160": {
+    "imgurl": "https://yayc.tfnlab.com/images/3160.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3161": {
+    "imgurl": "https://yayc.tfnlab.com/images/3161.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3162": {
+    "imgurl": "https://yayc.tfnlab.com/images/3162.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3163": {
+    "imgurl": "https://yayc.tfnlab.com/images/3163.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3164": {
+    "imgurl": "https://yayc.tfnlab.com/images/3164.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3165": {
+    "imgurl": "https://yayc.tfnlab.com/images/3165.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3166": {
+    "imgurl": "https://yayc.tfnlab.com/images/3166.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3167": {
+    "imgurl": "https://yayc.tfnlab.com/images/3167.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3168": {
+    "imgurl": "https://yayc.tfnlab.com/images/3168.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3169": {
+    "imgurl": "https://yayc.tfnlab.com/images/3169.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3170": {
+    "imgurl": "https://yayc.tfnlab.com/images/3170.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3171": {
+    "imgurl": "https://yayc.tfnlab.com/images/3171.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3172": {
+    "imgurl": "https://yayc.tfnlab.com/images/3172.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3173": {
+    "imgurl": "https://yayc.tfnlab.com/images/3173.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3174": {
+    "imgurl": "https://yayc.tfnlab.com/images/3174.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3175": {
+    "imgurl": "https://yayc.tfnlab.com/images/3175.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3176": {
+    "imgurl": "https://yayc.tfnlab.com/images/3176.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3177": {
+    "imgurl": "https://yayc.tfnlab.com/images/3177.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3178": {
+    "imgurl": "https://yayc.tfnlab.com/images/3178.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3179": {
+    "imgurl": "https://yayc.tfnlab.com/images/3179.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3180": {
+    "imgurl": "https://yayc.tfnlab.com/images/3180.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3181": {
+    "imgurl": "https://yayc.tfnlab.com/images/3181.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3182": {
+    "imgurl": "https://yayc.tfnlab.com/images/3182.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3183": {
+    "imgurl": "https://yayc.tfnlab.com/images/3183.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3184": {
+    "imgurl": "https://yayc.tfnlab.com/images/3184.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3185": {
+    "imgurl": "https://yayc.tfnlab.com/images/3185.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3186": {
+    "imgurl": "https://yayc.tfnlab.com/images/3186.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3187": {
+    "imgurl": "https://yayc.tfnlab.com/images/3187.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3188": {
+    "imgurl": "https://yayc.tfnlab.com/images/3188.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3189": {
+    "imgurl": "https://yayc.tfnlab.com/images/3189.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3190": {
+    "imgurl": "https://yayc.tfnlab.com/images/3190.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3191": {
+    "imgurl": "https://yayc.tfnlab.com/images/3191.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3192": {
+    "imgurl": "https://yayc.tfnlab.com/images/3192.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3193": {
+    "imgurl": "https://yayc.tfnlab.com/images/3193.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3194": {
+    "imgurl": "https://yayc.tfnlab.com/images/3194.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3195": {
+    "imgurl": "https://yayc.tfnlab.com/images/3195.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3196": {
+    "imgurl": "https://yayc.tfnlab.com/images/3196.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3197": {
+    "imgurl": "https://yayc.tfnlab.com/images/3197.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3198": {
+    "imgurl": "https://yayc.tfnlab.com/images/3198.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3199": {
+    "imgurl": "https://yayc.tfnlab.com/images/3199.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3200": {
+    "imgurl": "https://yayc.tfnlab.com/images/3200.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3201": {
+    "imgurl": "https://yayc.tfnlab.com/images/3201.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3202": {
+    "imgurl": "https://yayc.tfnlab.com/images/3202.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3203": {
+    "imgurl": "https://yayc.tfnlab.com/images/3203.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3204": {
+    "imgurl": "https://yayc.tfnlab.com/images/3204.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3205": {
+    "imgurl": "https://yayc.tfnlab.com/images/3205.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3206": {
+    "imgurl": "https://yayc.tfnlab.com/images/3206.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3207": {
+    "imgurl": "https://yayc.tfnlab.com/images/3207.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3208": {
+    "imgurl": "https://yayc.tfnlab.com/images/3208.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3209": {
+    "imgurl": "https://yayc.tfnlab.com/images/3209.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3210": {
+    "imgurl": "https://yayc.tfnlab.com/images/3210.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3211": {
+    "imgurl": "https://yayc.tfnlab.com/images/3211.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3212": {
+    "imgurl": "https://yayc.tfnlab.com/images/3212.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3213": {
+    "imgurl": "https://yayc.tfnlab.com/images/3213.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3214": {
+    "imgurl": "https://yayc.tfnlab.com/images/3214.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3215": {
+    "imgurl": "https://yayc.tfnlab.com/images/3215.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3216": {
+    "imgurl": "https://yayc.tfnlab.com/images/3216.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3217": {
+    "imgurl": "https://yayc.tfnlab.com/images/3217.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3218": {
+    "imgurl": "https://yayc.tfnlab.com/images/3218.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3219": {
+    "imgurl": "https://yayc.tfnlab.com/images/3219.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3220": {
+    "imgurl": "https://yayc.tfnlab.com/images/3220.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3221": {
+    "imgurl": "https://yayc.tfnlab.com/images/3221.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3222": {
+    "imgurl": "https://yayc.tfnlab.com/images/3222.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3223": {
+    "imgurl": "https://yayc.tfnlab.com/images/3223.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3224": {
+    "imgurl": "https://yayc.tfnlab.com/images/3224.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3225": {
+    "imgurl": "https://yayc.tfnlab.com/images/3225.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3226": {
+    "imgurl": "https://yayc.tfnlab.com/images/3226.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3227": {
+    "imgurl": "https://yayc.tfnlab.com/images/3227.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3228": {
+    "imgurl": "https://yayc.tfnlab.com/images/3228.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3229": {
+    "imgurl": "https://yayc.tfnlab.com/images/3229.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3230": {
+    "imgurl": "https://yayc.tfnlab.com/images/3230.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3231": {
+    "imgurl": "https://yayc.tfnlab.com/images/3231.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3232": {
+    "imgurl": "https://yayc.tfnlab.com/images/3232.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3233": {
+    "imgurl": "https://yayc.tfnlab.com/images/3233.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3234": {
+    "imgurl": "https://yayc.tfnlab.com/images/3234.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3235": {
+    "imgurl": "https://yayc.tfnlab.com/images/3235.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3236": {
+    "imgurl": "https://yayc.tfnlab.com/images/3236.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3237": {
+    "imgurl": "https://yayc.tfnlab.com/images/3237.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3238": {
+    "imgurl": "https://yayc.tfnlab.com/images/3238.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3239": {
+    "imgurl": "https://yayc.tfnlab.com/images/3239.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3240": {
+    "imgurl": "https://yayc.tfnlab.com/images/3240.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3241": {
+    "imgurl": "https://yayc.tfnlab.com/images/3241.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3242": {
+    "imgurl": "https://yayc.tfnlab.com/images/3242.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3243": {
+    "imgurl": "https://yayc.tfnlab.com/images/3243.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3244": {
+    "imgurl": "https://yayc.tfnlab.com/images/3244.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3245": {
+    "imgurl": "https://yayc.tfnlab.com/images/3245.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3246": {
+    "imgurl": "https://yayc.tfnlab.com/images/3246.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3247": {
+    "imgurl": "https://yayc.tfnlab.com/images/3247.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3248": {
+    "imgurl": "https://yayc.tfnlab.com/images/3248.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3249": {
+    "imgurl": "https://yayc.tfnlab.com/images/3249.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3250": {
+    "imgurl": "https://yayc.tfnlab.com/images/3250.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3251": {
+    "imgurl": "https://yayc.tfnlab.com/images/3251.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3252": {
+    "imgurl": "https://yayc.tfnlab.com/images/3252.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3253": {
+    "imgurl": "https://yayc.tfnlab.com/images/3253.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3254": {
+    "imgurl": "https://yayc.tfnlab.com/images/3254.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3255": {
+    "imgurl": "https://yayc.tfnlab.com/images/3255.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3256": {
+    "imgurl": "https://yayc.tfnlab.com/images/3256.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3257": {
+    "imgurl": "https://yayc.tfnlab.com/images/3257.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3258": {
+    "imgurl": "https://yayc.tfnlab.com/images/3258.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3259": {
+    "imgurl": "https://yayc.tfnlab.com/images/3259.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3260": {
+    "imgurl": "https://yayc.tfnlab.com/images/3260.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3261": {
+    "imgurl": "https://yayc.tfnlab.com/images/3261.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3262": {
+    "imgurl": "https://yayc.tfnlab.com/images/3262.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3263": {
+    "imgurl": "https://yayc.tfnlab.com/images/3263.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3264": {
+    "imgurl": "https://yayc.tfnlab.com/images/3264.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3265": {
+    "imgurl": "https://yayc.tfnlab.com/images/3265.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3266": {
+    "imgurl": "https://yayc.tfnlab.com/images/3266.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3267": {
+    "imgurl": "https://yayc.tfnlab.com/images/3267.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3268": {
+    "imgurl": "https://yayc.tfnlab.com/images/3268.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3269": {
+    "imgurl": "https://yayc.tfnlab.com/images/3269.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3270": {
+    "imgurl": "https://yayc.tfnlab.com/images/3270.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3271": {
+    "imgurl": "https://yayc.tfnlab.com/images/3271.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3272": {
+    "imgurl": "https://yayc.tfnlab.com/images/3272.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3273": {
+    "imgurl": "https://yayc.tfnlab.com/images/3273.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3274": {
+    "imgurl": "https://yayc.tfnlab.com/images/3274.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3275": {
+    "imgurl": "https://yayc.tfnlab.com/images/3275.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3276": {
+    "imgurl": "https://yayc.tfnlab.com/images/3276.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3277": {
+    "imgurl": "https://yayc.tfnlab.com/images/3277.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3278": {
+    "imgurl": "https://yayc.tfnlab.com/images/3278.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3279": {
+    "imgurl": "https://yayc.tfnlab.com/images/3279.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3280": {
+    "imgurl": "https://yayc.tfnlab.com/images/3280.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3281": {
+    "imgurl": "https://yayc.tfnlab.com/images/3281.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3282": {
+    "imgurl": "https://yayc.tfnlab.com/images/3282.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3283": {
+    "imgurl": "https://yayc.tfnlab.com/images/3283.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3284": {
+    "imgurl": "https://yayc.tfnlab.com/images/3284.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3285": {
+    "imgurl": "https://yayc.tfnlab.com/images/3285.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3286": {
+    "imgurl": "https://yayc.tfnlab.com/images/3286.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3287": {
+    "imgurl": "https://yayc.tfnlab.com/images/3287.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3288": {
+    "imgurl": "https://yayc.tfnlab.com/images/3288.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3289": {
+    "imgurl": "https://yayc.tfnlab.com/images/3289.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3290": {
+    "imgurl": "https://yayc.tfnlab.com/images/3290.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3291": {
+    "imgurl": "https://yayc.tfnlab.com/images/3291.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3292": {
+    "imgurl": "https://yayc.tfnlab.com/images/3292.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3293": {
+    "imgurl": "https://yayc.tfnlab.com/images/3293.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3294": {
+    "imgurl": "https://yayc.tfnlab.com/images/3294.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3295": {
+    "imgurl": "https://yayc.tfnlab.com/images/3295.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3296": {
+    "imgurl": "https://yayc.tfnlab.com/images/3296.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3297": {
+    "imgurl": "https://yayc.tfnlab.com/images/3297.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3298": {
+    "imgurl": "https://yayc.tfnlab.com/images/3298.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3299": {
+    "imgurl": "https://yayc.tfnlab.com/images/3299.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3300": {
+    "imgurl": "https://yayc.tfnlab.com/images/3300.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3301": {
+    "imgurl": "https://yayc.tfnlab.com/images/3301.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3302": {
+    "imgurl": "https://yayc.tfnlab.com/images/3302.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3303": {
+    "imgurl": "https://yayc.tfnlab.com/images/3303.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3304": {
+    "imgurl": "https://yayc.tfnlab.com/images/3304.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3305": {
+    "imgurl": "https://yayc.tfnlab.com/images/3305.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3306": {
+    "imgurl": "https://yayc.tfnlab.com/images/3306.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3307": {
+    "imgurl": "https://yayc.tfnlab.com/images/3307.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3308": {
+    "imgurl": "https://yayc.tfnlab.com/images/3308.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3309": {
+    "imgurl": "https://yayc.tfnlab.com/images/3309.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3310": {
+    "imgurl": "https://yayc.tfnlab.com/images/3310.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3311": {
+    "imgurl": "https://yayc.tfnlab.com/images/3311.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3312": {
+    "imgurl": "https://yayc.tfnlab.com/images/3312.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3313": {
+    "imgurl": "https://yayc.tfnlab.com/images/3313.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3314": {
+    "imgurl": "https://yayc.tfnlab.com/images/3314.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3315": {
+    "imgurl": "https://yayc.tfnlab.com/images/3315.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3316": {
+    "imgurl": "https://yayc.tfnlab.com/images/3316.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3317": {
+    "imgurl": "https://yayc.tfnlab.com/images/3317.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3318": {
+    "imgurl": "https://yayc.tfnlab.com/images/3318.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3319": {
+    "imgurl": "https://yayc.tfnlab.com/images/3319.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3320": {
+    "imgurl": "https://yayc.tfnlab.com/images/3320.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3321": {
+    "imgurl": "https://yayc.tfnlab.com/images/3321.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3322": {
+    "imgurl": "https://yayc.tfnlab.com/images/3322.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3323": {
+    "imgurl": "https://yayc.tfnlab.com/images/3323.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3324": {
+    "imgurl": "https://yayc.tfnlab.com/images/3324.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3325": {
+    "imgurl": "https://yayc.tfnlab.com/images/3325.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3326": {
+    "imgurl": "https://yayc.tfnlab.com/images/3326.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3327": {
+    "imgurl": "https://yayc.tfnlab.com/images/3327.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3328": {
+    "imgurl": "https://yayc.tfnlab.com/images/3328.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3329": {
+    "imgurl": "https://yayc.tfnlab.com/images/3329.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3330": {
+    "imgurl": "https://yayc.tfnlab.com/images/3330.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3331": {
+    "imgurl": "https://yayc.tfnlab.com/images/3331.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3332": {
+    "imgurl": "https://yayc.tfnlab.com/images/3332.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3333": {
+    "imgurl": "https://yayc.tfnlab.com/images/3333.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3334": {
+    "imgurl": "https://yayc.tfnlab.com/images/3334.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3335": {
+    "imgurl": "https://yayc.tfnlab.com/images/3335.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3336": {
+    "imgurl": "https://yayc.tfnlab.com/images/3336.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3337": {
+    "imgurl": "https://yayc.tfnlab.com/images/3337.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3338": {
+    "imgurl": "https://yayc.tfnlab.com/images/3338.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3339": {
+    "imgurl": "https://yayc.tfnlab.com/images/3339.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3340": {
+    "imgurl": "https://yayc.tfnlab.com/images/3340.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3341": {
+    "imgurl": "https://yayc.tfnlab.com/images/3341.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3342": {
+    "imgurl": "https://yayc.tfnlab.com/images/3342.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3343": {
+    "imgurl": "https://yayc.tfnlab.com/images/3343.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3344": {
+    "imgurl": "https://yayc.tfnlab.com/images/3344.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3345": {
+    "imgurl": "https://yayc.tfnlab.com/images/3345.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3346": {
+    "imgurl": "https://yayc.tfnlab.com/images/3346.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3347": {
+    "imgurl": "https://yayc.tfnlab.com/images/3347.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3348": {
+    "imgurl": "https://yayc.tfnlab.com/images/3348.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3349": {
+    "imgurl": "https://yayc.tfnlab.com/images/3349.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3350": {
+    "imgurl": "https://yayc.tfnlab.com/images/3350.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3351": {
+    "imgurl": "https://yayc.tfnlab.com/images/3351.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3352": {
+    "imgurl": "https://yayc.tfnlab.com/images/3352.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3353": {
+    "imgurl": "https://yayc.tfnlab.com/images/3353.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3354": {
+    "imgurl": "https://yayc.tfnlab.com/images/3354.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3355": {
+    "imgurl": "https://yayc.tfnlab.com/images/3355.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3356": {
+    "imgurl": "https://yayc.tfnlab.com/images/3356.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3357": {
+    "imgurl": "https://yayc.tfnlab.com/images/3357.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3358": {
+    "imgurl": "https://yayc.tfnlab.com/images/3358.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3359": {
+    "imgurl": "https://yayc.tfnlab.com/images/3359.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3360": {
+    "imgurl": "https://yayc.tfnlab.com/images/3360.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3361": {
+    "imgurl": "https://yayc.tfnlab.com/images/3361.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3362": {
+    "imgurl": "https://yayc.tfnlab.com/images/3362.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3363": {
+    "imgurl": "https://yayc.tfnlab.com/images/3363.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3364": {
+    "imgurl": "https://yayc.tfnlab.com/images/3364.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3365": {
+    "imgurl": "https://yayc.tfnlab.com/images/3365.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3366": {
+    "imgurl": "https://yayc.tfnlab.com/images/3366.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3367": {
+    "imgurl": "https://yayc.tfnlab.com/images/3367.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3368": {
+    "imgurl": "https://yayc.tfnlab.com/images/3368.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3369": {
+    "imgurl": "https://yayc.tfnlab.com/images/3369.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3370": {
+    "imgurl": "https://yayc.tfnlab.com/images/3370.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3371": {
+    "imgurl": "https://yayc.tfnlab.com/images/3371.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3372": {
+    "imgurl": "https://yayc.tfnlab.com/images/3372.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3373": {
+    "imgurl": "https://yayc.tfnlab.com/images/3373.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3374": {
+    "imgurl": "https://yayc.tfnlab.com/images/3374.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3375": {
+    "imgurl": "https://yayc.tfnlab.com/images/3375.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3376": {
+    "imgurl": "https://yayc.tfnlab.com/images/3376.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3377": {
+    "imgurl": "https://yayc.tfnlab.com/images/3377.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3378": {
+    "imgurl": "https://yayc.tfnlab.com/images/3378.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3379": {
+    "imgurl": "https://yayc.tfnlab.com/images/3379.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3380": {
+    "imgurl": "https://yayc.tfnlab.com/images/3380.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3381": {
+    "imgurl": "https://yayc.tfnlab.com/images/3381.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3382": {
+    "imgurl": "https://yayc.tfnlab.com/images/3382.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3383": {
+    "imgurl": "https://yayc.tfnlab.com/images/3383.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3384": {
+    "imgurl": "https://yayc.tfnlab.com/images/3384.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3385": {
+    "imgurl": "https://yayc.tfnlab.com/images/3385.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3386": {
+    "imgurl": "https://yayc.tfnlab.com/images/3386.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3387": {
+    "imgurl": "https://yayc.tfnlab.com/images/3387.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3388": {
+    "imgurl": "https://yayc.tfnlab.com/images/3388.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3389": {
+    "imgurl": "https://yayc.tfnlab.com/images/3389.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3390": {
+    "imgurl": "https://yayc.tfnlab.com/images/3390.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3391": {
+    "imgurl": "https://yayc.tfnlab.com/images/3391.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3392": {
+    "imgurl": "https://yayc.tfnlab.com/images/3392.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3393": {
+    "imgurl": "https://yayc.tfnlab.com/images/3393.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3394": {
+    "imgurl": "https://yayc.tfnlab.com/images/3394.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3395": {
+    "imgurl": "https://yayc.tfnlab.com/images/3395.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3396": {
+    "imgurl": "https://yayc.tfnlab.com/images/3396.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3397": {
+    "imgurl": "https://yayc.tfnlab.com/images/3397.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3398": {
+    "imgurl": "https://yayc.tfnlab.com/images/3398.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3399": {
+    "imgurl": "https://yayc.tfnlab.com/images/3399.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3400": {
+    "imgurl": "https://yayc.tfnlab.com/images/3400.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3401": {
+    "imgurl": "https://yayc.tfnlab.com/images/3401.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3402": {
+    "imgurl": "https://yayc.tfnlab.com/images/3402.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3403": {
+    "imgurl": "https://yayc.tfnlab.com/images/3403.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3404": {
+    "imgurl": "https://yayc.tfnlab.com/images/3404.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3405": {
+    "imgurl": "https://yayc.tfnlab.com/images/3405.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3406": {
+    "imgurl": "https://yayc.tfnlab.com/images/3406.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3407": {
+    "imgurl": "https://yayc.tfnlab.com/images/3407.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3408": {
+    "imgurl": "https://yayc.tfnlab.com/images/3408.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3409": {
+    "imgurl": "https://yayc.tfnlab.com/images/3409.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3410": {
+    "imgurl": "https://yayc.tfnlab.com/images/3410.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3411": {
+    "imgurl": "https://yayc.tfnlab.com/images/3411.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3412": {
+    "imgurl": "https://yayc.tfnlab.com/images/3412.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3413": {
+    "imgurl": "https://yayc.tfnlab.com/images/3413.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3414": {
+    "imgurl": "https://yayc.tfnlab.com/images/3414.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3415": {
+    "imgurl": "https://yayc.tfnlab.com/images/3415.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3416": {
+    "imgurl": "https://yayc.tfnlab.com/images/3416.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3417": {
+    "imgurl": "https://yayc.tfnlab.com/images/3417.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3418": {
+    "imgurl": "https://yayc.tfnlab.com/images/3418.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3419": {
+    "imgurl": "https://yayc.tfnlab.com/images/3419.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3420": {
+    "imgurl": "https://yayc.tfnlab.com/images/3420.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3421": {
+    "imgurl": "https://yayc.tfnlab.com/images/3421.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3422": {
+    "imgurl": "https://yayc.tfnlab.com/images/3422.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3423": {
+    "imgurl": "https://yayc.tfnlab.com/images/3423.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3424": {
+    "imgurl": "https://yayc.tfnlab.com/images/3424.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3425": {
+    "imgurl": "https://yayc.tfnlab.com/images/3425.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3426": {
+    "imgurl": "https://yayc.tfnlab.com/images/3426.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3427": {
+    "imgurl": "https://yayc.tfnlab.com/images/3427.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3428": {
+    "imgurl": "https://yayc.tfnlab.com/images/3428.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3429": {
+    "imgurl": "https://yayc.tfnlab.com/images/3429.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3430": {
+    "imgurl": "https://yayc.tfnlab.com/images/3430.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3431": {
+    "imgurl": "https://yayc.tfnlab.com/images/3431.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3432": {
+    "imgurl": "https://yayc.tfnlab.com/images/3432.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3433": {
+    "imgurl": "https://yayc.tfnlab.com/images/3433.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3434": {
+    "imgurl": "https://yayc.tfnlab.com/images/3434.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3435": {
+    "imgurl": "https://yayc.tfnlab.com/images/3435.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3436": {
+    "imgurl": "https://yayc.tfnlab.com/images/3436.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3437": {
+    "imgurl": "https://yayc.tfnlab.com/images/3437.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3438": {
+    "imgurl": "https://yayc.tfnlab.com/images/3438.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3439": {
+    "imgurl": "https://yayc.tfnlab.com/images/3439.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3440": {
+    "imgurl": "https://yayc.tfnlab.com/images/3440.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3441": {
+    "imgurl": "https://yayc.tfnlab.com/images/3441.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3442": {
+    "imgurl": "https://yayc.tfnlab.com/images/3442.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3443": {
+    "imgurl": "https://yayc.tfnlab.com/images/3443.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3444": {
+    "imgurl": "https://yayc.tfnlab.com/images/3444.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3445": {
+    "imgurl": "https://yayc.tfnlab.com/images/3445.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3446": {
+    "imgurl": "https://yayc.tfnlab.com/images/3446.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3447": {
+    "imgurl": "https://yayc.tfnlab.com/images/3447.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3448": {
+    "imgurl": "https://yayc.tfnlab.com/images/3448.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3449": {
+    "imgurl": "https://yayc.tfnlab.com/images/3449.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3450": {
+    "imgurl": "https://yayc.tfnlab.com/images/3450.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3451": {
+    "imgurl": "https://yayc.tfnlab.com/images/3451.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3452": {
+    "imgurl": "https://yayc.tfnlab.com/images/3452.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3453": {
+    "imgurl": "https://yayc.tfnlab.com/images/3453.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3454": {
+    "imgurl": "https://yayc.tfnlab.com/images/3454.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3455": {
+    "imgurl": "https://yayc.tfnlab.com/images/3455.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3456": {
+    "imgurl": "https://yayc.tfnlab.com/images/3456.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3457": {
+    "imgurl": "https://yayc.tfnlab.com/images/3457.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3458": {
+    "imgurl": "https://yayc.tfnlab.com/images/3458.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3459": {
+    "imgurl": "https://yayc.tfnlab.com/images/3459.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3460": {
+    "imgurl": "https://yayc.tfnlab.com/images/3460.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3461": {
+    "imgurl": "https://yayc.tfnlab.com/images/3461.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3462": {
+    "imgurl": "https://yayc.tfnlab.com/images/3462.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3463": {
+    "imgurl": "https://yayc.tfnlab.com/images/3463.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3464": {
+    "imgurl": "https://yayc.tfnlab.com/images/3464.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3465": {
+    "imgurl": "https://yayc.tfnlab.com/images/3465.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3466": {
+    "imgurl": "https://yayc.tfnlab.com/images/3466.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3467": {
+    "imgurl": "https://yayc.tfnlab.com/images/3467.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3468": {
+    "imgurl": "https://yayc.tfnlab.com/images/3468.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3469": {
+    "imgurl": "https://yayc.tfnlab.com/images/3469.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3470": {
+    "imgurl": "https://yayc.tfnlab.com/images/3470.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3471": {
+    "imgurl": "https://yayc.tfnlab.com/images/3471.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3472": {
+    "imgurl": "https://yayc.tfnlab.com/images/3472.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3473": {
+    "imgurl": "https://yayc.tfnlab.com/images/3473.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3474": {
+    "imgurl": "https://yayc.tfnlab.com/images/3474.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3475": {
+    "imgurl": "https://yayc.tfnlab.com/images/3475.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3476": {
+    "imgurl": "https://yayc.tfnlab.com/images/3476.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3477": {
+    "imgurl": "https://yayc.tfnlab.com/images/3477.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3478": {
+    "imgurl": "https://yayc.tfnlab.com/images/3478.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3479": {
+    "imgurl": "https://yayc.tfnlab.com/images/3479.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3480": {
+    "imgurl": "https://yayc.tfnlab.com/images/3480.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3481": {
+    "imgurl": "https://yayc.tfnlab.com/images/3481.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3482": {
+    "imgurl": "https://yayc.tfnlab.com/images/3482.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3483": {
+    "imgurl": "https://yayc.tfnlab.com/images/3483.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3484": {
+    "imgurl": "https://yayc.tfnlab.com/images/3484.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3485": {
+    "imgurl": "https://yayc.tfnlab.com/images/3485.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3486": {
+    "imgurl": "https://yayc.tfnlab.com/images/3486.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3487": {
+    "imgurl": "https://yayc.tfnlab.com/images/3487.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3488": {
+    "imgurl": "https://yayc.tfnlab.com/images/3488.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3489": {
+    "imgurl": "https://yayc.tfnlab.com/images/3489.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3490": {
+    "imgurl": "https://yayc.tfnlab.com/images/3490.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3491": {
+    "imgurl": "https://yayc.tfnlab.com/images/3491.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3492": {
+    "imgurl": "https://yayc.tfnlab.com/images/3492.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3493": {
+    "imgurl": "https://yayc.tfnlab.com/images/3493.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3494": {
+    "imgurl": "https://yayc.tfnlab.com/images/3494.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3495": {
+    "imgurl": "https://yayc.tfnlab.com/images/3495.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3496": {
+    "imgurl": "https://yayc.tfnlab.com/images/3496.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3497": {
+    "imgurl": "https://yayc.tfnlab.com/images/3497.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3498": {
+    "imgurl": "https://yayc.tfnlab.com/images/3498.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3499": {
+    "imgurl": "https://yayc.tfnlab.com/images/3499.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3500": {
+    "imgurl": "https://yayc.tfnlab.com/images/3500.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3501": {
+    "imgurl": "https://yayc.tfnlab.com/images/3501.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3502": {
+    "imgurl": "https://yayc.tfnlab.com/images/3502.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3503": {
+    "imgurl": "https://yayc.tfnlab.com/images/3503.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3504": {
+    "imgurl": "https://yayc.tfnlab.com/images/3504.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3505": {
+    "imgurl": "https://yayc.tfnlab.com/images/3505.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3506": {
+    "imgurl": "https://yayc.tfnlab.com/images/3506.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3507": {
+    "imgurl": "https://yayc.tfnlab.com/images/3507.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3508": {
+    "imgurl": "https://yayc.tfnlab.com/images/3508.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3509": {
+    "imgurl": "https://yayc.tfnlab.com/images/3509.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3510": {
+    "imgurl": "https://yayc.tfnlab.com/images/3510.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3511": {
+    "imgurl": "https://yayc.tfnlab.com/images/3511.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3512": {
+    "imgurl": "https://yayc.tfnlab.com/images/3512.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3513": {
+    "imgurl": "https://yayc.tfnlab.com/images/3513.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3514": {
+    "imgurl": "https://yayc.tfnlab.com/images/3514.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3515": {
+    "imgurl": "https://yayc.tfnlab.com/images/3515.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3516": {
+    "imgurl": "https://yayc.tfnlab.com/images/3516.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3517": {
+    "imgurl": "https://yayc.tfnlab.com/images/3517.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3518": {
+    "imgurl": "https://yayc.tfnlab.com/images/3518.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3519": {
+    "imgurl": "https://yayc.tfnlab.com/images/3519.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3520": {
+    "imgurl": "https://yayc.tfnlab.com/images/3520.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3521": {
+    "imgurl": "https://yayc.tfnlab.com/images/3521.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3522": {
+    "imgurl": "https://yayc.tfnlab.com/images/3522.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3523": {
+    "imgurl": "https://yayc.tfnlab.com/images/3523.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3524": {
+    "imgurl": "https://yayc.tfnlab.com/images/3524.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3525": {
+    "imgurl": "https://yayc.tfnlab.com/images/3525.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3526": {
+    "imgurl": "https://yayc.tfnlab.com/images/3526.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3527": {
+    "imgurl": "https://yayc.tfnlab.com/images/3527.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3528": {
+    "imgurl": "https://yayc.tfnlab.com/images/3528.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3529": {
+    "imgurl": "https://yayc.tfnlab.com/images/3529.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3530": {
+    "imgurl": "https://yayc.tfnlab.com/images/3530.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3531": {
+    "imgurl": "https://yayc.tfnlab.com/images/3531.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3532": {
+    "imgurl": "https://yayc.tfnlab.com/images/3532.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3533": {
+    "imgurl": "https://yayc.tfnlab.com/images/3533.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3534": {
+    "imgurl": "https://yayc.tfnlab.com/images/3534.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3535": {
+    "imgurl": "https://yayc.tfnlab.com/images/3535.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3536": {
+    "imgurl": "https://yayc.tfnlab.com/images/3536.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3537": {
+    "imgurl": "https://yayc.tfnlab.com/images/3537.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3538": {
+    "imgurl": "https://yayc.tfnlab.com/images/3538.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3539": {
+    "imgurl": "https://yayc.tfnlab.com/images/3539.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3540": {
+    "imgurl": "https://yayc.tfnlab.com/images/3540.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3541": {
+    "imgurl": "https://yayc.tfnlab.com/images/3541.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3542": {
+    "imgurl": "https://yayc.tfnlab.com/images/3542.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3543": {
+    "imgurl": "https://yayc.tfnlab.com/images/3543.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3544": {
+    "imgurl": "https://yayc.tfnlab.com/images/3544.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3545": {
+    "imgurl": "https://yayc.tfnlab.com/images/3545.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3546": {
+    "imgurl": "https://yayc.tfnlab.com/images/3546.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3547": {
+    "imgurl": "https://yayc.tfnlab.com/images/3547.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3548": {
+    "imgurl": "https://yayc.tfnlab.com/images/3548.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3549": {
+    "imgurl": "https://yayc.tfnlab.com/images/3549.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3550": {
+    "imgurl": "https://yayc.tfnlab.com/images/3550.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3551": {
+    "imgurl": "https://yayc.tfnlab.com/images/3551.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3552": {
+    "imgurl": "https://yayc.tfnlab.com/images/3552.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3553": {
+    "imgurl": "https://yayc.tfnlab.com/images/3553.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3554": {
+    "imgurl": "https://yayc.tfnlab.com/images/3554.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3555": {
+    "imgurl": "https://yayc.tfnlab.com/images/3555.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3556": {
+    "imgurl": "https://yayc.tfnlab.com/images/3556.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3557": {
+    "imgurl": "https://yayc.tfnlab.com/images/3557.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3558": {
+    "imgurl": "https://yayc.tfnlab.com/images/3558.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3559": {
+    "imgurl": "https://yayc.tfnlab.com/images/3559.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3560": {
+    "imgurl": "https://yayc.tfnlab.com/images/3560.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3561": {
+    "imgurl": "https://yayc.tfnlab.com/images/3561.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3562": {
+    "imgurl": "https://yayc.tfnlab.com/images/3562.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3563": {
+    "imgurl": "https://yayc.tfnlab.com/images/3563.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3564": {
+    "imgurl": "https://yayc.tfnlab.com/images/3564.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3565": {
+    "imgurl": "https://yayc.tfnlab.com/images/3565.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3566": {
+    "imgurl": "https://yayc.tfnlab.com/images/3566.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3567": {
+    "imgurl": "https://yayc.tfnlab.com/images/3567.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3568": {
+    "imgurl": "https://yayc.tfnlab.com/images/3568.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3569": {
+    "imgurl": "https://yayc.tfnlab.com/images/3569.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3570": {
+    "imgurl": "https://yayc.tfnlab.com/images/3570.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3571": {
+    "imgurl": "https://yayc.tfnlab.com/images/3571.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3572": {
+    "imgurl": "https://yayc.tfnlab.com/images/3572.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3573": {
+    "imgurl": "https://yayc.tfnlab.com/images/3573.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3574": {
+    "imgurl": "https://yayc.tfnlab.com/images/3574.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3575": {
+    "imgurl": "https://yayc.tfnlab.com/images/3575.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3576": {
+    "imgurl": "https://yayc.tfnlab.com/images/3576.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3577": {
+    "imgurl": "https://yayc.tfnlab.com/images/3577.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3578": {
+    "imgurl": "https://yayc.tfnlab.com/images/3578.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3579": {
+    "imgurl": "https://yayc.tfnlab.com/images/3579.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3580": {
+    "imgurl": "https://yayc.tfnlab.com/images/3580.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3581": {
+    "imgurl": "https://yayc.tfnlab.com/images/3581.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3582": {
+    "imgurl": "https://yayc.tfnlab.com/images/3582.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3583": {
+    "imgurl": "https://yayc.tfnlab.com/images/3583.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3584": {
+    "imgurl": "https://yayc.tfnlab.com/images/3584.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3585": {
+    "imgurl": "https://yayc.tfnlab.com/images/3585.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3586": {
+    "imgurl": "https://yayc.tfnlab.com/images/3586.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3587": {
+    "imgurl": "https://yayc.tfnlab.com/images/3587.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3588": {
+    "imgurl": "https://yayc.tfnlab.com/images/3588.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3589": {
+    "imgurl": "https://yayc.tfnlab.com/images/3589.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3590": {
+    "imgurl": "https://yayc.tfnlab.com/images/3590.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3591": {
+    "imgurl": "https://yayc.tfnlab.com/images/3591.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3592": {
+    "imgurl": "https://yayc.tfnlab.com/images/3592.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3593": {
+    "imgurl": "https://yayc.tfnlab.com/images/3593.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3594": {
+    "imgurl": "https://yayc.tfnlab.com/images/3594.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3595": {
+    "imgurl": "https://yayc.tfnlab.com/images/3595.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3596": {
+    "imgurl": "https://yayc.tfnlab.com/images/3596.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3597": {
+    "imgurl": "https://yayc.tfnlab.com/images/3597.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3598": {
+    "imgurl": "https://yayc.tfnlab.com/images/3598.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3599": {
+    "imgurl": "https://yayc.tfnlab.com/images/3599.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3600": {
+    "imgurl": "https://yayc.tfnlab.com/images/3600.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3601": {
+    "imgurl": "https://yayc.tfnlab.com/images/3601.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3602": {
+    "imgurl": "https://yayc.tfnlab.com/images/3602.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3603": {
+    "imgurl": "https://yayc.tfnlab.com/images/3603.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3604": {
+    "imgurl": "https://yayc.tfnlab.com/images/3604.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3605": {
+    "imgurl": "https://yayc.tfnlab.com/images/3605.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3606": {
+    "imgurl": "https://yayc.tfnlab.com/images/3606.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3607": {
+    "imgurl": "https://yayc.tfnlab.com/images/3607.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3608": {
+    "imgurl": "https://yayc.tfnlab.com/images/3608.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3609": {
+    "imgurl": "https://yayc.tfnlab.com/images/3609.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3610": {
+    "imgurl": "https://yayc.tfnlab.com/images/3610.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3611": {
+    "imgurl": "https://yayc.tfnlab.com/images/3611.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3612": {
+    "imgurl": "https://yayc.tfnlab.com/images/3612.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3613": {
+    "imgurl": "https://yayc.tfnlab.com/images/3613.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3614": {
+    "imgurl": "https://yayc.tfnlab.com/images/3614.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3615": {
+    "imgurl": "https://yayc.tfnlab.com/images/3615.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3616": {
+    "imgurl": "https://yayc.tfnlab.com/images/3616.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3617": {
+    "imgurl": "https://yayc.tfnlab.com/images/3617.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3618": {
+    "imgurl": "https://yayc.tfnlab.com/images/3618.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3619": {
+    "imgurl": "https://yayc.tfnlab.com/images/3619.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3620": {
+    "imgurl": "https://yayc.tfnlab.com/images/3620.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3621": {
+    "imgurl": "https://yayc.tfnlab.com/images/3621.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3622": {
+    "imgurl": "https://yayc.tfnlab.com/images/3622.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3623": {
+    "imgurl": "https://yayc.tfnlab.com/images/3623.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3624": {
+    "imgurl": "https://yayc.tfnlab.com/images/3624.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3625": {
+    "imgurl": "https://yayc.tfnlab.com/images/3625.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3626": {
+    "imgurl": "https://yayc.tfnlab.com/images/3626.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3627": {
+    "imgurl": "https://yayc.tfnlab.com/images/3627.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3628": {
+    "imgurl": "https://yayc.tfnlab.com/images/3628.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3629": {
+    "imgurl": "https://yayc.tfnlab.com/images/3629.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3630": {
+    "imgurl": "https://yayc.tfnlab.com/images/3630.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3631": {
+    "imgurl": "https://yayc.tfnlab.com/images/3631.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3632": {
+    "imgurl": "https://yayc.tfnlab.com/images/3632.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3633": {
+    "imgurl": "https://yayc.tfnlab.com/images/3633.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3634": {
+    "imgurl": "https://yayc.tfnlab.com/images/3634.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3635": {
+    "imgurl": "https://yayc.tfnlab.com/images/3635.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3636": {
+    "imgurl": "https://yayc.tfnlab.com/images/3636.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3637": {
+    "imgurl": "https://yayc.tfnlab.com/images/3637.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3638": {
+    "imgurl": "https://yayc.tfnlab.com/images/3638.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3639": {
+    "imgurl": "https://yayc.tfnlab.com/images/3639.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3640": {
+    "imgurl": "https://yayc.tfnlab.com/images/3640.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3641": {
+    "imgurl": "https://yayc.tfnlab.com/images/3641.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3642": {
+    "imgurl": "https://yayc.tfnlab.com/images/3642.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3643": {
+    "imgurl": "https://yayc.tfnlab.com/images/3643.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3644": {
+    "imgurl": "https://yayc.tfnlab.com/images/3644.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3645": {
+    "imgurl": "https://yayc.tfnlab.com/images/3645.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3646": {
+    "imgurl": "https://yayc.tfnlab.com/images/3646.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3647": {
+    "imgurl": "https://yayc.tfnlab.com/images/3647.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3648": {
+    "imgurl": "https://yayc.tfnlab.com/images/3648.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3649": {
+    "imgurl": "https://yayc.tfnlab.com/images/3649.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3650": {
+    "imgurl": "https://yayc.tfnlab.com/images/3650.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3651": {
+    "imgurl": "https://yayc.tfnlab.com/images/3651.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3652": {
+    "imgurl": "https://yayc.tfnlab.com/images/3652.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3653": {
+    "imgurl": "https://yayc.tfnlab.com/images/3653.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3654": {
+    "imgurl": "https://yayc.tfnlab.com/images/3654.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3655": {
+    "imgurl": "https://yayc.tfnlab.com/images/3655.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3656": {
+    "imgurl": "https://yayc.tfnlab.com/images/3656.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3657": {
+    "imgurl": "https://yayc.tfnlab.com/images/3657.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3658": {
+    "imgurl": "https://yayc.tfnlab.com/images/3658.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3659": {
+    "imgurl": "https://yayc.tfnlab.com/images/3659.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3660": {
+    "imgurl": "https://yayc.tfnlab.com/images/3660.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3661": {
+    "imgurl": "https://yayc.tfnlab.com/images/3661.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3662": {
+    "imgurl": "https://yayc.tfnlab.com/images/3662.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3663": {
+    "imgurl": "https://yayc.tfnlab.com/images/3663.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3664": {
+    "imgurl": "https://yayc.tfnlab.com/images/3664.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3665": {
+    "imgurl": "https://yayc.tfnlab.com/images/3665.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3666": {
+    "imgurl": "https://yayc.tfnlab.com/images/3666.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3667": {
+    "imgurl": "https://yayc.tfnlab.com/images/3667.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3668": {
+    "imgurl": "https://yayc.tfnlab.com/images/3668.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3669": {
+    "imgurl": "https://yayc.tfnlab.com/images/3669.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3670": {
+    "imgurl": "https://yayc.tfnlab.com/images/3670.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3671": {
+    "imgurl": "https://yayc.tfnlab.com/images/3671.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3672": {
+    "imgurl": "https://yayc.tfnlab.com/images/3672.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3673": {
+    "imgurl": "https://yayc.tfnlab.com/images/3673.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3674": {
+    "imgurl": "https://yayc.tfnlab.com/images/3674.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3675": {
+    "imgurl": "https://yayc.tfnlab.com/images/3675.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3676": {
+    "imgurl": "https://yayc.tfnlab.com/images/3676.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3677": {
+    "imgurl": "https://yayc.tfnlab.com/images/3677.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3678": {
+    "imgurl": "https://yayc.tfnlab.com/images/3678.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3679": {
+    "imgurl": "https://yayc.tfnlab.com/images/3679.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3680": {
+    "imgurl": "https://yayc.tfnlab.com/images/3680.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3681": {
+    "imgurl": "https://yayc.tfnlab.com/images/3681.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3682": {
+    "imgurl": "https://yayc.tfnlab.com/images/3682.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3683": {
+    "imgurl": "https://yayc.tfnlab.com/images/3683.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3684": {
+    "imgurl": "https://yayc.tfnlab.com/images/3684.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3685": {
+    "imgurl": "https://yayc.tfnlab.com/images/3685.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3686": {
+    "imgurl": "https://yayc.tfnlab.com/images/3686.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3687": {
+    "imgurl": "https://yayc.tfnlab.com/images/3687.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3688": {
+    "imgurl": "https://yayc.tfnlab.com/images/3688.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3689": {
+    "imgurl": "https://yayc.tfnlab.com/images/3689.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3690": {
+    "imgurl": "https://yayc.tfnlab.com/images/3690.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3691": {
+    "imgurl": "https://yayc.tfnlab.com/images/3691.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3692": {
+    "imgurl": "https://yayc.tfnlab.com/images/3692.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3693": {
+    "imgurl": "https://yayc.tfnlab.com/images/3693.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3694": {
+    "imgurl": "https://yayc.tfnlab.com/images/3694.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3695": {
+    "imgurl": "https://yayc.tfnlab.com/images/3695.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3696": {
+    "imgurl": "https://yayc.tfnlab.com/images/3696.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3697": {
+    "imgurl": "https://yayc.tfnlab.com/images/3697.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3698": {
+    "imgurl": "https://yayc.tfnlab.com/images/3698.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3699": {
+    "imgurl": "https://yayc.tfnlab.com/images/3699.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3700": {
+    "imgurl": "https://yayc.tfnlab.com/images/3700.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3701": {
+    "imgurl": "https://yayc.tfnlab.com/images/3701.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3702": {
+    "imgurl": "https://yayc.tfnlab.com/images/3702.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3703": {
+    "imgurl": "https://yayc.tfnlab.com/images/3703.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3704": {
+    "imgurl": "https://yayc.tfnlab.com/images/3704.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3705": {
+    "imgurl": "https://yayc.tfnlab.com/images/3705.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3706": {
+    "imgurl": "https://yayc.tfnlab.com/images/3706.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3707": {
+    "imgurl": "https://yayc.tfnlab.com/images/3707.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3708": {
+    "imgurl": "https://yayc.tfnlab.com/images/3708.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3709": {
+    "imgurl": "https://yayc.tfnlab.com/images/3709.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3710": {
+    "imgurl": "https://yayc.tfnlab.com/images/3710.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3711": {
+    "imgurl": "https://yayc.tfnlab.com/images/3711.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3712": {
+    "imgurl": "https://yayc.tfnlab.com/images/3712.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3713": {
+    "imgurl": "https://yayc.tfnlab.com/images/3713.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3714": {
+    "imgurl": "https://yayc.tfnlab.com/images/3714.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3715": {
+    "imgurl": "https://yayc.tfnlab.com/images/3715.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3716": {
+    "imgurl": "https://yayc.tfnlab.com/images/3716.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3717": {
+    "imgurl": "https://yayc.tfnlab.com/images/3717.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3718": {
+    "imgurl": "https://yayc.tfnlab.com/images/3718.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3719": {
+    "imgurl": "https://yayc.tfnlab.com/images/3719.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3720": {
+    "imgurl": "https://yayc.tfnlab.com/images/3720.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3721": {
+    "imgurl": "https://yayc.tfnlab.com/images/3721.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3722": {
+    "imgurl": "https://yayc.tfnlab.com/images/3722.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3723": {
+    "imgurl": "https://yayc.tfnlab.com/images/3723.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3724": {
+    "imgurl": "https://yayc.tfnlab.com/images/3724.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3725": {
+    "imgurl": "https://yayc.tfnlab.com/images/3725.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3726": {
+    "imgurl": "https://yayc.tfnlab.com/images/3726.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3727": {
+    "imgurl": "https://yayc.tfnlab.com/images/3727.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3728": {
+    "imgurl": "https://yayc.tfnlab.com/images/3728.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3729": {
+    "imgurl": "https://yayc.tfnlab.com/images/3729.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3730": {
+    "imgurl": "https://yayc.tfnlab.com/images/3730.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3731": {
+    "imgurl": "https://yayc.tfnlab.com/images/3731.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3732": {
+    "imgurl": "https://yayc.tfnlab.com/images/3732.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3733": {
+    "imgurl": "https://yayc.tfnlab.com/images/3733.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3734": {
+    "imgurl": "https://yayc.tfnlab.com/images/3734.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3735": {
+    "imgurl": "https://yayc.tfnlab.com/images/3735.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3736": {
+    "imgurl": "https://yayc.tfnlab.com/images/3736.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3737": {
+    "imgurl": "https://yayc.tfnlab.com/images/3737.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3738": {
+    "imgurl": "https://yayc.tfnlab.com/images/3738.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3739": {
+    "imgurl": "https://yayc.tfnlab.com/images/3739.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3740": {
+    "imgurl": "https://yayc.tfnlab.com/images/3740.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3741": {
+    "imgurl": "https://yayc.tfnlab.com/images/3741.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3742": {
+    "imgurl": "https://yayc.tfnlab.com/images/3742.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3743": {
+    "imgurl": "https://yayc.tfnlab.com/images/3743.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3744": {
+    "imgurl": "https://yayc.tfnlab.com/images/3744.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3745": {
+    "imgurl": "https://yayc.tfnlab.com/images/3745.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3746": {
+    "imgurl": "https://yayc.tfnlab.com/images/3746.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3747": {
+    "imgurl": "https://yayc.tfnlab.com/images/3747.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3748": {
+    "imgurl": "https://yayc.tfnlab.com/images/3748.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3749": {
+    "imgurl": "https://yayc.tfnlab.com/images/3749.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3750": {
+    "imgurl": "https://yayc.tfnlab.com/images/3750.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3751": {
+    "imgurl": "https://yayc.tfnlab.com/images/3751.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3752": {
+    "imgurl": "https://yayc.tfnlab.com/images/3752.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3753": {
+    "imgurl": "https://yayc.tfnlab.com/images/3753.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3754": {
+    "imgurl": "https://yayc.tfnlab.com/images/3754.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3755": {
+    "imgurl": "https://yayc.tfnlab.com/images/3755.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3756": {
+    "imgurl": "https://yayc.tfnlab.com/images/3756.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3757": {
+    "imgurl": "https://yayc.tfnlab.com/images/3757.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3758": {
+    "imgurl": "https://yayc.tfnlab.com/images/3758.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3759": {
+    "imgurl": "https://yayc.tfnlab.com/images/3759.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3760": {
+    "imgurl": "https://yayc.tfnlab.com/images/3760.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3761": {
+    "imgurl": "https://yayc.tfnlab.com/images/3761.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3762": {
+    "imgurl": "https://yayc.tfnlab.com/images/3762.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3763": {
+    "imgurl": "https://yayc.tfnlab.com/images/3763.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3764": {
+    "imgurl": "https://yayc.tfnlab.com/images/3764.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3765": {
+    "imgurl": "https://yayc.tfnlab.com/images/3765.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3766": {
+    "imgurl": "https://yayc.tfnlab.com/images/3766.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3767": {
+    "imgurl": "https://yayc.tfnlab.com/images/3767.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3768": {
+    "imgurl": "https://yayc.tfnlab.com/images/3768.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3769": {
+    "imgurl": "https://yayc.tfnlab.com/images/3769.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3770": {
+    "imgurl": "https://yayc.tfnlab.com/images/3770.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3771": {
+    "imgurl": "https://yayc.tfnlab.com/images/3771.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3772": {
+    "imgurl": "https://yayc.tfnlab.com/images/3772.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3773": {
+    "imgurl": "https://yayc.tfnlab.com/images/3773.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3774": {
+    "imgurl": "https://yayc.tfnlab.com/images/3774.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3775": {
+    "imgurl": "https://yayc.tfnlab.com/images/3775.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3776": {
+    "imgurl": "https://yayc.tfnlab.com/images/3776.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3777": {
+    "imgurl": "https://yayc.tfnlab.com/images/3777.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3778": {
+    "imgurl": "https://yayc.tfnlab.com/images/3778.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3779": {
+    "imgurl": "https://yayc.tfnlab.com/images/3779.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3780": {
+    "imgurl": "https://yayc.tfnlab.com/images/3780.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3781": {
+    "imgurl": "https://yayc.tfnlab.com/images/3781.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3782": {
+    "imgurl": "https://yayc.tfnlab.com/images/3782.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3783": {
+    "imgurl": "https://yayc.tfnlab.com/images/3783.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3784": {
+    "imgurl": "https://yayc.tfnlab.com/images/3784.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3785": {
+    "imgurl": "https://yayc.tfnlab.com/images/3785.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3786": {
+    "imgurl": "https://yayc.tfnlab.com/images/3786.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3787": {
+    "imgurl": "https://yayc.tfnlab.com/images/3787.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3788": {
+    "imgurl": "https://yayc.tfnlab.com/images/3788.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3789": {
+    "imgurl": "https://yayc.tfnlab.com/images/3789.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3790": {
+    "imgurl": "https://yayc.tfnlab.com/images/3790.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3791": {
+    "imgurl": "https://yayc.tfnlab.com/images/3791.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3792": {
+    "imgurl": "https://yayc.tfnlab.com/images/3792.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3793": {
+    "imgurl": "https://yayc.tfnlab.com/images/3793.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3794": {
+    "imgurl": "https://yayc.tfnlab.com/images/3794.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3795": {
+    "imgurl": "https://yayc.tfnlab.com/images/3795.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3796": {
+    "imgurl": "https://yayc.tfnlab.com/images/3796.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3797": {
+    "imgurl": "https://yayc.tfnlab.com/images/3797.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3798": {
+    "imgurl": "https://yayc.tfnlab.com/images/3798.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3799": {
+    "imgurl": "https://yayc.tfnlab.com/images/3799.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3800": {
+    "imgurl": "https://yayc.tfnlab.com/images/3800.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3801": {
+    "imgurl": "https://yayc.tfnlab.com/images/3801.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3802": {
+    "imgurl": "https://yayc.tfnlab.com/images/3802.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3803": {
+    "imgurl": "https://yayc.tfnlab.com/images/3803.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3804": {
+    "imgurl": "https://yayc.tfnlab.com/images/3804.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3805": {
+    "imgurl": "https://yayc.tfnlab.com/images/3805.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3806": {
+    "imgurl": "https://yayc.tfnlab.com/images/3806.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3807": {
+    "imgurl": "https://yayc.tfnlab.com/images/3807.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3808": {
+    "imgurl": "https://yayc.tfnlab.com/images/3808.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3809": {
+    "imgurl": "https://yayc.tfnlab.com/images/3809.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3810": {
+    "imgurl": "https://yayc.tfnlab.com/images/3810.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3811": {
+    "imgurl": "https://yayc.tfnlab.com/images/3811.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3812": {
+    "imgurl": "https://yayc.tfnlab.com/images/3812.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3813": {
+    "imgurl": "https://yayc.tfnlab.com/images/3813.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3814": {
+    "imgurl": "https://yayc.tfnlab.com/images/3814.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3815": {
+    "imgurl": "https://yayc.tfnlab.com/images/3815.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3816": {
+    "imgurl": "https://yayc.tfnlab.com/images/3816.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3817": {
+    "imgurl": "https://yayc.tfnlab.com/images/3817.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3818": {
+    "imgurl": "https://yayc.tfnlab.com/images/3818.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3819": {
+    "imgurl": "https://yayc.tfnlab.com/images/3819.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3820": {
+    "imgurl": "https://yayc.tfnlab.com/images/3820.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3821": {
+    "imgurl": "https://yayc.tfnlab.com/images/3821.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3822": {
+    "imgurl": "https://yayc.tfnlab.com/images/3822.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3823": {
+    "imgurl": "https://yayc.tfnlab.com/images/3823.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3824": {
+    "imgurl": "https://yayc.tfnlab.com/images/3824.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3825": {
+    "imgurl": "https://yayc.tfnlab.com/images/3825.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3826": {
+    "imgurl": "https://yayc.tfnlab.com/images/3826.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3827": {
+    "imgurl": "https://yayc.tfnlab.com/images/3827.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3828": {
+    "imgurl": "https://yayc.tfnlab.com/images/3828.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3829": {
+    "imgurl": "https://yayc.tfnlab.com/images/3829.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3830": {
+    "imgurl": "https://yayc.tfnlab.com/images/3830.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3831": {
+    "imgurl": "https://yayc.tfnlab.com/images/3831.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3832": {
+    "imgurl": "https://yayc.tfnlab.com/images/3832.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3833": {
+    "imgurl": "https://yayc.tfnlab.com/images/3833.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3834": {
+    "imgurl": "https://yayc.tfnlab.com/images/3834.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3835": {
+    "imgurl": "https://yayc.tfnlab.com/images/3835.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3836": {
+    "imgurl": "https://yayc.tfnlab.com/images/3836.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3837": {
+    "imgurl": "https://yayc.tfnlab.com/images/3837.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3838": {
+    "imgurl": "https://yayc.tfnlab.com/images/3838.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3839": {
+    "imgurl": "https://yayc.tfnlab.com/images/3839.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3840": {
+    "imgurl": "https://yayc.tfnlab.com/images/3840.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3841": {
+    "imgurl": "https://yayc.tfnlab.com/images/3841.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3842": {
+    "imgurl": "https://yayc.tfnlab.com/images/3842.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3843": {
+    "imgurl": "https://yayc.tfnlab.com/images/3843.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3844": {
+    "imgurl": "https://yayc.tfnlab.com/images/3844.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3845": {
+    "imgurl": "https://yayc.tfnlab.com/images/3845.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3846": {
+    "imgurl": "https://yayc.tfnlab.com/images/3846.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3847": {
+    "imgurl": "https://yayc.tfnlab.com/images/3847.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3848": {
+    "imgurl": "https://yayc.tfnlab.com/images/3848.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3849": {
+    "imgurl": "https://yayc.tfnlab.com/images/3849.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3850": {
+    "imgurl": "https://yayc.tfnlab.com/images/3850.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3851": {
+    "imgurl": "https://yayc.tfnlab.com/images/3851.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3852": {
+    "imgurl": "https://yayc.tfnlab.com/images/3852.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3853": {
+    "imgurl": "https://yayc.tfnlab.com/images/3853.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3854": {
+    "imgurl": "https://yayc.tfnlab.com/images/3854.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3855": {
+    "imgurl": "https://yayc.tfnlab.com/images/3855.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3856": {
+    "imgurl": "https://yayc.tfnlab.com/images/3856.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3857": {
+    "imgurl": "https://yayc.tfnlab.com/images/3857.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3858": {
+    "imgurl": "https://yayc.tfnlab.com/images/3858.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3859": {
+    "imgurl": "https://yayc.tfnlab.com/images/3859.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3860": {
+    "imgurl": "https://yayc.tfnlab.com/images/3860.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3861": {
+    "imgurl": "https://yayc.tfnlab.com/images/3861.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3862": {
+    "imgurl": "https://yayc.tfnlab.com/images/3862.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3863": {
+    "imgurl": "https://yayc.tfnlab.com/images/3863.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3864": {
+    "imgurl": "https://yayc.tfnlab.com/images/3864.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3865": {
+    "imgurl": "https://yayc.tfnlab.com/images/3865.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3866": {
+    "imgurl": "https://yayc.tfnlab.com/images/3866.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3867": {
+    "imgurl": "https://yayc.tfnlab.com/images/3867.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3868": {
+    "imgurl": "https://yayc.tfnlab.com/images/3868.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3869": {
+    "imgurl": "https://yayc.tfnlab.com/images/3869.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3870": {
+    "imgurl": "https://yayc.tfnlab.com/images/3870.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3871": {
+    "imgurl": "https://yayc.tfnlab.com/images/3871.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3872": {
+    "imgurl": "https://yayc.tfnlab.com/images/3872.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3873": {
+    "imgurl": "https://yayc.tfnlab.com/images/3873.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3874": {
+    "imgurl": "https://yayc.tfnlab.com/images/3874.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3875": {
+    "imgurl": "https://yayc.tfnlab.com/images/3875.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3876": {
+    "imgurl": "https://yayc.tfnlab.com/images/3876.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3877": {
+    "imgurl": "https://yayc.tfnlab.com/images/3877.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3878": {
+    "imgurl": "https://yayc.tfnlab.com/images/3878.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3879": {
+    "imgurl": "https://yayc.tfnlab.com/images/3879.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3880": {
+    "imgurl": "https://yayc.tfnlab.com/images/3880.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3881": {
+    "imgurl": "https://yayc.tfnlab.com/images/3881.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3882": {
+    "imgurl": "https://yayc.tfnlab.com/images/3882.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3883": {
+    "imgurl": "https://yayc.tfnlab.com/images/3883.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3884": {
+    "imgurl": "https://yayc.tfnlab.com/images/3884.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3885": {
+    "imgurl": "https://yayc.tfnlab.com/images/3885.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3886": {
+    "imgurl": "https://yayc.tfnlab.com/images/3886.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3887": {
+    "imgurl": "https://yayc.tfnlab.com/images/3887.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3888": {
+    "imgurl": "https://yayc.tfnlab.com/images/3888.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3889": {
+    "imgurl": "https://yayc.tfnlab.com/images/3889.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3890": {
+    "imgurl": "https://yayc.tfnlab.com/images/3890.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3891": {
+    "imgurl": "https://yayc.tfnlab.com/images/3891.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3892": {
+    "imgurl": "https://yayc.tfnlab.com/images/3892.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3893": {
+    "imgurl": "https://yayc.tfnlab.com/images/3893.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3894": {
+    "imgurl": "https://yayc.tfnlab.com/images/3894.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3895": {
+    "imgurl": "https://yayc.tfnlab.com/images/3895.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3896": {
+    "imgurl": "https://yayc.tfnlab.com/images/3896.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3897": {
+    "imgurl": "https://yayc.tfnlab.com/images/3897.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3898": {
+    "imgurl": "https://yayc.tfnlab.com/images/3898.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3899": {
+    "imgurl": "https://yayc.tfnlab.com/images/3899.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3900": {
+    "imgurl": "https://yayc.tfnlab.com/images/3900.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3901": {
+    "imgurl": "https://yayc.tfnlab.com/images/3901.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3902": {
+    "imgurl": "https://yayc.tfnlab.com/images/3902.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3903": {
+    "imgurl": "https://yayc.tfnlab.com/images/3903.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3904": {
+    "imgurl": "https://yayc.tfnlab.com/images/3904.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3905": {
+    "imgurl": "https://yayc.tfnlab.com/images/3905.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3906": {
+    "imgurl": "https://yayc.tfnlab.com/images/3906.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3907": {
+    "imgurl": "https://yayc.tfnlab.com/images/3907.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3908": {
+    "imgurl": "https://yayc.tfnlab.com/images/3908.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3909": {
+    "imgurl": "https://yayc.tfnlab.com/images/3909.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "3910": {
+    "imgurl": "https://yayc.tfnlab.com/images/3910.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3911": {
+    "imgurl": "https://yayc.tfnlab.com/images/3911.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3912": {
+    "imgurl": "https://yayc.tfnlab.com/images/3912.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3913": {
+    "imgurl": "https://yayc.tfnlab.com/images/3913.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3914": {
+    "imgurl": "https://yayc.tfnlab.com/images/3914.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3915": {
+    "imgurl": "https://yayc.tfnlab.com/images/3915.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3916": {
+    "imgurl": "https://yayc.tfnlab.com/images/3916.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3917": {
+    "imgurl": "https://yayc.tfnlab.com/images/3917.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3918": {
+    "imgurl": "https://yayc.tfnlab.com/images/3918.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3919": {
+    "imgurl": "https://yayc.tfnlab.com/images/3919.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3920": {
+    "imgurl": "https://yayc.tfnlab.com/images/3920.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3921": {
+    "imgurl": "https://yayc.tfnlab.com/images/3921.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3922": {
+    "imgurl": "https://yayc.tfnlab.com/images/3922.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "3923": {
+    "imgurl": "https://yayc.tfnlab.com/images/3923.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3924": {
+    "imgurl": "https://yayc.tfnlab.com/images/3924.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3925": {
+    "imgurl": "https://yayc.tfnlab.com/images/3925.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3926": {
+    "imgurl": "https://yayc.tfnlab.com/images/3926.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3927": {
+    "imgurl": "https://yayc.tfnlab.com/images/3927.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3928": {
+    "imgurl": "https://yayc.tfnlab.com/images/3928.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3929": {
+    "imgurl": "https://yayc.tfnlab.com/images/3929.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3930": {
+    "imgurl": "https://yayc.tfnlab.com/images/3930.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3931": {
+    "imgurl": "https://yayc.tfnlab.com/images/3931.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3932": {
+    "imgurl": "https://yayc.tfnlab.com/images/3932.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3933": {
+    "imgurl": "https://yayc.tfnlab.com/images/3933.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3934": {
+    "imgurl": "https://yayc.tfnlab.com/images/3934.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "3935": {
+    "imgurl": "https://yayc.tfnlab.com/images/3935.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3936": {
+    "imgurl": "https://yayc.tfnlab.com/images/3936.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3937": {
+    "imgurl": "https://yayc.tfnlab.com/images/3937.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3938": {
+    "imgurl": "https://yayc.tfnlab.com/images/3938.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3939": {
+    "imgurl": "https://yayc.tfnlab.com/images/3939.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3940": {
+    "imgurl": "https://yayc.tfnlab.com/images/3940.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3941": {
+    "imgurl": "https://yayc.tfnlab.com/images/3941.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3942": {
+    "imgurl": "https://yayc.tfnlab.com/images/3942.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3943": {
+    "imgurl": "https://yayc.tfnlab.com/images/3943.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3944": {
+    "imgurl": "https://yayc.tfnlab.com/images/3944.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3945": {
+    "imgurl": "https://yayc.tfnlab.com/images/3945.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3946": {
+    "imgurl": "https://yayc.tfnlab.com/images/3946.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "3947": {
+    "imgurl": "https://yayc.tfnlab.com/images/3947.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3948": {
+    "imgurl": "https://yayc.tfnlab.com/images/3948.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3949": {
+    "imgurl": "https://yayc.tfnlab.com/images/3949.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3950": {
+    "imgurl": "https://yayc.tfnlab.com/images/3950.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "3951": {
+    "imgurl": "https://yayc.tfnlab.com/images/3951.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "3952": {
+    "imgurl": "https://yayc.tfnlab.com/images/3952.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3953": {
+    "imgurl": "https://yayc.tfnlab.com/images/3953.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3954": {
+    "imgurl": "https://yayc.tfnlab.com/images/3954.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3955": {
+    "imgurl": "https://yayc.tfnlab.com/images/3955.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "3956": {
+    "imgurl": "https://yayc.tfnlab.com/images/3956.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3957": {
+    "imgurl": "https://yayc.tfnlab.com/images/3957.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3958": {
+    "imgurl": "https://yayc.tfnlab.com/images/3958.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3959": {
+    "imgurl": "https://yayc.tfnlab.com/images/3959.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3960": {
+    "imgurl": "https://yayc.tfnlab.com/images/3960.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3961": {
+    "imgurl": "https://yayc.tfnlab.com/images/3961.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3962": {
+    "imgurl": "https://yayc.tfnlab.com/images/3962.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "3963": {
+    "imgurl": "https://yayc.tfnlab.com/images/3963.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3964": {
+    "imgurl": "https://yayc.tfnlab.com/images/3964.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3965": {
+    "imgurl": "https://yayc.tfnlab.com/images/3965.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3966": {
+    "imgurl": "https://yayc.tfnlab.com/images/3966.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3967": {
+    "imgurl": "https://yayc.tfnlab.com/images/3967.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "3968": {
+    "imgurl": "https://yayc.tfnlab.com/images/3968.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3969": {
+    "imgurl": "https://yayc.tfnlab.com/images/3969.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3970": {
+    "imgurl": "https://yayc.tfnlab.com/images/3970.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3971": {
+    "imgurl": "https://yayc.tfnlab.com/images/3971.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3972": {
+    "imgurl": "https://yayc.tfnlab.com/images/3972.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3973": {
+    "imgurl": "https://yayc.tfnlab.com/images/3973.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "3974": {
+    "imgurl": "https://yayc.tfnlab.com/images/3974.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3975": {
+    "imgurl": "https://yayc.tfnlab.com/images/3975.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3976": {
+    "imgurl": "https://yayc.tfnlab.com/images/3976.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "3977": {
+    "imgurl": "https://yayc.tfnlab.com/images/3977.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3978": {
+    "imgurl": "https://yayc.tfnlab.com/images/3978.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3979": {
+    "imgurl": "https://yayc.tfnlab.com/images/3979.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3980": {
+    "imgurl": "https://yayc.tfnlab.com/images/3980.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "3981": {
+    "imgurl": "https://yayc.tfnlab.com/images/3981.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3982": {
+    "imgurl": "https://yayc.tfnlab.com/images/3982.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "3983": {
+    "imgurl": "https://yayc.tfnlab.com/images/3983.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "3984": {
+    "imgurl": "https://yayc.tfnlab.com/images/3984.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "3985": {
+    "imgurl": "https://yayc.tfnlab.com/images/3985.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3986": {
+    "imgurl": "https://yayc.tfnlab.com/images/3986.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3987": {
+    "imgurl": "https://yayc.tfnlab.com/images/3987.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3988": {
+    "imgurl": "https://yayc.tfnlab.com/images/3988.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "3989": {
+    "imgurl": "https://yayc.tfnlab.com/images/3989.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "3990": {
+    "imgurl": "https://yayc.tfnlab.com/images/3990.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3991": {
+    "imgurl": "https://yayc.tfnlab.com/images/3991.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "3992": {
+    "imgurl": "https://yayc.tfnlab.com/images/3992.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "3993": {
+    "imgurl": "https://yayc.tfnlab.com/images/3993.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3994": {
+    "imgurl": "https://yayc.tfnlab.com/images/3994.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "3995": {
+    "imgurl": "https://yayc.tfnlab.com/images/3995.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "3996": {
+    "imgurl": "https://yayc.tfnlab.com/images/3996.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "3997": {
+    "imgurl": "https://yayc.tfnlab.com/images/3997.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "3998": {
+    "imgurl": "https://yayc.tfnlab.com/images/3998.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "3999": {
+    "imgurl": "https://yayc.tfnlab.com/images/3999.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4000": {
+    "imgurl": "https://yayc.tfnlab.com/images/4000.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4001": {
+    "imgurl": "https://yayc.tfnlab.com/images/4001.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "4002": {
+    "imgurl": "https://yayc.tfnlab.com/images/4002.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4003": {
+    "imgurl": "https://yayc.tfnlab.com/images/4003.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4004": {
+    "imgurl": "https://yayc.tfnlab.com/images/4004.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "4005": {
+    "imgurl": "https://yayc.tfnlab.com/images/4005.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4006": {
+    "imgurl": "https://yayc.tfnlab.com/images/4006.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4007": {
+    "imgurl": "https://yayc.tfnlab.com/images/4007.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "4008": {
+    "imgurl": "https://yayc.tfnlab.com/images/4008.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "4009": {
+    "imgurl": "https://yayc.tfnlab.com/images/4009.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4010": {
+    "imgurl": "https://yayc.tfnlab.com/images/4010.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4011": {
+    "imgurl": "https://yayc.tfnlab.com/images/4011.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4012": {
+    "imgurl": "https://yayc.tfnlab.com/images/4012.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4013": {
+    "imgurl": "https://yayc.tfnlab.com/images/4013.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4014": {
+    "imgurl": "https://yayc.tfnlab.com/images/4014.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4015": {
+    "imgurl": "https://yayc.tfnlab.com/images/4015.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4016": {
+    "imgurl": "https://yayc.tfnlab.com/images/4016.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "4017": {
+    "imgurl": "https://yayc.tfnlab.com/images/4017.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4018": {
+    "imgurl": "https://yayc.tfnlab.com/images/4018.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "4019": {
+    "imgurl": "https://yayc.tfnlab.com/images/4019.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4020": {
+    "imgurl": "https://yayc.tfnlab.com/images/4020.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4021": {
+    "imgurl": "https://yayc.tfnlab.com/images/4021.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4022": {
+    "imgurl": "https://yayc.tfnlab.com/images/4022.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4023": {
+    "imgurl": "https://yayc.tfnlab.com/images/4023.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4024": {
+    "imgurl": "https://yayc.tfnlab.com/images/4024.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4025": {
+    "imgurl": "https://yayc.tfnlab.com/images/4025.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4026": {
+    "imgurl": "https://yayc.tfnlab.com/images/4026.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4027": {
+    "imgurl": "https://yayc.tfnlab.com/images/4027.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4028": {
+    "imgurl": "https://yayc.tfnlab.com/images/4028.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4029": {
+    "imgurl": "https://yayc.tfnlab.com/images/4029.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "4030": {
+    "imgurl": "https://yayc.tfnlab.com/images/4030.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4031": {
+    "imgurl": "https://yayc.tfnlab.com/images/4031.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4032": {
+    "imgurl": "https://yayc.tfnlab.com/images/4032.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4033": {
+    "imgurl": "https://yayc.tfnlab.com/images/4033.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4034": {
+    "imgurl": "https://yayc.tfnlab.com/images/4034.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4035": {
+    "imgurl": "https://yayc.tfnlab.com/images/4035.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4036": {
+    "imgurl": "https://yayc.tfnlab.com/images/4036.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4037": {
+    "imgurl": "https://yayc.tfnlab.com/images/4037.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4038": {
+    "imgurl": "https://yayc.tfnlab.com/images/4038.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "4039": {
+    "imgurl": "https://yayc.tfnlab.com/images/4039.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4040": {
+    "imgurl": "https://yayc.tfnlab.com/images/4040.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4041": {
+    "imgurl": "https://yayc.tfnlab.com/images/4041.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "4042": {
+    "imgurl": "https://yayc.tfnlab.com/images/4042.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4043": {
+    "imgurl": "https://yayc.tfnlab.com/images/4043.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4044": {
+    "imgurl": "https://yayc.tfnlab.com/images/4044.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "4045": {
+    "imgurl": "https://yayc.tfnlab.com/images/4045.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4046": {
+    "imgurl": "https://yayc.tfnlab.com/images/4046.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4047": {
+    "imgurl": "https://yayc.tfnlab.com/images/4047.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4048": {
+    "imgurl": "https://yayc.tfnlab.com/images/4048.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4049": {
+    "imgurl": "https://yayc.tfnlab.com/images/4049.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "4050": {
+    "imgurl": "https://yayc.tfnlab.com/images/4050.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4051": {
+    "imgurl": "https://yayc.tfnlab.com/images/4051.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4052": {
+    "imgurl": "https://yayc.tfnlab.com/images/4052.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4053": {
+    "imgurl": "https://yayc.tfnlab.com/images/4053.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4054": {
+    "imgurl": "https://yayc.tfnlab.com/images/4054.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4055": {
+    "imgurl": "https://yayc.tfnlab.com/images/4055.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4056": {
+    "imgurl": "https://yayc.tfnlab.com/images/4056.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4057": {
+    "imgurl": "https://yayc.tfnlab.com/images/4057.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4058": {
+    "imgurl": "https://yayc.tfnlab.com/images/4058.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4059": {
+    "imgurl": "https://yayc.tfnlab.com/images/4059.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4060": {
+    "imgurl": "https://yayc.tfnlab.com/images/4060.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4061": {
+    "imgurl": "https://yayc.tfnlab.com/images/4061.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4062": {
+    "imgurl": "https://yayc.tfnlab.com/images/4062.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "4063": {
+    "imgurl": "https://yayc.tfnlab.com/images/4063.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4064": {
+    "imgurl": "https://yayc.tfnlab.com/images/4064.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4065": {
+    "imgurl": "https://yayc.tfnlab.com/images/4065.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4066": {
+    "imgurl": "https://yayc.tfnlab.com/images/4066.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4067": {
+    "imgurl": "https://yayc.tfnlab.com/images/4067.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4068": {
+    "imgurl": "https://yayc.tfnlab.com/images/4068.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4069": {
+    "imgurl": "https://yayc.tfnlab.com/images/4069.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4070": {
+    "imgurl": "https://yayc.tfnlab.com/images/4070.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4071": {
+    "imgurl": "https://yayc.tfnlab.com/images/4071.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4072": {
+    "imgurl": "https://yayc.tfnlab.com/images/4072.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4073": {
+    "imgurl": "https://yayc.tfnlab.com/images/4073.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "4074": {
+    "imgurl": "https://yayc.tfnlab.com/images/4074.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4075": {
+    "imgurl": "https://yayc.tfnlab.com/images/4075.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4076": {
+    "imgurl": "https://yayc.tfnlab.com/images/4076.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4077": {
+    "imgurl": "https://yayc.tfnlab.com/images/4077.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4078": {
+    "imgurl": "https://yayc.tfnlab.com/images/4078.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4079": {
+    "imgurl": "https://yayc.tfnlab.com/images/4079.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4080": {
+    "imgurl": "https://yayc.tfnlab.com/images/4080.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4081": {
+    "imgurl": "https://yayc.tfnlab.com/images/4081.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4082": {
+    "imgurl": "https://yayc.tfnlab.com/images/4082.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4083": {
+    "imgurl": "https://yayc.tfnlab.com/images/4083.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4084": {
+    "imgurl": "https://yayc.tfnlab.com/images/4084.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4085": {
+    "imgurl": "https://yayc.tfnlab.com/images/4085.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4086": {
+    "imgurl": "https://yayc.tfnlab.com/images/4086.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4087": {
+    "imgurl": "https://yayc.tfnlab.com/images/4087.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4088": {
+    "imgurl": "https://yayc.tfnlab.com/images/4088.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4089": {
+    "imgurl": "https://yayc.tfnlab.com/images/4089.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4090": {
+    "imgurl": "https://yayc.tfnlab.com/images/4090.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4091": {
+    "imgurl": "https://yayc.tfnlab.com/images/4091.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4092": {
+    "imgurl": "https://yayc.tfnlab.com/images/4092.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "4093": {
+    "imgurl": "https://yayc.tfnlab.com/images/4093.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4094": {
+    "imgurl": "https://yayc.tfnlab.com/images/4094.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4095": {
+    "imgurl": "https://yayc.tfnlab.com/images/4095.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4096": {
+    "imgurl": "https://yayc.tfnlab.com/images/4096.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "4097": {
+    "imgurl": "https://yayc.tfnlab.com/images/4097.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4098": {
+    "imgurl": "https://yayc.tfnlab.com/images/4098.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4099": {
+    "imgurl": "https://yayc.tfnlab.com/images/4099.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4100": {
+    "imgurl": "https://yayc.tfnlab.com/images/4100.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4101": {
+    "imgurl": "https://yayc.tfnlab.com/images/4101.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4102": {
+    "imgurl": "https://yayc.tfnlab.com/images/4102.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4103": {
+    "imgurl": "https://yayc.tfnlab.com/images/4103.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4104": {
+    "imgurl": "https://yayc.tfnlab.com/images/4104.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4105": {
+    "imgurl": "https://yayc.tfnlab.com/images/4105.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4106": {
+    "imgurl": "https://yayc.tfnlab.com/images/4106.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "4107": {
+    "imgurl": "https://yayc.tfnlab.com/images/4107.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4108": {
+    "imgurl": "https://yayc.tfnlab.com/images/4108.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4109": {
+    "imgurl": "https://yayc.tfnlab.com/images/4109.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "4110": {
+    "imgurl": "https://yayc.tfnlab.com/images/4110.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "4111": {
+    "imgurl": "https://yayc.tfnlab.com/images/4111.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4112": {
+    "imgurl": "https://yayc.tfnlab.com/images/4112.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4113": {
+    "imgurl": "https://yayc.tfnlab.com/images/4113.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4114": {
+    "imgurl": "https://yayc.tfnlab.com/images/4114.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4115": {
+    "imgurl": "https://yayc.tfnlab.com/images/4115.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4116": {
+    "imgurl": "https://yayc.tfnlab.com/images/4116.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4117": {
+    "imgurl": "https://yayc.tfnlab.com/images/4117.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4118": {
+    "imgurl": "https://yayc.tfnlab.com/images/4118.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4119": {
+    "imgurl": "https://yayc.tfnlab.com/images/4119.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "4120": {
+    "imgurl": "https://yayc.tfnlab.com/images/4120.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4121": {
+    "imgurl": "https://yayc.tfnlab.com/images/4121.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "4122": {
+    "imgurl": "https://yayc.tfnlab.com/images/4122.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4123": {
+    "imgurl": "https://yayc.tfnlab.com/images/4123.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4124": {
+    "imgurl": "https://yayc.tfnlab.com/images/4124.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "4125": {
+    "imgurl": "https://yayc.tfnlab.com/images/4125.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4126": {
+    "imgurl": "https://yayc.tfnlab.com/images/4126.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4127": {
+    "imgurl": "https://yayc.tfnlab.com/images/4127.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4128": {
+    "imgurl": "https://yayc.tfnlab.com/images/4128.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4129": {
+    "imgurl": "https://yayc.tfnlab.com/images/4129.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4130": {
+    "imgurl": "https://yayc.tfnlab.com/images/4130.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4131": {
+    "imgurl": "https://yayc.tfnlab.com/images/4131.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4132": {
+    "imgurl": "https://yayc.tfnlab.com/images/4132.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4133": {
+    "imgurl": "https://yayc.tfnlab.com/images/4133.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4134": {
+    "imgurl": "https://yayc.tfnlab.com/images/4134.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4135": {
+    "imgurl": "https://yayc.tfnlab.com/images/4135.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4136": {
+    "imgurl": "https://yayc.tfnlab.com/images/4136.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4137": {
+    "imgurl": "https://yayc.tfnlab.com/images/4137.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4138": {
+    "imgurl": "https://yayc.tfnlab.com/images/4138.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4139": {
+    "imgurl": "https://yayc.tfnlab.com/images/4139.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "4140": {
+    "imgurl": "https://yayc.tfnlab.com/images/4140.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4141": {
+    "imgurl": "https://yayc.tfnlab.com/images/4141.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4142": {
+    "imgurl": "https://yayc.tfnlab.com/images/4142.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4143": {
+    "imgurl": "https://yayc.tfnlab.com/images/4143.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4144": {
+    "imgurl": "https://yayc.tfnlab.com/images/4144.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4145": {
+    "imgurl": "https://yayc.tfnlab.com/images/4145.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4146": {
+    "imgurl": "https://yayc.tfnlab.com/images/4146.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4147": {
+    "imgurl": "https://yayc.tfnlab.com/images/4147.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4148": {
+    "imgurl": "https://yayc.tfnlab.com/images/4148.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4149": {
+    "imgurl": "https://yayc.tfnlab.com/images/4149.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4150": {
+    "imgurl": "https://yayc.tfnlab.com/images/4150.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4151": {
+    "imgurl": "https://yayc.tfnlab.com/images/4151.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4152": {
+    "imgurl": "https://yayc.tfnlab.com/images/4152.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4153": {
+    "imgurl": "https://yayc.tfnlab.com/images/4153.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4154": {
+    "imgurl": "https://yayc.tfnlab.com/images/4154.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4155": {
+    "imgurl": "https://yayc.tfnlab.com/images/4155.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4156": {
+    "imgurl": "https://yayc.tfnlab.com/images/4156.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4157": {
+    "imgurl": "https://yayc.tfnlab.com/images/4157.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4158": {
+    "imgurl": "https://yayc.tfnlab.com/images/4158.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4159": {
+    "imgurl": "https://yayc.tfnlab.com/images/4159.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4160": {
+    "imgurl": "https://yayc.tfnlab.com/images/4160.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4161": {
+    "imgurl": "https://yayc.tfnlab.com/images/4161.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "4162": {
+    "imgurl": "https://yayc.tfnlab.com/images/4162.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4163": {
+    "imgurl": "https://yayc.tfnlab.com/images/4163.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4164": {
+    "imgurl": "https://yayc.tfnlab.com/images/4164.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4165": {
+    "imgurl": "https://yayc.tfnlab.com/images/4165.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4166": {
+    "imgurl": "https://yayc.tfnlab.com/images/4166.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4167": {
+    "imgurl": "https://yayc.tfnlab.com/images/4167.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4168": {
+    "imgurl": "https://yayc.tfnlab.com/images/4168.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4169": {
+    "imgurl": "https://yayc.tfnlab.com/images/4169.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4170": {
+    "imgurl": "https://yayc.tfnlab.com/images/4170.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4171": {
+    "imgurl": "https://yayc.tfnlab.com/images/4171.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4172": {
+    "imgurl": "https://yayc.tfnlab.com/images/4172.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4173": {
+    "imgurl": "https://yayc.tfnlab.com/images/4173.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4174": {
+    "imgurl": "https://yayc.tfnlab.com/images/4174.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "4175": {
+    "imgurl": "https://yayc.tfnlab.com/images/4175.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4176": {
+    "imgurl": "https://yayc.tfnlab.com/images/4176.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4177": {
+    "imgurl": "https://yayc.tfnlab.com/images/4177.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4178": {
+    "imgurl": "https://yayc.tfnlab.com/images/4178.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4179": {
+    "imgurl": "https://yayc.tfnlab.com/images/4179.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4180": {
+    "imgurl": "https://yayc.tfnlab.com/images/4180.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4181": {
+    "imgurl": "https://yayc.tfnlab.com/images/4181.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4182": {
+    "imgurl": "https://yayc.tfnlab.com/images/4182.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4183": {
+    "imgurl": "https://yayc.tfnlab.com/images/4183.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4184": {
+    "imgurl": "https://yayc.tfnlab.com/images/4184.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4185": {
+    "imgurl": "https://yayc.tfnlab.com/images/4185.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4186": {
+    "imgurl": "https://yayc.tfnlab.com/images/4186.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4187": {
+    "imgurl": "https://yayc.tfnlab.com/images/4187.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4188": {
+    "imgurl": "https://yayc.tfnlab.com/images/4188.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4189": {
+    "imgurl": "https://yayc.tfnlab.com/images/4189.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4190": {
+    "imgurl": "https://yayc.tfnlab.com/images/4190.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4191": {
+    "imgurl": "https://yayc.tfnlab.com/images/4191.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "4192": {
+    "imgurl": "https://yayc.tfnlab.com/images/4192.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "4193": {
+    "imgurl": "https://yayc.tfnlab.com/images/4193.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4194": {
+    "imgurl": "https://yayc.tfnlab.com/images/4194.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4195": {
+    "imgurl": "https://yayc.tfnlab.com/images/4195.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4196": {
+    "imgurl": "https://yayc.tfnlab.com/images/4196.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4197": {
+    "imgurl": "https://yayc.tfnlab.com/images/4197.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4198": {
+    "imgurl": "https://yayc.tfnlab.com/images/4198.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4199": {
+    "imgurl": "https://yayc.tfnlab.com/images/4199.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4200": {
+    "imgurl": "https://yayc.tfnlab.com/images/4200.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4201": {
+    "imgurl": "https://yayc.tfnlab.com/images/4201.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4202": {
+    "imgurl": "https://yayc.tfnlab.com/images/4202.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4203": {
+    "imgurl": "https://yayc.tfnlab.com/images/4203.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4204": {
+    "imgurl": "https://yayc.tfnlab.com/images/4204.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4205": {
+    "imgurl": "https://yayc.tfnlab.com/images/4205.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4206": {
+    "imgurl": "https://yayc.tfnlab.com/images/4206.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "4207": {
+    "imgurl": "https://yayc.tfnlab.com/images/4207.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4208": {
+    "imgurl": "https://yayc.tfnlab.com/images/4208.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "4209": {
+    "imgurl": "https://yayc.tfnlab.com/images/4209.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "4210": {
+    "imgurl": "https://yayc.tfnlab.com/images/4210.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4211": {
+    "imgurl": "https://yayc.tfnlab.com/images/4211.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4212": {
+    "imgurl": "https://yayc.tfnlab.com/images/4212.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4213": {
+    "imgurl": "https://yayc.tfnlab.com/images/4213.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4214": {
+    "imgurl": "https://yayc.tfnlab.com/images/4214.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4215": {
+    "imgurl": "https://yayc.tfnlab.com/images/4215.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4216": {
+    "imgurl": "https://yayc.tfnlab.com/images/4216.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4217": {
+    "imgurl": "https://yayc.tfnlab.com/images/4217.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4218": {
+    "imgurl": "https://yayc.tfnlab.com/images/4218.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4219": {
+    "imgurl": "https://yayc.tfnlab.com/images/4219.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4220": {
+    "imgurl": "https://yayc.tfnlab.com/images/4220.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4221": {
+    "imgurl": "https://yayc.tfnlab.com/images/4221.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "4222": {
+    "imgurl": "https://yayc.tfnlab.com/images/4222.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4223": {
+    "imgurl": "https://yayc.tfnlab.com/images/4223.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4224": {
+    "imgurl": "https://yayc.tfnlab.com/images/4224.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4225": {
+    "imgurl": "https://yayc.tfnlab.com/images/4225.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4226": {
+    "imgurl": "https://yayc.tfnlab.com/images/4226.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4227": {
+    "imgurl": "https://yayc.tfnlab.com/images/4227.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4228": {
+    "imgurl": "https://yayc.tfnlab.com/images/4228.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "4229": {
+    "imgurl": "https://yayc.tfnlab.com/images/4229.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4230": {
+    "imgurl": "https://yayc.tfnlab.com/images/4230.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4231": {
+    "imgurl": "https://yayc.tfnlab.com/images/4231.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4232": {
+    "imgurl": "https://yayc.tfnlab.com/images/4232.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4233": {
+    "imgurl": "https://yayc.tfnlab.com/images/4233.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4234": {
+    "imgurl": "https://yayc.tfnlab.com/images/4234.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "4235": {
+    "imgurl": "https://yayc.tfnlab.com/images/4235.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4236": {
+    "imgurl": "https://yayc.tfnlab.com/images/4236.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4237": {
+    "imgurl": "https://yayc.tfnlab.com/images/4237.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4238": {
+    "imgurl": "https://yayc.tfnlab.com/images/4238.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "4239": {
+    "imgurl": "https://yayc.tfnlab.com/images/4239.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "4240": {
+    "imgurl": "https://yayc.tfnlab.com/images/4240.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "4241": {
+    "imgurl": "https://yayc.tfnlab.com/images/4241.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "4242": {
+    "imgurl": "https://yayc.tfnlab.com/images/4242.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4243": {
+    "imgurl": "https://yayc.tfnlab.com/images/4243.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4244": {
+    "imgurl": "https://yayc.tfnlab.com/images/4244.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4245": {
+    "imgurl": "https://yayc.tfnlab.com/images/4245.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4246": {
+    "imgurl": "https://yayc.tfnlab.com/images/4246.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "4247": {
+    "imgurl": "https://yayc.tfnlab.com/images/4247.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4248": {
+    "imgurl": "https://yayc.tfnlab.com/images/4248.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4249": {
+    "imgurl": "https://yayc.tfnlab.com/images/4249.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "4250": {
+    "imgurl": "https://yayc.tfnlab.com/images/4250.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4251": {
+    "imgurl": "https://yayc.tfnlab.com/images/4251.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4252": {
+    "imgurl": "https://yayc.tfnlab.com/images/4252.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4253": {
+    "imgurl": "https://yayc.tfnlab.com/images/4253.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4254": {
+    "imgurl": "https://yayc.tfnlab.com/images/4254.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4255": {
+    "imgurl": "https://yayc.tfnlab.com/images/4255.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4256": {
+    "imgurl": "https://yayc.tfnlab.com/images/4256.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4257": {
+    "imgurl": "https://yayc.tfnlab.com/images/4257.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4258": {
+    "imgurl": "https://yayc.tfnlab.com/images/4258.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4259": {
+    "imgurl": "https://yayc.tfnlab.com/images/4259.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4260": {
+    "imgurl": "https://yayc.tfnlab.com/images/4260.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4261": {
+    "imgurl": "https://yayc.tfnlab.com/images/4261.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4262": {
+    "imgurl": "https://yayc.tfnlab.com/images/4262.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4263": {
+    "imgurl": "https://yayc.tfnlab.com/images/4263.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4264": {
+    "imgurl": "https://yayc.tfnlab.com/images/4264.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4265": {
+    "imgurl": "https://yayc.tfnlab.com/images/4265.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4266": {
+    "imgurl": "https://yayc.tfnlab.com/images/4266.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4267": {
+    "imgurl": "https://yayc.tfnlab.com/images/4267.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4268": {
+    "imgurl": "https://yayc.tfnlab.com/images/4268.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4269": {
+    "imgurl": "https://yayc.tfnlab.com/images/4269.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4270": {
+    "imgurl": "https://yayc.tfnlab.com/images/4270.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4271": {
+    "imgurl": "https://yayc.tfnlab.com/images/4271.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4272": {
+    "imgurl": "https://yayc.tfnlab.com/images/4272.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4273": {
+    "imgurl": "https://yayc.tfnlab.com/images/4273.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4274": {
+    "imgurl": "https://yayc.tfnlab.com/images/4274.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4275": {
+    "imgurl": "https://yayc.tfnlab.com/images/4275.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4276": {
+    "imgurl": "https://yayc.tfnlab.com/images/4276.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4277": {
+    "imgurl": "https://yayc.tfnlab.com/images/4277.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4278": {
+    "imgurl": "https://yayc.tfnlab.com/images/4278.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4279": {
+    "imgurl": "https://yayc.tfnlab.com/images/4279.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4280": {
+    "imgurl": "https://yayc.tfnlab.com/images/4280.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4281": {
+    "imgurl": "https://yayc.tfnlab.com/images/4281.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4282": {
+    "imgurl": "https://yayc.tfnlab.com/images/4282.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4283": {
+    "imgurl": "https://yayc.tfnlab.com/images/4283.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4284": {
+    "imgurl": "https://yayc.tfnlab.com/images/4284.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4285": {
+    "imgurl": "https://yayc.tfnlab.com/images/4285.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4286": {
+    "imgurl": "https://yayc.tfnlab.com/images/4286.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4287": {
+    "imgurl": "https://yayc.tfnlab.com/images/4287.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4288": {
+    "imgurl": "https://yayc.tfnlab.com/images/4288.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4289": {
+    "imgurl": "https://yayc.tfnlab.com/images/4289.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4290": {
+    "imgurl": "https://yayc.tfnlab.com/images/4290.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4291": {
+    "imgurl": "https://yayc.tfnlab.com/images/4291.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4292": {
+    "imgurl": "https://yayc.tfnlab.com/images/4292.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4293": {
+    "imgurl": "https://yayc.tfnlab.com/images/4293.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "4294": {
+    "imgurl": "https://yayc.tfnlab.com/images/4294.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4295": {
+    "imgurl": "https://yayc.tfnlab.com/images/4295.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4296": {
+    "imgurl": "https://yayc.tfnlab.com/images/4296.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4297": {
+    "imgurl": "https://yayc.tfnlab.com/images/4297.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4298": {
+    "imgurl": "https://yayc.tfnlab.com/images/4298.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4299": {
+    "imgurl": "https://yayc.tfnlab.com/images/4299.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4300": {
+    "imgurl": "https://yayc.tfnlab.com/images/4300.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4301": {
+    "imgurl": "https://yayc.tfnlab.com/images/4301.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4302": {
+    "imgurl": "https://yayc.tfnlab.com/images/4302.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4303": {
+    "imgurl": "https://yayc.tfnlab.com/images/4303.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4304": {
+    "imgurl": "https://yayc.tfnlab.com/images/4304.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4305": {
+    "imgurl": "https://yayc.tfnlab.com/images/4305.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4306": {
+    "imgurl": "https://yayc.tfnlab.com/images/4306.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4307": {
+    "imgurl": "https://yayc.tfnlab.com/images/4307.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4308": {
+    "imgurl": "https://yayc.tfnlab.com/images/4308.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4309": {
+    "imgurl": "https://yayc.tfnlab.com/images/4309.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4310": {
+    "imgurl": "https://yayc.tfnlab.com/images/4310.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4311": {
+    "imgurl": "https://yayc.tfnlab.com/images/4311.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4312": {
+    "imgurl": "https://yayc.tfnlab.com/images/4312.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4313": {
+    "imgurl": "https://yayc.tfnlab.com/images/4313.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4314": {
+    "imgurl": "https://yayc.tfnlab.com/images/4314.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4315": {
+    "imgurl": "https://yayc.tfnlab.com/images/4315.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4316": {
+    "imgurl": "https://yayc.tfnlab.com/images/4316.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "4317": {
+    "imgurl": "https://yayc.tfnlab.com/images/4317.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4318": {
+    "imgurl": "https://yayc.tfnlab.com/images/4318.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4319": {
+    "imgurl": "https://yayc.tfnlab.com/images/4319.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4320": {
+    "imgurl": "https://yayc.tfnlab.com/images/4320.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "4321": {
+    "imgurl": "https://yayc.tfnlab.com/images/4321.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4322": {
+    "imgurl": "https://yayc.tfnlab.com/images/4322.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4323": {
+    "imgurl": "https://yayc.tfnlab.com/images/4323.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4324": {
+    "imgurl": "https://yayc.tfnlab.com/images/4324.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4325": {
+    "imgurl": "https://yayc.tfnlab.com/images/4325.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4326": {
+    "imgurl": "https://yayc.tfnlab.com/images/4326.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4327": {
+    "imgurl": "https://yayc.tfnlab.com/images/4327.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4328": {
+    "imgurl": "https://yayc.tfnlab.com/images/4328.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4329": {
+    "imgurl": "https://yayc.tfnlab.com/images/4329.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "4330": {
+    "imgurl": "https://yayc.tfnlab.com/images/4330.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "4331": {
+    "imgurl": "https://yayc.tfnlab.com/images/4331.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4332": {
+    "imgurl": "https://yayc.tfnlab.com/images/4332.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4333": {
+    "imgurl": "https://yayc.tfnlab.com/images/4333.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4334": {
+    "imgurl": "https://yayc.tfnlab.com/images/4334.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4335": {
+    "imgurl": "https://yayc.tfnlab.com/images/4335.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4336": {
+    "imgurl": "https://yayc.tfnlab.com/images/4336.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "4337": {
+    "imgurl": "https://yayc.tfnlab.com/images/4337.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4338": {
+    "imgurl": "https://yayc.tfnlab.com/images/4338.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4339": {
+    "imgurl": "https://yayc.tfnlab.com/images/4339.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4340": {
+    "imgurl": "https://yayc.tfnlab.com/images/4340.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4341": {
+    "imgurl": "https://yayc.tfnlab.com/images/4341.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4342": {
+    "imgurl": "https://yayc.tfnlab.com/images/4342.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4343": {
+    "imgurl": "https://yayc.tfnlab.com/images/4343.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "4344": {
+    "imgurl": "https://yayc.tfnlab.com/images/4344.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4345": {
+    "imgurl": "https://yayc.tfnlab.com/images/4345.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4346": {
+    "imgurl": "https://yayc.tfnlab.com/images/4346.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4347": {
+    "imgurl": "https://yayc.tfnlab.com/images/4347.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4348": {
+    "imgurl": "https://yayc.tfnlab.com/images/4348.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4349": {
+    "imgurl": "https://yayc.tfnlab.com/images/4349.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4350": {
+    "imgurl": "https://yayc.tfnlab.com/images/4350.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4351": {
+    "imgurl": "https://yayc.tfnlab.com/images/4351.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4352": {
+    "imgurl": "https://yayc.tfnlab.com/images/4352.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4353": {
+    "imgurl": "https://yayc.tfnlab.com/images/4353.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4354": {
+    "imgurl": "https://yayc.tfnlab.com/images/4354.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "4355": {
+    "imgurl": "https://yayc.tfnlab.com/images/4355.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4356": {
+    "imgurl": "https://yayc.tfnlab.com/images/4356.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4357": {
+    "imgurl": "https://yayc.tfnlab.com/images/4357.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4358": {
+    "imgurl": "https://yayc.tfnlab.com/images/4358.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4359": {
+    "imgurl": "https://yayc.tfnlab.com/images/4359.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4360": {
+    "imgurl": "https://yayc.tfnlab.com/images/4360.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4361": {
+    "imgurl": "https://yayc.tfnlab.com/images/4361.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4362": {
+    "imgurl": "https://yayc.tfnlab.com/images/4362.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4363": {
+    "imgurl": "https://yayc.tfnlab.com/images/4363.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4364": {
+    "imgurl": "https://yayc.tfnlab.com/images/4364.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4365": {
+    "imgurl": "https://yayc.tfnlab.com/images/4365.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4366": {
+    "imgurl": "https://yayc.tfnlab.com/images/4366.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4367": {
+    "imgurl": "https://yayc.tfnlab.com/images/4367.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4368": {
+    "imgurl": "https://yayc.tfnlab.com/images/4368.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4369": {
+    "imgurl": "https://yayc.tfnlab.com/images/4369.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4370": {
+    "imgurl": "https://yayc.tfnlab.com/images/4370.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4371": {
+    "imgurl": "https://yayc.tfnlab.com/images/4371.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4372": {
+    "imgurl": "https://yayc.tfnlab.com/images/4372.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4373": {
+    "imgurl": "https://yayc.tfnlab.com/images/4373.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4374": {
+    "imgurl": "https://yayc.tfnlab.com/images/4374.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4375": {
+    "imgurl": "https://yayc.tfnlab.com/images/4375.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "4376": {
+    "imgurl": "https://yayc.tfnlab.com/images/4376.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4377": {
+    "imgurl": "https://yayc.tfnlab.com/images/4377.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4378": {
+    "imgurl": "https://yayc.tfnlab.com/images/4378.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "4379": {
+    "imgurl": "https://yayc.tfnlab.com/images/4379.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4380": {
+    "imgurl": "https://yayc.tfnlab.com/images/4380.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4381": {
+    "imgurl": "https://yayc.tfnlab.com/images/4381.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "4382": {
+    "imgurl": "https://yayc.tfnlab.com/images/4382.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4383": {
+    "imgurl": "https://yayc.tfnlab.com/images/4383.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4384": {
+    "imgurl": "https://yayc.tfnlab.com/images/4384.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4385": {
+    "imgurl": "https://yayc.tfnlab.com/images/4385.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4386": {
+    "imgurl": "https://yayc.tfnlab.com/images/4386.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4387": {
+    "imgurl": "https://yayc.tfnlab.com/images/4387.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "4388": {
+    "imgurl": "https://yayc.tfnlab.com/images/4388.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4389": {
+    "imgurl": "https://yayc.tfnlab.com/images/4389.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4390": {
+    "imgurl": "https://yayc.tfnlab.com/images/4390.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4391": {
+    "imgurl": "https://yayc.tfnlab.com/images/4391.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4392": {
+    "imgurl": "https://yayc.tfnlab.com/images/4392.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4393": {
+    "imgurl": "https://yayc.tfnlab.com/images/4393.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4394": {
+    "imgurl": "https://yayc.tfnlab.com/images/4394.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "4395": {
+    "imgurl": "https://yayc.tfnlab.com/images/4395.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4396": {
+    "imgurl": "https://yayc.tfnlab.com/images/4396.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4397": {
+    "imgurl": "https://yayc.tfnlab.com/images/4397.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4398": {
+    "imgurl": "https://yayc.tfnlab.com/images/4398.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4399": {
+    "imgurl": "https://yayc.tfnlab.com/images/4399.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4400": {
+    "imgurl": "https://yayc.tfnlab.com/images/4400.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4401": {
+    "imgurl": "https://yayc.tfnlab.com/images/4401.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4402": {
+    "imgurl": "https://yayc.tfnlab.com/images/4402.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4403": {
+    "imgurl": "https://yayc.tfnlab.com/images/4403.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4404": {
+    "imgurl": "https://yayc.tfnlab.com/images/4404.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4405": {
+    "imgurl": "https://yayc.tfnlab.com/images/4405.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4406": {
+    "imgurl": "https://yayc.tfnlab.com/images/4406.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4407": {
+    "imgurl": "https://yayc.tfnlab.com/images/4407.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4408": {
+    "imgurl": "https://yayc.tfnlab.com/images/4408.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4409": {
+    "imgurl": "https://yayc.tfnlab.com/images/4409.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4410": {
+    "imgurl": "https://yayc.tfnlab.com/images/4410.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4411": {
+    "imgurl": "https://yayc.tfnlab.com/images/4411.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4412": {
+    "imgurl": "https://yayc.tfnlab.com/images/4412.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "4413": {
+    "imgurl": "https://yayc.tfnlab.com/images/4413.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4414": {
+    "imgurl": "https://yayc.tfnlab.com/images/4414.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4415": {
+    "imgurl": "https://yayc.tfnlab.com/images/4415.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4416": {
+    "imgurl": "https://yayc.tfnlab.com/images/4416.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4417": {
+    "imgurl": "https://yayc.tfnlab.com/images/4417.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4418": {
+    "imgurl": "https://yayc.tfnlab.com/images/4418.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4419": {
+    "imgurl": "https://yayc.tfnlab.com/images/4419.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4420": {
+    "imgurl": "https://yayc.tfnlab.com/images/4420.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4421": {
+    "imgurl": "https://yayc.tfnlab.com/images/4421.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4422": {
+    "imgurl": "https://yayc.tfnlab.com/images/4422.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4423": {
+    "imgurl": "https://yayc.tfnlab.com/images/4423.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4424": {
+    "imgurl": "https://yayc.tfnlab.com/images/4424.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4425": {
+    "imgurl": "https://yayc.tfnlab.com/images/4425.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4426": {
+    "imgurl": "https://yayc.tfnlab.com/images/4426.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4427": {
+    "imgurl": "https://yayc.tfnlab.com/images/4427.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "4428": {
+    "imgurl": "https://yayc.tfnlab.com/images/4428.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4429": {
+    "imgurl": "https://yayc.tfnlab.com/images/4429.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4430": {
+    "imgurl": "https://yayc.tfnlab.com/images/4430.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4431": {
+    "imgurl": "https://yayc.tfnlab.com/images/4431.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4432": {
+    "imgurl": "https://yayc.tfnlab.com/images/4432.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4433": {
+    "imgurl": "https://yayc.tfnlab.com/images/4433.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4434": {
+    "imgurl": "https://yayc.tfnlab.com/images/4434.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4435": {
+    "imgurl": "https://yayc.tfnlab.com/images/4435.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4436": {
+    "imgurl": "https://yayc.tfnlab.com/images/4436.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4437": {
+    "imgurl": "https://yayc.tfnlab.com/images/4437.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4438": {
+    "imgurl": "https://yayc.tfnlab.com/images/4438.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4439": {
+    "imgurl": "https://yayc.tfnlab.com/images/4439.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4440": {
+    "imgurl": "https://yayc.tfnlab.com/images/4440.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4441": {
+    "imgurl": "https://yayc.tfnlab.com/images/4441.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4442": {
+    "imgurl": "https://yayc.tfnlab.com/images/4442.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4443": {
+    "imgurl": "https://yayc.tfnlab.com/images/4443.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4444": {
+    "imgurl": "https://yayc.tfnlab.com/images/4444.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "4445": {
+    "imgurl": "https://yayc.tfnlab.com/images/4445.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "4446": {
+    "imgurl": "https://yayc.tfnlab.com/images/4446.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4447": {
+    "imgurl": "https://yayc.tfnlab.com/images/4447.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4448": {
+    "imgurl": "https://yayc.tfnlab.com/images/4448.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4449": {
+    "imgurl": "https://yayc.tfnlab.com/images/4449.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4450": {
+    "imgurl": "https://yayc.tfnlab.com/images/4450.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4451": {
+    "imgurl": "https://yayc.tfnlab.com/images/4451.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "4452": {
+    "imgurl": "https://yayc.tfnlab.com/images/4452.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4453": {
+    "imgurl": "https://yayc.tfnlab.com/images/4453.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4454": {
+    "imgurl": "https://yayc.tfnlab.com/images/4454.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4455": {
+    "imgurl": "https://yayc.tfnlab.com/images/4455.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4456": {
+    "imgurl": "https://yayc.tfnlab.com/images/4456.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "4457": {
+    "imgurl": "https://yayc.tfnlab.com/images/4457.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4458": {
+    "imgurl": "https://yayc.tfnlab.com/images/4458.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4459": {
+    "imgurl": "https://yayc.tfnlab.com/images/4459.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4460": {
+    "imgurl": "https://yayc.tfnlab.com/images/4460.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4461": {
+    "imgurl": "https://yayc.tfnlab.com/images/4461.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "4462": {
+    "imgurl": "https://yayc.tfnlab.com/images/4462.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4463": {
+    "imgurl": "https://yayc.tfnlab.com/images/4463.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4464": {
+    "imgurl": "https://yayc.tfnlab.com/images/4464.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4465": {
+    "imgurl": "https://yayc.tfnlab.com/images/4465.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4466": {
+    "imgurl": "https://yayc.tfnlab.com/images/4466.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4467": {
+    "imgurl": "https://yayc.tfnlab.com/images/4467.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4468": {
+    "imgurl": "https://yayc.tfnlab.com/images/4468.png",
+    "fur": "Gold",
+    "clothes": "Tie Dye",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4469": {
+    "imgurl": "https://yayc.tfnlab.com/images/4469.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4470": {
+    "imgurl": "https://yayc.tfnlab.com/images/4470.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4471": {
+    "imgurl": "https://yayc.tfnlab.com/images/4471.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4472": {
+    "imgurl": "https://yayc.tfnlab.com/images/4472.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4473": {
+    "imgurl": "https://yayc.tfnlab.com/images/4473.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4474": {
+    "imgurl": "https://yayc.tfnlab.com/images/4474.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4475": {
+    "imgurl": "https://yayc.tfnlab.com/images/4475.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4476": {
+    "imgurl": "https://yayc.tfnlab.com/images/4476.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4477": {
+    "imgurl": "https://yayc.tfnlab.com/images/4477.png",
+    "fur": "Blue",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4478": {
+    "imgurl": "https://yayc.tfnlab.com/images/4478.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Diamond Stud"
+  },
+  "4479": {
+    "imgurl": "https://yayc.tfnlab.com/images/4479.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4480": {
+    "imgurl": "https://yayc.tfnlab.com/images/4480.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4481": {
+    "imgurl": "https://yayc.tfnlab.com/images/4481.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4482": {
+    "imgurl": "https://yayc.tfnlab.com/images/4482.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored",
+    "earring": "Diamond Stud"
+  },
+  "4483": {
+    "imgurl": "https://yayc.tfnlab.com/images/4483.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "4484": {
+    "imgurl": "https://yayc.tfnlab.com/images/4484.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4485": {
+    "imgurl": "https://yayc.tfnlab.com/images/4485.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4486": {
+    "imgurl": "https://yayc.tfnlab.com/images/4486.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4487": {
+    "imgurl": "https://yayc.tfnlab.com/images/4487.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4488": {
+    "imgurl": "https://yayc.tfnlab.com/images/4488.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4489": {
+    "imgurl": "https://yayc.tfnlab.com/images/4489.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4490": {
+    "imgurl": "https://yayc.tfnlab.com/images/4490.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4491": {
+    "imgurl": "https://yayc.tfnlab.com/images/4491.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4492": {
+    "imgurl": "https://yayc.tfnlab.com/images/4492.png",
+    "fur": "Gold",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4493": {
+    "imgurl": "https://yayc.tfnlab.com/images/4493.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4494": {
+    "imgurl": "https://yayc.tfnlab.com/images/4494.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "4495": {
+    "imgurl": "https://yayc.tfnlab.com/images/4495.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4496": {
+    "imgurl": "https://yayc.tfnlab.com/images/4496.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Spinner Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4497": {
+    "imgurl": "https://yayc.tfnlab.com/images/4497.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4498": {
+    "imgurl": "https://yayc.tfnlab.com/images/4498.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4499": {
+    "imgurl": "https://yayc.tfnlab.com/images/4499.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "4500": {
+    "imgurl": "https://yayc.tfnlab.com/images/4500.png",
+    "fur": "Zombie",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4501": {
+    "imgurl": "https://yayc.tfnlab.com/images/4501.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4502": {
+    "imgurl": "https://yayc.tfnlab.com/images/4502.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4503": {
+    "imgurl": "https://yayc.tfnlab.com/images/4503.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4504": {
+    "imgurl": "https://yayc.tfnlab.com/images/4504.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "None",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "4505": {
+    "imgurl": "https://yayc.tfnlab.com/images/4505.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "None",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4506": {
+    "imgurl": "https://yayc.tfnlab.com/images/4506.png",
+    "fur": "Blue",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4507": {
+    "imgurl": "https://yayc.tfnlab.com/images/4507.png",
+    "fur": "Brown",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4508": {
+    "imgurl": "https://yayc.tfnlab.com/images/4508.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4509": {
+    "imgurl": "https://yayc.tfnlab.com/images/4509.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4510": {
+    "imgurl": "https://yayc.tfnlab.com/images/4510.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4511": {
+    "imgurl": "https://yayc.tfnlab.com/images/4511.png",
+    "fur": "Blue",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4512": {
+    "imgurl": "https://yayc.tfnlab.com/images/4512.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4513": {
+    "imgurl": "https://yayc.tfnlab.com/images/4513.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4514": {
+    "imgurl": "https://yayc.tfnlab.com/images/4514.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4515": {
+    "imgurl": "https://yayc.tfnlab.com/images/4515.png",
+    "fur": "Blue",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
+  },
+  "4516": {
+    "imgurl": "https://yayc.tfnlab.com/images/4516.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Closed",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Cross"
+  },
+  "4517": {
+    "imgurl": "https://yayc.tfnlab.com/images/4517.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4518": {
+    "imgurl": "https://yayc.tfnlab.com/images/4518.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4519": {
+    "imgurl": "https://yayc.tfnlab.com/images/4519.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Grin",
+    "earring": "None"
+  },
+  "4520": {
+    "imgurl": "https://yayc.tfnlab.com/images/4520.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4521": {
+    "imgurl": "https://yayc.tfnlab.com/images/4521.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4522": {
+    "imgurl": "https://yayc.tfnlab.com/images/4522.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4523": {
+    "imgurl": "https://yayc.tfnlab.com/images/4523.png",
+    "fur": "Brown",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4524": {
+    "imgurl": "https://yayc.tfnlab.com/images/4524.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4525": {
+    "imgurl": "https://yayc.tfnlab.com/images/4525.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bloodshot",
+    "hat": "Commie Hat",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4526": {
+    "imgurl": "https://yayc.tfnlab.com/images/4526.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4527": {
+    "imgurl": "https://yayc.tfnlab.com/images/4527.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4528": {
+    "imgurl": "https://yayc.tfnlab.com/images/4528.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Closed",
+    "hat": "King's Crown",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4529": {
+    "imgurl": "https://yayc.tfnlab.com/images/4529.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot",
+    "hat": "Party Hat",
+    "mouth": "Jovial",
+    "earring": "Cross"
+  },
+  "4530": {
+    "imgurl": "https://yayc.tfnlab.com/images/4530.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4531": {
+    "imgurl": "https://yayc.tfnlab.com/images/4531.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4532": {
+    "imgurl": "https://yayc.tfnlab.com/images/4532.png",
+    "fur": "Brown",
+    "clothes": "Tie Dye",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4533": {
+    "imgurl": "https://yayc.tfnlab.com/images/4533.png",
+    "fur": "Gold",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4534": {
+    "imgurl": "https://yayc.tfnlab.com/images/4534.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "Diamond Stud"
+  },
+  "4535": {
+    "imgurl": "https://yayc.tfnlab.com/images/4535.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "King's Crown",
+    "mouth": "Jovial",
+    "earring": "None"
+  },
+  "4536": {
+    "imgurl": "https://yayc.tfnlab.com/images/4536.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Grin",
+    "earring": "Cross"
+  },
+  "4537": {
+    "imgurl": "https://yayc.tfnlab.com/images/4537.png",
+    "fur": "Brown",
+    "clothes": "None",
+    "eyes": "Bored Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4538": {
+    "imgurl": "https://yayc.tfnlab.com/images/4538.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Bored Pizza",
+    "earring": "None"
+  },
+  "4539": {
+    "imgurl": "https://yayc.tfnlab.com/images/4539.png",
+    "fur": "Blue",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Diamond Stud"
+  },
+  "4540": {
+    "imgurl": "https://yayc.tfnlab.com/images/4540.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4541": {
+    "imgurl": "https://yayc.tfnlab.com/images/4541.png",
+    "fur": "Gold",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Rage",
+    "earring": "None"
+  },
+  "4542": {
+    "imgurl": "https://yayc.tfnlab.com/images/4542.png",
+    "fur": "Blue",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "King's Crown",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4543": {
+    "imgurl": "https://yayc.tfnlab.com/images/4543.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4544": {
+    "imgurl": "https://yayc.tfnlab.com/images/4544.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Bored",
+    "earring": "Cross"
+  },
+  "4545": {
+    "imgurl": "https://yayc.tfnlab.com/images/4545.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4546": {
+    "imgurl": "https://yayc.tfnlab.com/images/4546.png",
+    "fur": "Blue",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Party Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Diamond Stud"
+  },
+  "4547": {
+    "imgurl": "https://yayc.tfnlab.com/images/4547.png",
+    "fur": "Zombie",
+    "clothes": "Hawaiian",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "King's Crown",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "4548": {
+    "imgurl": "https://yayc.tfnlab.com/images/4548.png",
+    "fur": "Zombie",
+    "clothes": "Lab coat",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Spinner Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4549": {
+    "imgurl": "https://yayc.tfnlab.com/images/4549.png",
+    "fur": "Zombie",
+    "clothes": "Wool_Turtleneck",
+    "eyes": "Bored",
+    "hat": "None",
+    "mouth": "Dumbfounded",
+    "earring": "None"
+  },
+  "4550": {
+    "imgurl": "https://yayc.tfnlab.com/images/4550.png",
+    "fur": "Gold",
+    "clothes": "Lab coat",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4551": {
+    "imgurl": "https://yayc.tfnlab.com/images/4551.png",
+    "fur": "Gold",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bloodshot Yellow Lazer",
+    "hat": "Commie Hat",
+    "mouth": "Gold Grin",
+    "earring": "None"
+  },
+  "4552": {
+    "imgurl": "https://yayc.tfnlab.com/images/4552.png",
+    "fur": "Brown",
+    "clothes": "Hawaiian",
+    "eyes": "Bloodshot",
+    "hat": "Bowler",
+    "mouth": "Bored",
+    "earring": "None"
+  },
+  "4553": {
+    "imgurl": "https://yayc.tfnlab.com/images/4553.png",
+    "fur": "Gold",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "None",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "4554": {
+    "imgurl": "https://yayc.tfnlab.com/images/4554.png",
+    "fur": "Gold",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bloodshot",
+    "hat": "Spinner Hat",
+    "mouth": "Dumbfounded",
+    "earring": "Cross"
+  },
+  "4555": {
+    "imgurl": "https://yayc.tfnlab.com/images/4555.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Bored Pizza",
+    "earring": "Cross"
+  },
+  "4556": {
+    "imgurl": "https://yayc.tfnlab.com/images/4556.png",
+    "fur": "Brown",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Cross"
+  },
+  "4557": {
+    "imgurl": "https://yayc.tfnlab.com/images/4557.png",
+    "fur": "Zombie",
+    "clothes": "Sailor Shirt",
+    "eyes": "Bored Blue Lazer",
+    "hat": "Bowler",
+    "mouth": "Grin",
+    "earring": "Diamond Stud"
+  },
+  "4558": {
+    "imgurl": "https://yayc.tfnlab.com/images/4558.png",
+    "fur": "Brown",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Bloodshot Blue Lazer",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "4559": {
+    "imgurl": "https://yayc.tfnlab.com/images/4559.png",
+    "fur": "Brown",
+    "clothes": "Lab coat",
+    "eyes": "Bored",
+    "hat": "Party Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "Diamond Stud"
+  },
+  "4560": {
+    "imgurl": "https://yayc.tfnlab.com/images/4560.png",
+    "fur": "Blue",
+    "clothes": "None",
+    "eyes": "Closed",
+    "hat": "Party Hat",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4561": {
+    "imgurl": "https://yayc.tfnlab.com/images/4561.png",
+    "fur": "Zombie",
+    "clothes": "Prison Jumpsuit",
+    "eyes": "Closed",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Cross"
+  },
+  "4562": {
+    "imgurl": "https://yayc.tfnlab.com/images/4562.png",
+    "fur": "Zombie",
+    "clothes": "Navy Striped Tee",
+    "eyes": "Closed",
+    "hat": "Fisherman's_Hat",
+    "mouth": "Phoneme Vuh",
+    "earring": "None"
+  },
+  "4563": {
+    "imgurl": "https://yayc.tfnlab.com/images/4563.png",
+    "fur": "Zombie",
+    "clothes": "None",
+    "eyes": "Bored Yellow Lazer",
+    "hat": "Bowler",
+    "mouth": "Rage",
+    "earring": "Diamond Stud"
   }
 }
